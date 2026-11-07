@@ -1,6 +1,6 @@
 # ¿Quién se va y qué cambia? Salidas de partido en la derecha chilena y el voto en la Cámara de Diputadas y Diputados, 2014–2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24026991.svg)](https://doi.org/10.5281/zenodo.24026991)
 
 Código y datos del **Documento de trabajo N.° 5** de Lucas Bottinelli Baltra. El estudio pregunta quiénes renuncian a un partido de derecha durante su mandato en la Cámara de Diputadas y Diputados de Chile y qué cambia en su voto. Reconstruye el universo de salidas entre 2014 y 2026 con fecha de anuncio público y fuente verificable, estima la posición de cada diputado en cada trimestre a partir de las votaciones nominales de Sala, y combina un modelo de riesgo de salida, un estudio de eventos con placebos y pruebas de proceso caso a caso.
 
@@ -57,7 +57,7 @@ Paquetes: `dplyr`, `tidyr`, `readr`, `purrr`, `stringr`, `ggplot2`, `survival`, 
 
 Bottinelli Baltra, L. (2026). *¿Quién se va y qué cambia? Salidas de partido en la derecha chilena y el voto en la Cámara de Diputadas y Diputados, 2014–2026* (Documento de trabajo N.° 5). https://doi.org/10.5281/zenodo.24026531
 
-Código y datos: Bottinelli Baltra, L. (2026). *Cambio-Partido-Derecha* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+Código y datos: Bottinelli Baltra, L. (2026). *Cambio-Partido-Derecha* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24026991
 
 ## Licencias
 
