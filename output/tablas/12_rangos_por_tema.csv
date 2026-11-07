@@ -1,0 +1,9 @@
+grupo,area,n,percentil_medio,p_derecha,p_izquierda
+Hacia la derecha radical,economia,11,0.6228000099348381,0.08054,0.92134
+Hacia la derecha radical,orden,10,0.6246780444316751,0.08776,0.91288
+Hacia la derecha radical,todas,12,0.6492288265994948,0.03658,0.96387
+Hacia la derecha radical,valorico,11,0.5386260050129779,0.33038,0.66751
+Otras salidas de la derecha convencional,economia,7,0.40536490458252267,0.80279,0.19833
+Otras salidas de la derecha convencional,orden,6,0.38537138993528447,0.83074,0.1683
+Otras salidas de la derecha convencional,todas,7,0.4450961419050379,0.68985,0.31312
+Otras salidas de la derecha convencional,valorico,5,0.5769542830394757,0.28145,0.71859

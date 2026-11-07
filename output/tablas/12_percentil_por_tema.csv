@@ -1,0 +1,101 @@
+id,nombre,grupo,periodo,area,percentil,n_votos
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,2014-2018,todas,NA,1633
+857,José Antonio Kast Rist,Hacia la derecha radical,2014-2018,todas,1,1633
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,2014-2018,todas,1,1633
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,2014-2018,todas,0.07142857142857142,1633
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,2014-2018,todas,NA,1633
+935,José Manuel Edwards Silva,Hacia la derecha radical,2014-2018,todas,1,1633
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,2014-2018,todas,0.0625,1633
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,2014-2018,orden,NA,95
+857,José Antonio Kast Rist,Hacia la derecha radical,2014-2018,orden,0.3448275862068966,95
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,2014-2018,orden,1,95
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,2014-2018,orden,0.14285714285714285,95
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,2014-2018,orden,NA,95
+935,José Manuel Edwards Silva,Hacia la derecha radical,2014-2018,orden,0.7142857142857143,95
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,2014-2018,orden,NA,95
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,2014-2018,valorico,NA,46
+857,José Antonio Kast Rist,Hacia la derecha radical,2014-2018,valorico,0.4482758620689655,46
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,2014-2018,valorico,NA,46
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,2014-2018,valorico,0.3076923076923077,46
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,2014-2018,valorico,NA,46
+935,José Manuel Edwards Silva,Hacia la derecha radical,2014-2018,valorico,0.23076923076923078,46
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,2014-2018,valorico,NA,46
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,2014-2018,economia,NA,541
+857,José Antonio Kast Rist,Hacia la derecha radical,2014-2018,economia,0.7931034482758621,541
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,2014-2018,economia,0.3333333333333333,541
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,2014-2018,economia,0.07142857142857142,541
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,2014-2018,economia,NA,541
+935,José Manuel Edwards Silva,Hacia la derecha radical,2014-2018,economia,1,541
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,2014-2018,economia,0.06666666666666667,541
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,2018-2022,todas,0.1,2293
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,2018-2022,todas,0.7058823529411765,2293
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,2018-2022,todas,0.5862068965517241,2293
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,2018-2022,todas,0.1724137931034483,2293
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,2018-2022,todas,0.7647058823529411,2293
+1069,Leonidas Romero Sáez,Hacia la derecha radical,2018-2022,todas,0.06451612903225806,2293
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,2018-2022,todas,0.5172413793103449,2293
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,2018-2022,todas,0.3235294117647059,2293
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,2018-2022,orden,NA,236
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,2018-2022,orden,0.6176470588235294,236
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,2018-2022,orden,0.06896551724137931,236
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,2018-2022,orden,0.10344827586206896,236
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,2018-2022,orden,0.9117647058823529,236
+1069,Leonidas Romero Sáez,Hacia la derecha radical,2018-2022,orden,0.06451612903225806,236
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,2018-2022,orden,0.3793103448275862,236
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,2018-2022,orden,0.7941176470588235,236
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,2018-2022,valorico,NA,43
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,2018-2022,valorico,0.8529411764705882,43
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,2018-2022,valorico,0.8620689655172413,43
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,2018-2022,valorico,0.13793103448275862,43
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,2018-2022,valorico,0.4117647058823529,43
+1069,Leonidas Romero Sáez,Hacia la derecha radical,2018-2022,valorico,0.6129032258064516,43
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,2018-2022,valorico,0.7241379310344828,43
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,2018-2022,valorico,0.5294117647058824,43
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,2018-2022,economia,NA,923
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,2018-2022,economia,0.6764705882352942,923
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,2018-2022,economia,0.6896551724137931,923
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,2018-2022,economia,0.4827586206896552,923
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,2018-2022,economia,0.35294117647058826,923
+1069,Leonidas Romero Sáez,Hacia la derecha radical,2018-2022,economia,0.03225806451612903,923
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,2018-2022,economia,0.5172413793103449,923
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,2018-2022,economia,0.3235294117647059,923
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,2022-2026,todas,0.85,3136
+1022,Sofía Cid Versalovic,Hacia la derecha radical,2022-2026,todas,0.7777777777777778,3136
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,2022-2026,todas,0.9473684210526315,3136
+1050,Miguel Mellado Suazo,Hacia la derecha radical,2022-2026,todas,0.6470588235294118,3136
+1054,Francesca Muñoz González,Hacia la derecha radical,2022-2026,todas,0.3684210526315789,3136
+1082,Cristóbal Urruticoechea Ríos,Salidas de la derecha radical,2022-2026,todas,0.1111111111111111,3136
+1094,Cristián Labbé Martínez,Hacia la derecha radical,2022-2026,todas,0.9473684210526315,3136
+1119,Sara Concha Smith,Salidas de la derecha radical,2022-2026,todas,NA,3136
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de la derecha radical,2022-2026,todas,0.7777777777777778,3136
+1152,Gloria Naveillan Arriagada,Salidas de la derecha radical,2022-2026,todas,0.1,3136
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,2022-2026,orden,1,334
+1022,Sofía Cid Versalovic,Hacia la derecha radical,2022-2026,orden,0.2222222222222222,334
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,2022-2026,orden,0.8947368421052632,334
+1050,Miguel Mellado Suazo,Hacia la derecha radical,2022-2026,orden,0.35294117647058826,334
+1054,Francesca Muñoz González,Hacia la derecha radical,2022-2026,orden,NA,334
+1082,Cristóbal Urruticoechea Ríos,Salidas de la derecha radical,2022-2026,orden,0.2222222222222222,334
+1094,Cristián Labbé Martínez,Hacia la derecha radical,2022-2026,orden,0.9473684210526315,334
+1119,Sara Concha Smith,Salidas de la derecha radical,2022-2026,orden,NA,334
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de la derecha radical,2022-2026,orden,0.1111111111111111,334
+1152,Gloria Naveillan Arriagada,Salidas de la derecha radical,2022-2026,orden,NA,334
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,2022-2026,valorico,0.85,54
+1022,Sofía Cid Versalovic,Hacia la derecha radical,2022-2026,valorico,0.1111111111111111,54
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,2022-2026,valorico,0.47368421052631576,54
+1050,Miguel Mellado Suazo,Hacia la derecha radical,2022-2026,valorico,0.9411764705882353,54
+1054,Francesca Muñoz González,Hacia la derecha radical,2022-2026,valorico,1,54
+1082,Cristóbal Urruticoechea Ríos,Salidas de la derecha radical,2022-2026,valorico,0.1111111111111111,54
+1094,Cristián Labbé Martínez,Hacia la derecha radical,2022-2026,valorico,0.3157894736842105,54
+1119,Sara Concha Smith,Salidas de la derecha radical,2022-2026,valorico,NA,54
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de la derecha radical,2022-2026,valorico,0.4444444444444444,54
+1152,Gloria Naveillan Arriagada,Salidas de la derecha radical,2022-2026,valorico,0.1,54
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,2022-2026,economia,0.85,1852
+1022,Sofía Cid Versalovic,Hacia la derecha radical,2022-2026,economia,0.8333333333333334,1852
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,2022-2026,economia,0.8947368421052632,1852
+1050,Miguel Mellado Suazo,Hacia la derecha radical,2022-2026,economia,0.8235294117647058,1852
+1054,Francesca Muñoz González,Hacia la derecha radical,2022-2026,economia,0.05263157894736842,1852
+1082,Cristóbal Urruticoechea Ríos,Salidas de la derecha radical,2022-2026,economia,0.1111111111111111,1852
+1094,Cristián Labbé Martínez,Hacia la derecha radical,2022-2026,economia,0.8947368421052632,1852
+1119,Sara Concha Smith,Salidas de la derecha radical,2022-2026,economia,NA,1852
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de la derecha radical,2022-2026,economia,0.3333333333333333,1852
+1152,Gloria Naveillan Arriagada,Salidas de la derecha radical,2022-2026,economia,NA,1852

@@ -1,0 +1,5 @@
+grupo,especificacion,n,percentil_medio,p_derecha,p_izquierda
+Hacia la derecha radical,percentil_w01,12,0.7815615217914211,1.9e-4,0.99982
+Hacia la derecha radical,percentil_w1,12,0.6864257613615345,0.01229,0.9883
+Otras salidas de la derecha convencional,percentil_w01,7,0.24496091540064302,0.99115,0.00828
+Otras salidas de la derecha convencional,percentil_w1,7,0.30494352913579226,0.96349,0.03625

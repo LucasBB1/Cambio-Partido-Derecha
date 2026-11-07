@@ -1,0 +1,5 @@
+version,especificacion,n,n_senado,percentil_medio,p_derecha
+solo renuncias,w01,12,0,0.7808333333333334,2e-4
+solo renuncias,w1,12,0,0.6866666666666666,0.01213
+con suspensiones,w01,13,1,0.7867032967032968,1.2e-4
+con suspensiones,w1,13,1,0.6997802197802198,0.006

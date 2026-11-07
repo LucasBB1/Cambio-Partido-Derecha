@@ -1,0 +1,366 @@
+id,nombre,grupo,partido_origen,destino,t_salida,t,k,rel,acuerdo,n
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,7,-8,-1.2463178854931118,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,8,-7,-1.3949097561818733,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,9,-6,-1.9427390659077868,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,10,-5,-1.5185434007351613,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,12,-3,-1.1525120725817724,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,13,-2,-1.0591098484211305,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,14,-1,-0.8921992907276097,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,15,0,-0.8060668355748989,NA,NA
+846,Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,15,16,1,NA,NA,NA
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,2,-8,0.3354336082790872,1,25
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,3,-7,0.3980011721837422,0.96,50
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,4,-6,0.5641883255082691,0.9921259842519685,127
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,5,-5,0.744414952087247,0.6511627906976745,86
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,6,-4,0.5619428673910516,0.9791666666666666,48
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,7,-3,0.3820584390394244,1,37
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,8,-2,0.2648234037980477,0.9790209790209791,143
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,9,-1,0.21535032990182246,0.9912280701754386,114
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,10,0,0.1585677427952552,1,88
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,11,1,0.08655318056643302,0.9814814814814815,54
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,12,2,-0.006525321168597831,0.9864864864864865,74
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,14,4,-0.28206381504263844,0.782608695652174,46
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,15,5,-0.16433468862504963,0.9587628865979382,97
+857,José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,10,17,7,-0.12109807199092293,0.9803921568627451,51
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,2,-4,-0.08613452201704197,1,14
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,3,-3,-0.11607024886307413,1,28
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,4,-2,-0.05063209611433295,1,83
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,5,-1,-0.07921639861404883,1,81
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,6,0,-0.2717741584166357,0.037037037037037035,27
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,7,1,0.057283836063900626,0.9642857142857143,28
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,8,2,0.44109796696504167,0.8292682926829268,82
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,9,3,0.6631178807418843,0.7297297297297297,37
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,10,4,0.3884347300044584,0.631578947368421,19
+891,Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,6,12,6,0.27550992568560884,0.9523809523809523,21
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,12,-8,0.14048268958550203,0.9888888888888889,90
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,13,-7,0.037297604837129406,1,20
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,14,-6,0.01712403694648401,0.975609756097561,41
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,15,-5,0.03414633515964005,1,111
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,16,-4,-0.03537131768312163,0.9866666666666667,75
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,17,-3,-0.0839678935991861,0.9880952380952381,84
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,18,-2,0.10975259224219269,1,21
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,19,-1,-0.08488344934574354,0.9506172839506173,81
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,20,0,-0.1487624218686473,0.974025974025974,154
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,21,1,-0.15569470808002117,1,57
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,22,2,-0.15330374607641062,0.948051948051948,77
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,23,3,-0.15608579174426507,0.9494949494949495,99
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,24,4,-0.1399582971095551,0.9152542372881356,177
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,25,5,-0.028470993177798,0.8942307692307693,104
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,26,6,0.12135436541054234,0.9466666666666667,75
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,27,7,0.2681676591819657,0.8769230769230769,130
+908,Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,20,28,8,0.22685250499156884,0.8449197860962567,187
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,2,-8,-0.21584633154650457,0.8888888888888888,36
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,3,-7,-0.21245000948243808,0.8823529411764706,85
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,4,-6,-0.5659390375552895,0.8952380952380953,105
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,5,-5,-0.7732470123419815,0.95,20
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,6,-4,-0.7327010176142732,0.9347826086956522,46
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,7,-3,-0.700235211958997,0.8163265306122449,49
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,8,-2,-0.6197854356052308,0.8497109826589595,173
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,9,-1,-0.5123249058450445,0.96,100
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,10,0,-0.4384319547055638,0.9375,112
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,11,1,-0.37591162807127365,0.9629629629629629,27
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,12,2,-0.3469541479610936,0.8899082568807339,109
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,13,3,-0.21788027604614402,0.9565217391304348,23
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,14,4,-0.13131408001565492,0.9803921568627451,51
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,15,5,-0.03586658120329389,1,123
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,16,6,0.013514524930041238,0.9895833333333334,96
+915,Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,10,17,7,0.023768450496585602,0.9880952380952381,84
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,6,-8,0.11612966254583626,1,1
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,7,-7,-1.3088344152910345,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,8,-6,-1.4255324260130016,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,9,-5,-1.870413806939967,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,10,-4,-1.4710125379555394,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,11,-3,-1.442920201509673,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,12,-2,-1.2599911337132406,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,13,-1,-1.1619338515813866,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,14,0,-0.9878993911556795,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,16,2,NA,NA,NA
+927,Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,14,17,3,NA,NA,NA
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,3,-8,0.30669606389505955,0.7313432835820896,67
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,4,-7,0.1809513483357419,0.9739130434782609,115
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,5,-6,-0.08106431666313219,0.9583333333333334,48
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,6,-5,0.02054339902304414,0.926829268292683,41
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,7,-4,0.11524694128673385,0.9782608695652174,46
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,8,-3,0.1533817504350412,0.9137931034482759,116
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,9,-2,0.20008059789389998,0.9615384615384616,104
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,10,-1,0.20507774526715317,0.9636363636363636,55
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,11,0,0.15124451900148783,0.9791666666666666,48
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,12,1,0.17216707852235347,0.9767441860465116,129
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,13,2,0.2317209509337178,0.95,20
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,14,3,0.2246138289792462,0.9787234042553191,47
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,15,4,0.26582138263834976,0.9908256880733946,109
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,16,5,0.26966946038113604,0.9821428571428571,56
+935,José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,11,17,6,0.23256640269766082,0.9838709677419355,62
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,2,-1,-0.7792690919681932,0.6333333333333333,30
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,3,0,-0.82585261750205,0.4576271186440678,59
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,4,1,-1.087754501736407,0.4714285714285714,70
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,5,2,-1.3843964346968327,0.21428571428571427,56
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,6,3,-1.3818825099038543,0.4230769230769231,52
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,7,4,-1.279839812401749,0.5869565217391305,46
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,8,5,-1.428315930715292,0.4019607843137255,102
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,9,6,-1.5290606345935247,0.23809523809523808,63
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,10,7,-1.4350702881022395,0.7254901960784313,51
+948,Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,3,11,8,-1.5769435235051508,0.2765957446808511,47
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,20,-8,0.2640315765140273,0.9954337899543378,219
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,21,-7,0.24471934365044112,0.9655172413793104,58
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,22,-6,0.19339642311752925,0.9767441860465116,86
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,23,-5,0.15383654877405806,1,120
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,24,-4,0.13710762622340888,1,244
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,25,-3,0.07043575622219522,0.9836065573770492,122
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,26,-2,0.06615713077700525,0.9393939393939394,66
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,27,-1,0.054230175597910324,0.9645390070921985,141
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,28,0,0.07752979459222598,0.9525423728813559,295
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,29,1,0.09793722076105804,0.9779411764705882,136
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,30,2,0.0891202995659629,0.9672131147540983,122
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,31,3,-0.011688210421440304,0.9801980198019802,101
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,32,4,-0.07445025309764186,0.9203539823008849,113
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,33,5,-0.09831935532213798,0.9692307692307692,65
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,34,6,0.002046608347311074,0.9154929577464789,71
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,35,7,-0.03875156241348865,1,38
+971,Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,28,36,8,-0.013570087491665439,0.9933774834437086,302
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,32,-8,-0.09848981006207547,0.9663865546218487,119
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,33,-7,-0.06850416921613922,0.9807692307692307,52
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,34,-6,0.12334086033463254,0.9166666666666666,72
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,35,-5,0.06678224711128045,0.8974358974358975,39
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,36,-4,0.0744599619515458,0.9512987012987013,308
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,37,-3,0.10428536358551721,0.935064935064935,77
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,38,-2,0.13370445771662565,0.9324324324324325,74
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,39,-1,0.17688020845301888,0.9577464788732394,71
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,40,0,0.24365311644459675,0.95,520
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,41,1,0.394504158397468,0.9711538461538461,104
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,42,2,0.5796034771294315,0.753968253968254,126
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,43,3,0.7013332185422645,0.6509433962264151,106
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,44,4,0.7746311967379707,0.7290322580645161,620
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,45,5,0.8115487170329767,0.5793650793650794,126
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,46,6,0.8104263146987714,0.7213114754098361,122
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,47,7,0.8035411230565885,0.9526627218934911,169
+1003,Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,40,48,8,0.8241135460729054,0.8913043478260869,138
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,19,-8,-0.15681732933024872,0.9789473684210527,95
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,20,-7,-0.15373972464128138,0.993421052631579,152
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,21,-6,-0.15548671205693854,0.9772727272727273,44
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,22,-5,-0.1330301531879171,0.975609756097561,82
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,23,-4,-0.10204162007441231,1,102
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,24,-3,-0.09191700032859451,1,196
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,25,-2,-0.10772406573032856,1,132
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,26,-1,-0.17600436267281172,0.9871794871794872,78
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,27,0,-0.26144041841891097,0.9153846153846154,130
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,28,1,-0.2944864263263338,0.9014084507042254,142
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,29,2,-0.37673670687495353,0.8134328358208955,134
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,30,3,-0.28133777405884763,0.9069767441860465,129
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,31,4,-0.29060837169733333,0.9318181818181818,88
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,32,5,-0.29350977854554927,0.9787234042553191,94
+1011,Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,27,33,6,-0.27079508323807233,0.9827586206896551,58
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,19,-8,-0.24633842933118966,0.9494949494949495,99
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,20,-7,-0.25435274615421355,0.9835164835164835,182
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,21,-6,-0.30247494944742215,0.9824561403508771,57
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,22,-5,-0.31199123766965386,0.8382352941176471,68
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,23,-4,-0.21311780140186676,1,102
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,24,-3,-0.159671709878332,0.9791666666666666,240
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,25,-2,-0.12861242347354107,1,168
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,26,-1,-0.16186957407962377,0.9871794871794872,78
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,27,0,-0.18989907371069703,0.9574468085106383,141
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,28,1,-0.22169050076735752,0.9269662921348315,178
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,29,2,-0.33451791290898214,0.828125,128
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,30,3,-0.29225172142003186,0.9098360655737705,122
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,31,4,-0.3584280609194199,0.8870967741935484,62
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,32,5,-0.39362613741189156,0.8301886792452831,53
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,33,6,-0.39266387890869336,0.9104477611940298,67
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,34,7,-0.18386996381761445,0.8771929824561403,57
+1017,Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,27,35,8,-0.19654646852499147,0.8076923076923077,26
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,33,-8,-0.09429394699167348,1,63
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,34,-7,0.008469395328781992,0.8888888888888888,63
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,35,-6,0.011277546547752593,1,21
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,36,-5,0.03561062797544723,0.996551724137931,290
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,37,-4,0.1229562223684516,0.9444444444444444,72
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,38,-3,0.19930221381854651,0.8225806451612904,62
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,39,-2,0.22539921551484532,1,47
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,40,-1,0.25706830021517624,0.9902676399026764,411
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,41,0,0.3706627464379699,0.979381443298969,97
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,42,1,0.5179046301187369,0.9659090909090909,88
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,43,2,0.7200777911767234,0.6774193548387096,93
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,44,3,0.8499074239311737,0.7142857142857143,623
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,45,4,0.9364961389578733,0.5137614678899083,109
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,46,5,0.97691543995555,0.5584415584415584,77
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,47,6,0.9869793029075612,0.8657718120805369,149
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,48,7,0.9660888072474823,0.84,150
+1022,Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,41,49,8,1.0016856651617696,0.7428571428571429,105
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,31,-8,0.20718774922394978,0.9896907216494846,97
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,32,-7,0.20954039557778792,0.9473684210526315,38
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,33,-6,0.24024139335815486,1,56
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,34,-5,0.3659487076235757,0.9534883720930233,43
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,35,-4,0.3427253772879002,0.9666666666666667,30
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,36,-3,0.36421804194993457,0.959409594095941,271
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,37,-2,0.4810626922986294,0.85,40
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,38,-1,0.5904408571078066,0.66,50
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,39,0,0.6528818121508313,0.9629629629629629,54
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,40,1,0.7370513383881531,0.660377358490566,106
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,41,2,0.7996356228582646,0.8557692307692307,104
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,42,3,0.8332240638157349,0.7916666666666666,96
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,43,4,0.8941250194707756,0.7608695652173914,46
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,44,5,0.9344577520806117,0.776,500
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,45,6,1.0215981544743435,0.4772727272727273,88
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,46,7,1.0739233671040325,0.6119402985074627,67
+1025,Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,39,47,8,1.089421071371726,0.8278145695364238,151
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,20,-8,0.0022136498919383962,0.9813953488372092,215
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,21,-7,0.08333726241109751,1,59
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,22,-6,0.13448825977171042,0.9240506329113924,79
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,23,-5,0.17604418368011832,0.9914529914529915,117
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,24,-4,0.258600545461931,0.9906976744186047,215
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,25,-3,0.2902416865813545,0.9885714285714285,175
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,26,-2,0.360838900367787,0.9651162790697675,86
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,27,-1,0.4454054921202716,0.9733333333333334,150
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,28,0,0.5261834326343264,0.9182692307692307,208
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,29,1,0.6317599580020796,0.773972602739726,146
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,30,2,0.700793507022349,0.9166666666666666,120
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,31,3,0.7353974998479405,0.9620253164556962,79
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,32,4,0.7943031629215039,0.8793103448275862,116
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,33,5,0.9031126344357518,0.9365079365079365,63
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,34,6,1.0878138413946692,0.7037037037037037,54
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,35,7,1.0803180071613,0.5161290322580645,31
+1040,Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,28,36,8,1.0761136583312645,0.7756410256410257,156
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,39,-8,0.008740642179576374,0.967741935483871,62
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,40,-7,0.037130463214546605,0.9766187050359713,556
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,41,-6,0.02241245409956194,0.9805825242718447,103
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,42,-5,0.005246597816949139,0.9902912621359223,103
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,43,-4,0.03521073624447191,0.9611650485436893,103
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,44,-3,0.0392786288763155,0.978494623655914,651
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,45,-2,0.06347089013985274,0.9485294117647058,136
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,46,-1,0.09791061834112091,0.9915254237288136,118
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,47,0,0.15740488707939115,0.9886363636363636,176
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,48,1,0.26505256856078707,0.8831168831168831,154
+1050,Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,47,49,2,0.3518752808274752,0.7798165137614679,109
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,28,-8,-0.23552837625819079,0.9357142857142857,280
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,29,-7,-0.192920303704884,0.908256880733945,109
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,30,-6,-0.19425124851832176,0.897196261682243,107
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,31,-5,-0.23581272740925574,0.9534883720930233,86
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,32,-4,-0.2726450430269106,0.831858407079646,113
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,33,-3,-0.23900130647415463,0.9491525423728814,59
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,34,-2,-0.05948684200190035,0.819672131147541,61
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,35,-1,-0.1544270577189314,0.95,40
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,36,0,-0.19653179613946936,0.9045801526717557,262
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,37,1,-0.13708691011579288,0.7317073170731707,41
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,38,2,-0.11878126271578993,0.8805970149253731,67
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,39,3,-0.07916449396427627,0.9615384615384616,52
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,40,4,-0.024296602615436313,0.9200819672131147,488
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,41,5,0.022313128979711272,0.9866666666666667,75
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,42,6,0.052559168053756156,0.9680851063829787,94
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,43,7,0.13160342624129617,0.9239130434782609,92
+1054,Francesca Muñoz González,Hacia la derecha radical,RN,PSC,36,44,8,0.2082774584952195,0.8855098389982111,559
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,24,-8,-0.3092065280395956,0.9042145593869731,261
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,25,-7,-0.31064263848608686,0.9333333333333333,180
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,26,-6,-0.3241305402685839,0.9032258064516129,93
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,27,-5,-0.3107492698565538,0.8867924528301887,159
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,28,-4,-0.22218351626411714,0.9349593495934959,246
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,29,-3,-0.09232825718836557,0.7480314960629921,127
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,30,-2,-0.10851291540653563,0.7101449275362319,138
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,31,-1,0.11974397919789692,0.9191919191919192,99
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,32,0,0.3045663703323549,0.864406779661017,118
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,33,1,0.5223690456816696,0.9019607843137255,51
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,34,2,0.8107347919055994,0.6842105263157895,76
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,35,3,0.8702032980265039,0.48717948717948717,39
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,36,4,0.9046001948487475,0.7518518518518519,270
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,37,5,0.8204395470245187,0.765625,64
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,38,6,0.7268325516930805,0.868421052631579,38
+1069,Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,32,39,7,0.6040533795974887,0.8888888888888888,27
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,19,-8,-0.15260414678019474,1,88
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,20,-7,-0.1706837767464061,0.9902439024390244,205
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,21,-6,-0.17181533501161272,1,57
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,22,-5,-0.1661602849425653,0.9743589743589743,39
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,23,-4,-0.14708416110869316,1,108
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,24,-3,-0.15755209977851337,0.9959514170040485,247
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,25,-2,-0.2471231188806533,0.9875,80
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,26,-1,-0.3616737505845745,0.9054054054054054,74
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,27,0,-0.44448158826393513,0.8686131386861314,137
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,28,1,-0.5171459071158835,0.7981366459627329,322
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,29,2,-0.593772055442944,0.8102189781021898,137
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,30,3,-0.6203371013998071,0.6666666666666666,111
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,31,4,-0.6496187262293445,0.8723404255319149,47
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,32,5,-0.6590561477746875,0.8240740740740741,108
+1080,Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,27,33,6,-0.6122246020242934,0.9423076923076923,52
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,20,-8,-0.11042446750116586,0.9814814814814815,216
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,21,-7,-0.05788212002436266,1,57
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,22,-6,-0.02603271275657515,0.9518072289156626,83
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,23,-5,-0.047320611304144,0.9908256880733946,109
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,24,-4,-0.04734754611249714,0.972972972972973,222
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,25,-3,-0.0023837065811868063,0.9818181818181818,165
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,26,-2,0.12574900562596913,0.9880952380952381,84
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,27,-1,0.26158847900699567,0.9733333333333334,150
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,28,0,0.382680747322544,0.9230769230769231,286
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,29,1,0.47549736197295434,0.8633093525179856,139
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,30,2,0.5664334337919461,0.9896907216494846,97
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,31,3,0.6051892820074032,0.9775280898876404,89
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,32,4,0.6697507341157466,0.8279569892473119,93
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,33,5,0.7853773962159212,0.9538461538461539,65
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,34,6,0.9908563351905584,0.6933333333333334,75
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,35,7,0.9901411397804424,0.5517241379310345,29
+1082,Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,28,36,8,0.9874442532399782,0.7519083969465649,262
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,34,-8,0.0656041289593079,1,77
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,35,-7,-0.022046374152412396,1,29
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,36,-6,-0.09603500866046999,0.9770992366412213,262
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,37,-5,-0.10974063140608847,1,44
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,38,-4,-0.12717508338159988,0.9861111111111112,72
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,39,-3,-0.15132936095367944,0.9821428571428571,56
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,40,-2,-0.16850681185799443,0.9885057471264368,174
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,41,-1,-0.161011228425201,0.9894736842105263,95
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,42,0,-0.1516053493161016,1,98
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,43,1,-0.17600889586765955,0.9811320754716981,53
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,44,2,-0.20747798884446556,0.7959770114942529,348
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,45,3,-0.19003693833360336,0.8615384615384616,65
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,46,4,-0.22087950525978162,0.7358490566037735,106
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,47,5,-0.24013056097610153,0.9411764705882353,68
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,48,6,-0.2516307097611725,0.946236559139785,93
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,49,7,-0.28760386758191303,0.907103825136612,183
+1082,Cristóbal Urruticoechea Ríos,Salidas de partidos de derecha radical,PREP,PNL,42,50,8,0.8591790496834733,0.9794520547945206,146
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,37,-8,0.11088532423001762,0.9565217391304348,69
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,38,-7,0.12645591070624385,0.9322033898305084,59
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,39,-6,0.1466196413807187,0.96875,64
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,40,-5,0.15614083780396593,0.9741379310344828,348
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,41,-4,0.21487542063598342,0.9803921568627451,102
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,42,-3,0.2866471845365084,0.9662921348314607,89
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,43,-2,0.3281894308201785,0.9263157894736842,95
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,44,-1,0.4091272895810255,0.9245283018867925,477
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,45,0,0.5353478283627786,0.6065573770491803,122
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,46,1,0.5560751810828575,0.704225352112676,71
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,47,2,0.5617121884328624,0.9447852760736196,163
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,48,3,0.5793809762004467,0.9459459459459459,74
+1094,Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,45,49,4,0.6343907024124908,0.5462962962962963,108
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,34,-2,-0.9224788696610379,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,35,-1,-1.0699640990078234,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,36,0,-1.193611747238835,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,37,1,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,38,2,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,39,3,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,40,4,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,41,5,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,42,6,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,43,7,NA,NA,NA
+1119,Sara Concha Smith,Salidas de partidos de derecha radical,PCC,PSC,36,44,8,NA,NA,NA
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,34,-7,0.02893911228587598,1,76
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,35,-6,0.038534596390170206,1,38
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,36,-5,0.028811485695967143,0.9932432432432432,296
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,37,-4,0.027795007193563093,0.9873417721518988,79
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,38,-3,0.024586554731812704,0.9855072463768116,69
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,39,-2,0.02538832296994653,1,68
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,40,-1,0.024133761405179976,0.998,500
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,41,0,0.026870995462026093,0.9895833333333334,96
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,42,1,0.021126725426317217,0.984,125
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,43,2,-8.594884879402631e-4,0.91,100
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,44,3,0.006649068755903764,0.8581081081081081,592
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,45,4,0.015161441447708146,0.9292929292929293,99
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,46,5,-0.023025327263151096,0.7755102040816326,98
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,47,6,-0.04436804661410498,0.94,100
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,48,7,-0.045760462063636265,0.9671052631578947,152
+1135,Johannes Kaiser Barents-Von Hohenhagen,Salidas de partidos de derecha radical,PREP,PNL,41,49,8,-0.06439540463140658,0.9340659340659341,182
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,34,-1,-0.470511108734772,0.9016393442622951,61
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,35,0,-0.5016832608692532,0.8928571428571429,28
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,36,1,-0.5543930724405248,0.8555555555555555,270
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,37,2,-0.5517181816289438,0.9104477611940298,67
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,38,3,-0.5242737683208196,0.8461538461538461,52
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,39,4,-0.4957950653726144,0.9821428571428571,56
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,40,5,-0.48345500972874866,0.909375,320
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,41,6,-0.4514947561225018,0.8556701030927835,97
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,42,7,-0.3799410792970854,0.8899082568807339,109
+1152,Gloria Naveillan Arriagada,Salidas de partidos de derecha radical,PREP,PNL,35,43,8,-0.3429489740541276,0.8873239436619719,71
+1251,Macarena Santelices Cañas,Salidas de partidos de derecha radical,PREP,IND,52,50,-2,-0.04969652318900453,1,155
+1251,Macarena Santelices Cañas,Salidas de partidos de derecha radical,PREP,IND,52,51,-1,-0.06398656641246925,1,110
+1251,Macarena Santelices Cañas,Salidas de partidos de derecha radical,PREP,IND,52,52,0,-0.07915587668390389,0.9857142857142858,70

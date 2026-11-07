@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Si usa este código o estos datos, cite el documento de trabajo y este repositorio."
+title: "Cambio-Partido-Derecha"
+abstract: "Código en R y datos para reproducir el Documento de trabajo N.° 5, ¿Quién se va y qué cambia? Salidas de partido en la derecha chilena y el voto en la Cámara de Diputadas y Diputados, 2014–2026."
+type: software
+authors:
+  - family-names: "Bottinelli Baltra"
+    given-names: "Lucas"
+    orcid: "https://orcid.org/0009-0000-4865-7261"
+    affiliation: "Pontificia Universidad Católica de Chile"
+version: "1.0.0"
+date-released: "2026-11-07"
+license: MIT
+repository-code: "https://github.com/LucasBB1/Cambio-Partido-Derecha"
+keywords:
+  - cambio de partido
+  - derecha radical
+  - votaciones nominales
+  - puntos ideales
+  - Cámara de Diputadas y Diputados
+  - Chile
+preferred-citation:
+  type: report
+  title: "¿Quién se va y qué cambia? Salidas de partido en la derecha chilena y el voto en la Cámara de Diputadas y Diputados, 2014–2026"
+  authors:
+    - family-names: "Bottinelli Baltra"
+      given-names: "Lucas"
+  year: 2026
+  number: "5"
+  collection-title: "Documento de trabajo"
+  doi: "10.5281/zenodo.24026531"
+  url: "https://doi.org/10.5281/zenodo.24026531"

@@ -1,0 +1,268 @@
+
+================ ESPECIFICACIÓN omega2 = 0,1 
+votos 864324 | votaciones 7415 | diputados 390 | unidades 7138 | iter 228 | clasif 93.47 
+APRE 0.795 
+# A tibble: 44 × 4
+   periodo   partido mediana_z     n
+   <chr>     <chr>       <dbl> <int>
+ 1 2014-2018 PC       -1.226       6
+ 2 2014-2018 PS       -0.8949     16
+ 3 2014-2018 PPD      -0.7039     16
+ 4 2014-2018 PR       -0.6899      6
+ 5 2014-2018 IND      -0.6335     15
+ 6 2014-2018 DC       -0.5860     20
+ 7 2014-2018 RN        0.9847     16
+ 8 2014-2018 UDI       1.372      29
+ 9 2018-2022 PCS      -1.331       4
+10 2018-2022 PC       -1.309      10
+11 2018-2022 RD       -1.281      11
+12 2018-2022 PS       -0.8650     19
+13 2018-2022 PPD      -0.8246      8
+14 2018-2022 PR       -0.5576      6
+15 2018-2022 IND      -0.3211     39
+16 2018-2022 DC       -0.1329     14
+17 2018-2022 EVOP      0.8861      6
+18 2018-2022 RN        0.9539     36
+19 2018-2022 UDI       1.067      33
+20 2022-2026 PC       -1.353      12
+21 2022-2026 PCS      -1.243       7
+22 2022-2026 RD       -1.208       6
+23 2022-2026 FA       -1.171      20
+24 2022-2026 PS       -0.7693     14
+25 2022-2026 DC       -0.3130      7
+26 2022-2026 IND      -0.09450    65
+27 2022-2026 DEM       0.03737     4
+28 2022-2026 PDG       0.3270      5
+29 2022-2026 RN        0.6926     20
+30 2022-2026 PSC       0.7726      4
+31 2022-2026 UDI       0.9088     20
+32 2022-2026 PNL       1.571       6
+33 2022-2026 PREP      1.750      12
+34 2026-2030 PC       -1.787       8
+35 2026-2030 FA       -1.341      15
+36 2026-2030 PS       -1.081      10
+37 2026-2030 PPD      -0.6880      4
+38 2026-2030 IND      -0.5399     27
+39 2026-2030 DC       -0.4567      7
+40 2026-2030 PDG      -0.07178    14
+41 2026-2030 RN        0.5554     11
+42 2026-2030 PNL       0.6808      7
+43 2026-2030 UDI       0.6870     13
+44 2026-2030 PREP      0.7621     28
+# A tibble: 22 × 9
+   termino                  coef     ee         z         p modelo                  n eventos  HR_01
+   <chr>                   <dbl>  <dbl>     <dbl>     <dbl> <chr>               <dbl>   <dbl>  <dbl>
+ 1 dist_der              2.452   1.768   1.387    1.655e- 1 m1_toda_salida       2539      26 1.278 
+ 2 dist_izq              2.338   0.3577  6.535    6.370e-11 m1_toda_salida       2539      26 1.263 
+ 3 dist_der              2.416   1.975   1.223    2.213e- 1 m2_controles         2539      26 1.273 
+ 4 dist_izq              2.237   0.3481  6.426    1.308e-10 m2_controles         2539      26 1.251 
+ 5 sin_reeleccion       -0.5216  1.029  -0.5067   6.124e- 1 m2_controles         2539      26 0.9492
+ 6 tipo_partidoradical   0.5899  0.6216  0.9490   3.426e- 1 m2_controles         2539      26 1.061 
+ 7 dist_der              6.423   1.098   5.850    4.930e- 9 m3_hacia_radical     2280      12 1.901 
+ 8 dist_izq             -2.049   4.044  -0.5067   6.124e- 1 m3_hacia_radical     2280      12 0.8147
+ 9 dist_der            -15.45    9.814  -1.574    1.154e- 1 m4_otras_conv        2280       9 0.2133
+10 dist_izq              2.195   0.4228  5.191    2.086e- 7 m4_otras_conv        2280       9 1.245 
+11 dist_der24            3.253   1.103   2.950    3.180e- 3 m5_radical_rez       2160      12 1.384 
+12 dist_izq24           -3.492   4.680  -0.7461   4.556e- 1 m5_radical_rez       2160      12 0.7053
+13 dist_der              6.555   1.225   5.350    8.815e- 8 m6_radical_logit     2280      12 1.926 
+14 dist_izq             -1.964   4.017  -0.4890   6.248e- 1 m6_radical_logit     2280      12 0.8217
+15 dist_der              7.235   1.415   5.112    3.189e- 7 m7_radical_distrito  1631      10 2.062 
+16 dist_izq             -0.02942 4.043  -0.007277 9.942e- 1 m7_radical_distrito  1631      10 0.9971
+17 I(demanda_c/10)       0.1534  0.5575  0.2751   7.832e- 1 m7_radical_distrito  1631      10 1.015 
+18 I(cuota_propia/10)    0.09798 0.9948  0.09849  9.215e- 1 m7_radical_distrito  1631      10 1.010 
+19 sin_reeleccion       -0.3240  1.181  -0.2744   7.838e- 1 m7_radical_distrito  1631      10 0.9681
+20 dist_der              6.934   1.007   6.882    5.882e-12 m8_radical_gobierno  2280      12 2.000 
+21 dist_izq             -2.574   4.406  -0.5842   5.591e- 1 m8_radical_gobierno  2280      12 0.7731
+22 dist_der:gobierno    -2.357   3.133  -0.7523   4.519e- 1 m8_radical_gobierno  2280      12 0.7900
+# A tibble: 15 × 6
+   grupo                                    tramo      media     p025    p975     n
+   <chr>                                    <fct>      <dbl>    <dbl>   <dbl> <dbl>
+ 1 Hacia la derecha radical                 -8..-5 -0.009307 -0.03288 0.03574    12
+ 2 Hacia la derecha radical                 -4..-1  0.09183  -0.05479 0.06858    12
+ 3 Hacia la derecha radical                 0       0.2030   -0.07055 0.08647    12
+ 4 Hacia la derecha radical                 1..4    0.3936   -0.06600 0.1089     12
+ 5 Hacia la derecha radical                 5..8    0.6231   -0.08673 0.1597     10
+ 6 Otras salidas de la derecha convencional -8..-5  0.01671  -0.04981 0.04842     7
+ 7 Otras salidas de la derecha convencional -4..-1  0.001091 -0.04578 0.1185      8
+ 8 Otras salidas de la derecha convencional 0       0.04377  -0.07107 0.2157      8
+ 9 Otras salidas de la derecha convencional 1..4   -0.01799  -0.1317  0.1810      6
+10 Otras salidas de la derecha convencional 5..8   -0.01900  -0.1871  0.2299      6
+11 Salidas de partidos de derecha radical   -8..-5  0.02450  -0.01474 0.1251      2
+12 Salidas de partidos de derecha radical   -4..-1 -0.04984  -0.2640  0.2198      2
+13 Salidas de partidos de derecha radical   0      -0.04894  -0.04730 0.4362      2
+14 Salidas de partidos de derecha radical   1..4   -0.08061  -0.03046 0.05768     2
+15 Salidas de partidos de derecha radical   5..8    0.001212  0.09236 0.2159      2
+# A tibble: 15 × 3
+   grupo                                    tramo      media
+   <chr>                                    <fct>      <dbl>
+ 1 Hacia la derecha radical                 -8..-5  -0.1369 
+ 2 Hacia la derecha radical                 -4..-1  -1.282  
+ 3 Hacia la derecha radical                 0       -3.015  
+ 4 Hacia la derecha radical                 1..4   -11.15   
+ 5 Hacia la derecha radical                 5..8   -13.96   
+ 6 Otras salidas de la derecha convencional -8..-5  -0.5300 
+ 7 Otras salidas de la derecha convencional -4..-1  -0.06362
+ 8 Otras salidas de la derecha convencional 0      -19.30   
+ 9 Otras salidas de la derecha convencional 1..4    -9.428  
+10 Otras salidas de la derecha convencional 5..8    -3.253  
+11 Salidas de partidos de derecha radical   -8..-5   0.2712 
+12 Salidas de partidos de derecha radical   -4..-1  -0.4259 
+13 Salidas de partidos de derecha radical   0        0.08975
+14 Salidas de partidos de derecha radical   1..4   -11.19   
+15 Salidas de partidos de derecha radical   5..8    -7.006  
+
+================ ESPECIFICACIÓN omega2 = 1 
+votos 864324 | votaciones 7415 | diputados 390 | unidades 7138 | iter 503 | clasif 93.98 
+APRE 0.811 
+# A tibble: 44 × 4
+   periodo   partido mediana_z     n
+   <chr>     <chr>       <dbl> <int>
+ 1 2014-2018 PC       -1.073       6
+ 2 2014-2018 PS       -0.8208     16
+ 3 2014-2018 PPD      -0.6826     16
+ 4 2014-2018 PR       -0.6705      6
+ 5 2014-2018 IND      -0.6296     15
+ 6 2014-2018 DC       -0.6003     20
+ 7 2014-2018 RN        0.8685     16
+ 8 2014-2018 UDI       1.393      29
+ 9 2018-2022 PC       -1.328      10
+10 2018-2022 RD       -1.282      11
+11 2018-2022 PCS      -1.259       4
+12 2018-2022 PS       -0.8406     19
+13 2018-2022 PPD      -0.8153      8
+14 2018-2022 PR       -0.5417      6
+15 2018-2022 IND      -0.3677     39
+16 2018-2022 DC       -0.1529     14
+17 2018-2022 EVOP      0.8898      6
+18 2018-2022 RN        0.9383     36
+19 2018-2022 UDI       1.057      33
+20 2022-2026 PC       -1.363      12
+21 2022-2026 PCS      -1.227       7
+22 2022-2026 RD       -1.179       6
+23 2022-2026 FA       -1.136      20
+24 2022-2026 PS       -0.7268     14
+25 2022-2026 DC       -0.2615      7
+26 2022-2026 IND      -0.06899    65
+27 2022-2026 DEM       0.07008     4
+28 2022-2026 PDG       0.3635      5
+29 2022-2026 RN        0.6589     20
+30 2022-2026 PSC       0.7785      4
+31 2022-2026 UDI       0.9122     20
+32 2022-2026 PNL       1.624       6
+33 2022-2026 PREP      1.755      12
+34 2026-2030 PC       -1.703       8
+35 2026-2030 FA       -1.379      15
+36 2026-2030 PS       -1.176      10
+37 2026-2030 PPD      -0.7122      4
+38 2026-2030 DC       -0.4525      7
+39 2026-2030 IND      -0.4301     27
+40 2026-2030 PDG      -0.01521    14
+41 2026-2030 RN        0.5870     11
+42 2026-2030 UDI       0.8035     13
+43 2026-2030 PNL       0.8553      7
+44 2026-2030 PREP      1.067      28
+# A tibble: 22 × 9
+   termino                   coef      ee         z        p modelo                  n eventos   HR_01
+   <chr>                    <dbl>   <dbl>     <dbl>    <dbl> <chr>               <dbl>   <dbl>   <dbl>
+ 1 dist_der              0.9540    1.433   0.6657   5.056e-1 m1_toda_salida       2539      26 1.100  
+ 2 dist_izq              1.756     0.3320  5.289    1.233e-7 m1_toda_salida       2539      26 1.192  
+ 3 dist_der              0.9671    1.456   0.6643   5.065e-1 m2_controles         2539      26 1.102  
+ 4 dist_izq              1.688     0.2905  5.811    6.215e-9 m2_controles         2539      26 1.184  
+ 5 sin_reeleccion       -0.4195    1.038  -0.4042   6.861e-1 m2_controles         2539      26 0.9589 
+ 6 tipo_partidoradical   0.7683    0.5751  1.336    1.815e-1 m2_controles         2539      26 1.080  
+ 7 dist_der              3.044     1.289   2.362    1.817e-2 m3_hacia_radical     2280      12 1.356  
+ 8 dist_izq              0.1843    1.555   0.1185   9.057e-1 m3_hacia_radical     2280      12 1.019  
+ 9 dist_der            -37.08     20.12   -1.843    6.537e-2 m4_otras_conv        2280       9 0.02452
+10 dist_izq              1.391     0.3131  4.444    8.849e-6 m4_otras_conv        2280       9 1.149  
+11 dist_der24            1.471     0.8776  1.676    9.375e-2 m5_radical_rez       2160      12 1.158  
+12 dist_izq24           -3.606     3.182  -1.133    2.571e-1 m5_radical_rez       2160      12 0.6972 
+13 dist_der              3.081     1.327   2.322    2.024e-2 m6_radical_logit     2280      12 1.361  
+14 dist_izq              0.1949    1.553   0.1255   9.002e-1 m6_radical_logit     2280      12 1.020  
+15 dist_der              4.498     1.372   3.278    1.046e-3 m7_radical_distrito  1631      10 1.568  
+16 dist_izq              1.730     2.745   0.6303   5.285e-1 m7_radical_distrito  1631      10 1.189  
+17 I(demanda_c/10)       0.3856    0.5794  0.6654   5.058e-1 m7_radical_distrito  1631      10 1.039  
+18 I(cuota_propia/10)   -0.1375    0.9656 -0.1424   8.867e-1 m7_radical_distrito  1631      10 0.9863 
+19 sin_reeleccion       -0.002533  1.183  -0.002141 9.983e-1 m7_radical_distrito  1631      10 0.9997 
+20 dist_der              2.319     2.056   1.128    2.593e-1 m8_radical_gobierno  2280      12 1.261  
+21 dist_izq              0.1918    1.504   0.1275   8.985e-1 m8_radical_gobierno  2280      12 1.019  
+22 dist_der:gobierno     1.828     2.562   0.7134   4.756e-1 m8_radical_gobierno  2280      12 1.201  
+# A tibble: 15 × 6
+   grupo                                    tramo      media      p025    p975     n
+   <chr>                                    <fct>      <dbl>     <dbl>   <dbl> <dbl>
+ 1 Hacia la derecha radical                 -8..-5 -0.003705 -0.08620  0.08204    12
+ 2 Hacia la derecha radical                 -4..-1  0.05018  -0.09928  0.1128     12
+ 3 Hacia la derecha radical                 0       0.1584   -0.1139   0.1206     12
+ 4 Hacia la derecha radical                 1..4    0.4452   -0.1109   0.1390     12
+ 5 Hacia la derecha radical                 5..8    0.6925   -0.1265   0.1838     10
+ 6 Otras salidas de la derecha convencional -8..-5 -0.004671 -0.1429   0.1339      7
+ 7 Otras salidas de la derecha convencional -4..-1  0.02877  -0.1428   0.1899      8
+ 8 Otras salidas de la derecha convencional 0       0.01878  -0.1533   0.3771      8
+ 9 Otras salidas de la derecha convencional 1..4   -0.04677  -0.2201   0.2865      6
+10 Otras salidas de la derecha convencional 5..8   -0.003517 -0.2519   0.3012      6
+11 Salidas de partidos de derecha radical   -8..-5  0.04046  -0.06274  0.1247      2
+12 Salidas de partidos de derecha radical   -4..-1 -0.05909  -0.3717   0.1189      2
+13 Salidas de partidos de derecha radical   0      -0.003892 -0.3874   0.09801     2
+14 Salidas de partidos de derecha radical   1..4   -0.08380  -0.07914  0.06527     2
+15 Salidas de partidos de derecha radical   5..8   -0.1022   -0.007699 0.1732      2
+# A tibble: 15 × 3
+   grupo                                    tramo      media
+   <chr>                                    <fct>      <dbl>
+ 1 Hacia la derecha radical                 -8..-5  -0.1369 
+ 2 Hacia la derecha radical                 -4..-1  -1.282  
+ 3 Hacia la derecha radical                 0       -3.015  
+ 4 Hacia la derecha radical                 1..4   -11.15   
+ 5 Hacia la derecha radical                 5..8   -13.96   
+ 6 Otras salidas de la derecha convencional -8..-5  -0.5300 
+ 7 Otras salidas de la derecha convencional -4..-1  -0.06362
+ 8 Otras salidas de la derecha convencional 0      -19.30   
+ 9 Otras salidas de la derecha convencional 1..4    -9.428  
+10 Otras salidas de la derecha convencional 5..8    -3.253  
+11 Salidas de partidos de derecha radical   -8..-5   0.2712 
+12 Salidas de partidos de derecha radical   -4..-1  -0.4259 
+13 Salidas de partidos de derecha radical   0        0.08975
+14 Salidas de partidos de derecha radical   1..4   -11.19   
+15 Salidas de partidos de derecha radical   5..8    -7.006  
+
+================ UNIVERSO
+# A tibble: 4 × 5
+  periodo     dip trimestres salidas hacia_rad
+  <chr>     <int>      <int>   <dbl>     <dbl>
+1 2014-2018    48        614       7         2
+2 2018-2022    75        995       8         4
+3 2022-2026    58        779      10         6
+4 2026-2030    64        151       1         0
+# A tibble: 10 × 3
+   partido_origen destino_bloque     n
+   <chr>          <chr>          <int>
+ 1 AMPL           convencional       1
+ 2 AMPL           ninguno            2
+ 3 PCC            radical            1
+ 4 PREP           convencional       1
+ 5 PREP           radical            3
+ 6 RN             convencional       2
+ 7 RN             otro               1
+ 8 RN             radical            8
+ 9 UDI            convencional       3
+10 UDI            radical            4
+desfase mediana 72.5 | >90 días 12 | >365 4 | max 1705 
+
+================ PRUEBAS
+# A tibble: 4 × 6
+  grupo                                    especificacion     n percentil_medio p_derecha p_izquierda
+  <chr>                                    <chr>          <dbl>           <dbl>     <dbl>       <dbl>
+1 Hacia la derecha radical                 percentil_w01     12          0.7816   0.00019     0.9998 
+2 Hacia la derecha radical                 percentil_w1      12          0.6864   0.01229     0.9883 
+3 Otras salidas de la derecha convencional percentil_w01      7          0.2450   0.9912      0.00828
+4 Otras salidas de la derecha convencional percentil_w1       7          0.3049   0.9635      0.03625
+# A tibble: 3 × 8
+  grupo                                        n aro_prog pistola_prog aro_org pistola_org aro_carr pistola_carr
+  <chr>                                    <dbl>    <dbl>        <dbl>   <dbl>       <dbl>    <dbl>        <dbl>
+1 Hacia la derecha radical                    12       11            2       8           0        8            4
+2 Otras salidas de la derecha convencional     9        2            0       8           3        6            2
+3 Salidas de la derecha radical                5        1            1       3           0        4            1
+# A tibble: 3 × 4
+   anio    nac    min   max
+  <dbl>  <dbl>  <dbl> <dbl>
+1  2017  7.939  4.020 13.22
+2  2021 27.94  17.93  48.59
+3  2025 37.90  31.08  51.30

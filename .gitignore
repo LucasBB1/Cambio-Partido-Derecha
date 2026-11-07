@@ -1,0 +1,7 @@
+data/raw/*
+!data/raw/LEEME.md
+data/processed/modelos_riesgo*.rds
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata

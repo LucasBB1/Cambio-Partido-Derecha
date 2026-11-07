@@ -1,0 +1,2069 @@
+﻿periodo;id;nombre;dp_fecha1;dp_fecha2;mil_inicio;mil_termino;partido_id;partido
+2010-2014;965;Cristian Letelier Aguilar;2014-03-10;;2011-03-02;2015-03-01;IND;Independie
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;1990-03-11;1994-03-10;PS;Partido So
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;1994-03-11;1998-03-10;PS;Partido So
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;2010-03-11;2014-03-10;IC;Izquierda 
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;1998-03-11;2002-03-10;PS;Partido So
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;2002-03-11;2006-03-10;PS;Partido So
+2010-2014;802;Sergio Aguiló Melo;2014-03-10;;2014-03-11;2018-03-10;IC;Izquierda 
+2010-2014;803;René Alinco Bustos;2014-03-10;;2010-03-11;2014-03-10;IND;Independie
+2010-2014;803;René Alinco Bustos;2014-03-10;;2018-03-11;2022-03-10;IND;Independie
+2010-2014;803;René Alinco Bustos;2014-03-10;;2022-03-11;2026-03-10;IND;Independie
+2010-2014;803;René Alinco Bustos;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;803;René Alinco Bustos;2014-03-10;;2026-03-11;2030-03-10;IND;Independie
+2010-2014;924;Osvaldo Andrade Lara;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;924;Osvaldo Andrade Lara;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;808;Pedro Araya Guerrero;2014-03-10;;2006-03-11;2010-03-10;IND;Independie
+2010-2014;808;Pedro Araya Guerrero;2014-03-10;;2010-03-11;2014-03-10;PRI;Partido Re
+2010-2014;808;Pedro Araya Guerrero;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;926;Nino Baltolu Rasera;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;926;Nino Baltolu Rasera;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;811;Ramón Barros Montero;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;811;Ramón Barros Montero;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;811;Ramón Barros Montero;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;811;Ramón Barros Montero;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;811;Ramón Barros Montero;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;813;Germán Becker Alvear;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;813;Germán Becker Alvear;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;813;Germán Becker Alvear;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;813;Germán Becker Alvear;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;927;Pedro Browne Urrejola;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;927;Pedro Browne Urrejola;2014-03-10;;2017-06-21;2018-03-10;IND;Independie
+2010-2014;927;Pedro Browne Urrejola;2014-03-10;;2014-03-11;2017-06-20;AMPL;Amplitud
+2010-2014;816;Jorge Burgos Varela;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;816;Jorge Burgos Varela;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;816;Jorge Burgos Varela;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;929;Cristián Campos Jara;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;929;Cristián Campos Jara;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;931;Juan Luis Castro González;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;931;Juan Luis Castro González;2014-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2010-2014;931;Juan Luis Castro González;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;932;Eduardo Cerda García;2014-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2010-2014;932;Eduardo Cerda García;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;933;Aldo Cornejo González;2014-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2010-2014;933;Aldo Cornejo González;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;933;Aldo Cornejo González;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;933;Aldo Cornejo González;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;933;Aldo Cornejo González;2014-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2010-2014;824;Alfonso De Urresti Longton;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;824;Alfonso De Urresti Longton;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;825;Roberto Delmastro Naso;2014-03-10;;2010-03-11;2014-03-10;IND;Independie
+2010-2014;825;Roberto Delmastro Naso;2014-03-10;;1998-03-11;2002-03-10;IND;Independie
+2010-2014;825;Roberto Delmastro Naso;2014-03-10;;2002-03-11;2006-03-10;IND;Independie
+2010-2014;825;Roberto Delmastro Naso;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;935;Rojo Edwards Silva;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;935;Rojo Edwards Silva;2014-03-10;;2014-03-11;2016-09-29;RN;Renovación
+2010-2014;935;Rojo Edwards Silva;2014-03-10;;2016-09-30;2018-03-10;IND;Independie
+2010-2014;831;Edmundo Eluchans Urenda;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;831;Edmundo Eluchans Urenda;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;838;Enrique Estay Peñaloza;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;838;Enrique Estay Peñaloza;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;839;Ramón Farías Ponce;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;839;Ramón Farías Ponce;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;839;Ramón Farías Ponce;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;844;Alejandro García-Hui Sanfuentes;2011-08-02;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;844;Alejandro García-Hui Sanfuentes;2011-08-02;;1998-03-11;2002-03-10;UDI;Unión Demó
+2010-2014;844;Alejandro García-Hui Sanfuentes;2011-08-02;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;844;Alejandro García-Hui Sanfuentes;2011-08-02;;1994-03-11;1998-03-10;UCP;Unión de C
+2010-2014;844;Alejandro García-Hui Sanfuentes;2011-08-02;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;936;Cristina Girardi Lavín;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;936;Cristina Girardi Lavín;2014-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2010-2014;936;Cristina Girardi Lavín;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;846;Joaquín Godoy Ibáñez;2014-03-10;;2014-03-11;2018-03-10;AMPL;Amplitud
+2010-2014;846;Joaquín Godoy Ibáñez;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;846;Joaquín Godoy Ibáñez;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;847;Carolina Goic Boroevic;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;847;Carolina Goic Boroevic;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;848;Rodrigo González Torres;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;848;Rodrigo González Torres;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;848;Rodrigo González Torres;2014-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2010-2014;848;Rodrigo González Torres;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;848;Rodrigo González Torres;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;938;Romilio Gutiérrez Pino;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;938;Romilio Gutiérrez Pino;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;849;Patricio Hales Dib;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;849;Patricio Hales Dib;2014-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2010-2014;849;Patricio Hales Dib;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;849;Patricio Hales Dib;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;922;Felipe Harboe Bascuñán;2014-03-10;;2009-03-19;2013-03-18;PPD;Partido Po
+2010-2014;922;Felipe Harboe Bascuñán;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;850;Javier Hernández Hernández;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;850;Javier Hernández Hernández;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;850;Javier Hernández Hernández;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;850;Javier Hernández Hernández;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;850;Javier Hernández Hernández;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;940;María José Hoffmann Opazo;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;940;María José Hoffmann Opazo;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;940;María José Hoffmann Opazo;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;853;Marta Isasi Barbieri;2014-03-10;;2010-03-11;2014-03-10;IND;Independie
+2010-2014;853;Marta Isasi Barbieri;2014-03-10;;2006-03-11;2010-03-10;IND;Independie
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;1998-03-11;2002-03-10;PR;Partido Ra
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;2018-03-11;2019-12-18;PR;Partido Ra
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;2019-12-19;2022-03-10;IND;Independie
+2010-2014;855;Carlos Abe Jarpa Wevar;2014-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2010-2014;856;Tucapel Jiménez Fuentes;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;856;Tucapel Jiménez Fuentes;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;856;Tucapel Jiménez Fuentes;2014-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2010-2014;856;Tucapel Jiménez Fuentes;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;857;José Anton Kast Rist;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;857;José Anton Kast Rist;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;857;José Anton Kast Rist;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;857;José Anton Kast Rist;2014-03-10;;2014-03-11;2017-07-03;UDI;Unión Demó
+2010-2014;857;José Anton Kast Rist;2014-03-10;;2017-07-04;2018-03-10;IND;Independie
+2010-2014;858;Juan Carlo Latorre Carmona;2014-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2010-2014;858;Juan Carlo Latorre Carmona;2014-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2010-2014;858;Juan Carlo Latorre Carmona;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;858;Juan Carlo Latorre Carmona;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;860;Roberto León Ramírez;2014-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2010-2014;860;Roberto León Ramírez;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;860;Roberto León Ramírez;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;860;Roberto León Ramírez;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;860;Roberto León Ramírez;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;861;Juan Lobos Krause;2011-04-11;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;861;Juan Lobos Krause;2011-04-11;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;2018-03-11;2020-04-27;DC;Partido De
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;2020-04-28;2022-03-10;IND;Independie
+2010-2014;862;Pablo Lorenzini Basso;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;942;Javier Macaya Danús;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;942;Javier Macaya Danús;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;942;Javier Macaya Danús;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;863;Rosauro Martínez Labbé;2014-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2010-2014;863;Rosauro Martínez Labbé;2014-03-10;;1998-03-11;2002-03-10;IND;Independie
+2010-2014;863;Rosauro Martínez Labbé;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;863;Rosauro Martínez Labbé;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;863;Rosauro Martínez Labbé;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;863;Rosauro Martínez Labbé;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;1990-03-11;1994-03-10;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;1994-03-11;1998-03-10;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;2018-03-11;2021-04-12;UDI;Unión Demó
+2010-2014;865;Patricio Melero Abaroa;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;866;Fernando Meza Moncada;2014-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2010-2014;866;Fernando Meza Moncada;2014-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2010-2014;866;Fernando Meza Moncada;2014-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2010-2014;866;Fernando Meza Moncada;2014-03-10;;2018-03-11;2019-12-18;PR;Partido Ra
+2010-2014;866;Fernando Meza Moncada;2014-03-10;;2019-12-19;2022-03-10;IND;Independie
+2010-2014;866;Fernando Meza Moncada;2014-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2010-2014;867;Cristián Monckeberg Bruner;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;867;Cristián Monckeberg Bruner;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;867;Cristián Monckeberg Bruner;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;868;Nicolás Monckeberg Díaz;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;868;Nicolás Monckeberg Díaz;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;868;Nicolás Monckeberg Díaz;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;868;Nicolás Monckeberg Díaz;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;869;Manuel Monsalve Benavides;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;869;Manuel Monsalve Benavides;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;869;Manuel Monsalve Benavides;2014-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2010-2014;869;Manuel Monsalve Benavides;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;945;Celso Morales Muñoz;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;945;Celso Morales Muñoz;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;945;Celso Morales Muñoz;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;871;Iván Moreira Barros;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;871;Iván Moreira Barros;2014-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2010-2014;871;Iván Moreira Barros;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;871;Iván Moreira Barros;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;871;Iván Moreira Barros;2014-03-10;;1994-03-11;1998-03-10;UDI;Unión Demó
+2010-2014;873;Adriana Muñoz D'Albora;2014-03-10;;1990-03-11;1994-03-10;PS;Partido So
+2010-2014;873;Adriana Muñoz D'Albora;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;873;Adriana Muñoz D'Albora;2014-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2010-2014;873;Adriana Muñoz D'Albora;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;873;Adriana Muñoz D'Albora;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;874;Claudia Nogueira Fernández;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;874;Claudia Nogueira Fernández;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;874;Claudia Nogueira Fernández;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;876;Marco Anto Núñez Lozano;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;876;Marco Anto Núñez Lozano;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;876;Marco Anto Núñez Lozano;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;877;Sergio Ojeda Uribe;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;879;José Migue Ortiz Novoa;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;883;Denise Pascal Allende;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;883;Denise Pascal Allende;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;883;Denise Pascal Allende;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;885;José Pérez Arriagada;2014-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2010-2014;885;José Pérez Arriagada;2014-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2010-2014;885;José Pérez Arriagada;2014-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2010-2014;885;José Pérez Arriagada;2014-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2010-2014;885;José Pérez Arriagada;2014-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2010-2014;885;José Pérez Arriagada;2014-03-10;;1998-03-11;2002-03-10;PR;Partido Ra
+2010-2014;946;Leopoldo Pérez Lahsen;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;946;Leopoldo Pérez Lahsen;2014-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2010-2014;946;Leopoldo Pérez Lahsen;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;887;Carlos Recondo Lavanderos;2014-03-10;;1990-03-11;1994-03-10;UDI;Unión Demó
+2010-2014;887;Carlos Recondo Lavanderos;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;887;Carlos Recondo Lavanderos;2014-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2010-2014;887;Carlos Recondo Lavanderos;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;887;Carlos Recondo Lavanderos;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;948;Gaspar Rivas Sánchez;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;948;Gaspar Rivas Sánchez;2014-03-10;;2022-03-11;2024-08-26;PDG;Partido de
+2010-2014;948;Gaspar Rivas Sánchez;2014-03-10;;2024-08-27;2026-03-10;IND;Independie
+2010-2014;948;Gaspar Rivas Sánchez;2014-03-10;;2014-08-14;2018-03-10;IND;Independie
+2010-2014;888;Alberto Robles Pantoja;2014-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2010-2014;888;Alberto Robles Pantoja;2014-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2010-2014;888;Alberto Robles Pantoja;2014-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2010-2014;888;Alberto Robles Pantoja;2014-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2010-2014;889;Manuel Rojas Molina;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;889;Manuel Rojas Molina;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;889;Manuel Rojas Molina;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;889;Manuel Rojas Molina;2014-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2010-2014;892;María Anto Saa Díaz;2014-03-10;;1994-03-11;1998-03-10;PPD;Partido Po
+2010-2014;892;María Anto Saa Díaz;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;892;María Anto Saa Díaz;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;892;María Anto Saa Díaz;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;892;María Anto Saa Díaz;2014-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2010-2014;893;Jorge Sabag Villalobos;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;893;Jorge Sabag Villalobos;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;893;Jorge Sabag Villalobos;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;893;Jorge Sabag Villalobos;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;949;Marcela Sabat Fernández;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;949;Marcela Sabat Fernández;2014-03-10;;2018-03-11;2020-08-04;RN;Renovación
+2010-2014;949;Marcela Sabat Fernández;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;895;Felipe Salaberry Soto;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;895;Felipe Salaberry Soto;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;895;Felipe Salaberry Soto;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;951;David Sandoval Plaza;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;951;David Sandoval Plaza;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;952;Alejandro Santana Tirachini;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;952;Alejandro Santana Tirachini;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;952;Alejandro Santana Tirachini;2014-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2010-2014;953;Frank Sauerbaum Muñoz;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;953;Frank Sauerbaum Muñoz;2014-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2010-2014;953;Frank Sauerbaum Muñoz;2014-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2010-2014;897;Alejandra Sepúlveda Orbenes;2014-03-10;;2006-03-11;2010-03-10;IND;Independie
+2010-2014;897;Alejandra Sepúlveda Orbenes;2014-03-10;;2010-03-11;2014-03-10;PRI;Partido Re
+2010-2014;897;Alejandra Sepúlveda Orbenes;2014-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2010-2014;897;Alejandra Sepúlveda Orbenes;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;897;Alejandra Sepúlveda Orbenes;2014-03-10;;2014-03-11;2018-03-10;IND;Independie
+2010-2014;898;Gabriel Silber Romo;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;898;Gabriel Silber Romo;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;898;Gabriel Silber Romo;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;898;Gabriel Silber Romo;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;954;Ernesto Silva Méndez;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;954;Ernesto Silva Méndez;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;902;Jorge Tarud Daccarett;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;902;Jorge Tarud Daccarett;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;902;Jorge Tarud Daccarett;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;902;Jorge Tarud Daccarett;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;956;Guillermo Teillier Del Valle;2014-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2010-2014;956;Guillermo Teillier Del Valle;2014-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2010-2014;956;Guillermo Teillier Del Valle;2014-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2010-2014;957;Víctor Torres Jeldes;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;957;Víctor Torres Jeldes;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;957;Víctor Torres Jeldes;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;905;Marisol Turres Figueroa;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;905;Marisol Turres Figueroa;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;905;Marisol Turres Figueroa;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;1994-03-11;1998-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;1990-03-11;1994-03-10;UDI;Unión Demó
+2010-2014;906;Jorge Ulloa Aguillón;2014-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2010-2014;907;Gonzalo Uriarte Herrera;2011-03-01;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;907;Gonzalo Uriarte Herrera;2011-03-01;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;907;Gonzalo Uriarte Herrera;2011-03-01;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2019-04-24;2019-11-16;IND;Independie
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2018-03-11;2019-04-23;UDI;Unión Demó
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2019-11-17;2022-03-10;PREP;Partido Re
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;908;Ignacio Urrutia Bonilla;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;959;Enrique Van Ryssel Herrera;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;959;Enrique Van Ryssel Herrera;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;959;Enrique Van Ryssel Herrera;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;960;Orlando Vargas Pizarro;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;961;Pedro Velásquez Seguel;2014-03-10;;2010-03-11;2014-03-10;IND;Independie
+2010-2014;961;Pedro Velásquez Seguel;2014-03-10;;2018-03-11;2022-03-10;IND;Independie
+2010-2014;913;Mario Venegas Cárdenas;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;913;Mario Venegas Cárdenas;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;913;Mario Venegas Cárdenas;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;913;Mario Venegas Cárdenas;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;916;Ximena Vidal Lázaro;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;916;Ximena Vidal Lázaro;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;916;Ximena Vidal Lázaro;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;962;Carlos Vilches Guzmán;2014-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2010-2014;962;Carlos Vilches Guzmán;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;962;Carlos Vilches Guzmán;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;962;Carlos Vilches Guzmán;2014-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2010-2014;962;Carlos Vilches Guzmán;2014-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2010-2014;917;Gastón Von Mühlen Zamora;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;917;Gastón Von Mühlen Zamora;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;917;Gastón Von Mühlen Zamora;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;917;Gastón Von Mühlen Zamora;2014-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2010-2014;917;Gastón Von Mühlen Zamora;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;919;Felipe Ward Edwards;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;919;Felipe Ward Edwards;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;919;Felipe Ward Edwards;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;964;Mónica Zalaquett Said;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;967;Issa Kort Garriga;2014-03-10;;2011-08-10;2015-08-09;UDI;Unión Demó
+2010-2014;967;Issa Kort Garriga;2014-03-10;;2018-03-11;2021-06-13;UDI;Unión Demó
+2010-2014;967;Issa Kort Garriga;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;810;Gabriel Ascencio Mansilla;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;810;Gabriel Ascencio Mansilla;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;810;Gabriel Ascencio Mansilla;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;810;Gabriel Ascencio Mansilla;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;810;Gabriel Ascencio Mansilla;2014-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2010-2014;810;Gabriel Ascencio Mansilla;2014-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2010-2014;814;Mario Bertolino Rendic;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;814;Mario Bertolino Rendic;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;814;Mario Bertolino Rendic;2014-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2010-2014;814;Mario Bertolino Rendic;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;818;Alberto Cardemil Herrera;2014-03-10;;2006-03-11;2010-03-10;IND;Independie
+2010-2014;818;Alberto Cardemil Herrera;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;818;Alberto Cardemil Herrera;2014-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2010-2014;818;Alberto Cardemil Herrera;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;818;Alberto Cardemil Herrera;2014-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2010-2014;822;María Angé Cristi Marfil;2014-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2010-2014;822;María Angé Cristi Marfil;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;822;María Angé Cristi Marfil;2014-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2010-2014;822;María Angé Cristi Marfil;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;822;María Angé Cristi Marfil;2014-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2010-2014;822;María Angé Cristi Marfil;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;837;Fidel Espinoza Sandoval;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;837;Fidel Espinoza Sandoval;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;837;Fidel Espinoza Sandoval;2014-03-10;;2002-03-11;2006-03-10;PS;Partido So
+2010-2014;837;Fidel Espinoza Sandoval;2014-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2010-2014;837;Fidel Espinoza Sandoval;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;843;René Manue García García;2014-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2010-2014;843;René Manue García García;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;937;Hugo Gutiérrez Gálvez;2014-03-10;;2018-03-11;2021-01-31;PC;Partido Co
+2010-2014;937;Hugo Gutiérrez Gálvez;2014-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2010-2014;937;Hugo Gutiérrez Gálvez;2014-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2010-2014;939;Gustavo Hasbún Selume;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;939;Gustavo Hasbún Selume;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;854;Enrique Jaramillo Becker;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;854;Enrique Jaramillo Becker;2014-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2010-2014;854;Enrique Jaramillo Becker;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;854;Enrique Jaramillo Becker;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;854;Enrique Jaramillo Becker;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;800;Enrique Accorsi Opazo;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;800;Enrique Accorsi Opazo;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;800;Enrique Accorsi Opazo;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;923;Pedro Pabl Álvarez-Sa Ramírez;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;923;Pedro Pabl Álvarez-Sa Ramírez;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;923;Pedro Pabl Álvarez-Sa Ramírez;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;809;Gonzalo Arenas Hödar;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;809;Gonzalo Arenas Hödar;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;925;Pepe Auth Stewart;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;925;Pepe Auth Stewart;2014-03-10;;2018-03-11;2022-03-10;IND;Independie
+2010-2014;925;Pepe Auth Stewart;2014-03-10;;2017-03-21;2018-03-10;IND;Independie
+2010-2014;925;Pepe Auth Stewart;2014-03-10;;2014-03-11;2017-03-20;PPD;Partido Po
+2010-2014;812;Eugenio Bauer Jouanne;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;812;Eugenio Bauer Jouanne;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;812;Eugenio Bauer Jouanne;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;815;Sergio Bobadilla Muñoz;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;815;Sergio Bobadilla Muñoz;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;815;Sergio Bobadilla Muñoz;2014-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2010-2014;815;Sergio Bobadilla Muñoz;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;815;Sergio Bobadilla Muñoz;2014-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2010-2014;928;Giovanni Calderón Bassi;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;930;Lautaro Carmona Soto;2014-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2010-2014;930;Lautaro Carmona Soto;2014-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2010-2014;819;Guillermo Ceroni Fuentes;2014-03-10;;1994-03-11;1998-03-10;PPD;Partido Po
+2010-2014;819;Guillermo Ceroni Fuentes;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;819;Guillermo Ceroni Fuentes;2014-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2010-2014;819;Guillermo Ceroni Fuentes;2014-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2010-2014;819;Guillermo Ceroni Fuentes;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;819;Guillermo Ceroni Fuentes;2014-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2010-2014;934;Fuad Chahin Valenzuela;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;934;Fuad Chahin Valenzuela;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;827;Marcelo Díaz Díaz;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;827;Marcelo Díaz Díaz;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;827;Marcelo Díaz Díaz;2014-03-10;;2018-03-11;2020-01-13;PS;Partido So
+2010-2014;827;Marcelo Díaz Díaz;2014-03-10;;2020-01-14;2022-03-10;IND;Independie
+2010-2014;836;Marcos Espinosa Monardes;2014-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2010-2014;836;Marcos Espinosa Monardes;2014-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2010-2014;836;Marcos Espinosa Monardes;2014-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2010-2014;966;Joel Rosales Guzmán;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;941;Luis Lemus Aracena;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;941;Luis Lemus Aracena;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;943;Miodrag Marinovic Solo de Za;2014-03-10;;2010-03-11;2014-03-10;IND;Independie
+2010-2014;944;Andrea Molina Oliva;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;944;Andrea Molina Oliva;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;870;Carlos Montes Cisternas;2014-03-10;;1990-03-11;1994-03-10;PS;Partido So
+2010-2014;870;Carlos Montes Cisternas;2014-03-10;;1998-03-11;2002-03-10;PS;Partido So
+2010-2014;870;Carlos Montes Cisternas;2014-03-10;;2002-03-11;2006-03-10;PS;Partido So
+2010-2014;870;Carlos Montes Cisternas;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;870;Carlos Montes Cisternas;2014-03-10;;1994-03-11;1998-03-10;PS;Partido So
+2010-2014;870;Carlos Montes Cisternas;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;875;Iván Norambuena Farías;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;875;Iván Norambuena Farías;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;875;Iván Norambuena Farías;2014-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2010-2014;875;Iván Norambuena Farías;2014-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2010-2014;875;Iván Norambuena Farías;2014-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2010-2014;880;Clemira Pacheco Rivas;2014-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2010-2014;880;Clemira Pacheco Rivas;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;880;Clemira Pacheco Rivas;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;947;Ricardo Rincón González;2014-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2010-2014;947;Ricardo Rincón González;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;947;Ricardo Rincón González;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;891;Karla Rubilar Barahona;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;891;Karla Rubilar Barahona;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;891;Karla Rubilar Barahona;2014-03-10;;2014-03-11;2018-03-10;IND;Independie
+2010-2014;950;René Saffirio Espinoza;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;950;René Saffirio Espinoza;2014-03-10;;2014-03-11;2018-03-10;IND;Independie
+2010-2014;950;René Saffirio Espinoza;2014-03-10;;2018-03-11;2022-03-10;IND;Independie
+2010-2014;920;Marcelo Schilling Rodríguez;2014-03-10;;2008-08-12;2012-08-11;PS;Partido So
+2010-2014;920;Marcelo Schilling Rodríguez;2014-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2010-2014;920;Marcelo Schilling Rodríguez;2014-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2010-2014;920;Marcelo Schilling Rodríguez;2014-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2010-2014;955;Arturo Squella Ovalle;2014-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2010-2014;955;Arturo Squella Ovalle;2014-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2010-2014;958;Joaquín Tuma Zedan;2014-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2010-2014;958;Joaquín Tuma Zedan;2014-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2010-2014;911;Patricio Vallespín López;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;911;Patricio Vallespín López;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2010-2014;911;Patricio Vallespín López;2014-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2010-2014;915;Germán Verdugo Soto;2014-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2010-2014;915;Germán Verdugo Soto;2014-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2010-2014;915;Germán Verdugo Soto;2014-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2010-2014;915;Germán Verdugo Soto;2014-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2010-2014;963;Matías Walker Prieto;2014-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2010-2014;963;Matías Walker Prieto;2014-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2010-2014;963;Matías Walker Prieto;2014-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;955;Arturo Squella Ovalle;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;955;Arturo Squella Ovalle;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;1990-03-11;1994-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;1994-03-11;1998-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;2018-03-11;2021-04-12;UDI;Unión Demó
+2014-2018;865;Patricio Melero Abaroa;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;925;Pepe Auth Stewart;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;925;Pepe Auth Stewart;2018-03-10;;2018-03-11;2022-03-10;IND;Independie
+2014-2018;925;Pepe Auth Stewart;2018-03-10;;2017-03-21;2018-03-10;IND;Independie
+2014-2018;925;Pepe Auth Stewart;2018-03-10;;2014-03-11;2017-03-20;PPD;Partido Po
+2014-2018;939;Gustavo Hasbún Selume;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;939;Gustavo Hasbún Selume;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;883;Denise Pascal Allende;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;883;Denise Pascal Allende;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;883;Denise Pascal Allende;2018-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2014-2018;942;Javier Macaya Danús;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;942;Javier Macaya Danús;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;942;Javier Macaya Danús;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;915;Germán Verdugo Soto;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;915;Germán Verdugo Soto;2018-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2014-2018;915;Germán Verdugo Soto;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;915;Germán Verdugo Soto;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;819;Guillermo Ceroni Fuentes;2018-03-10;;1994-03-11;1998-03-10;PPD;Partido Po
+2014-2018;819;Guillermo Ceroni Fuentes;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;819;Guillermo Ceroni Fuentes;2018-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2014-2018;819;Guillermo Ceroni Fuentes;2018-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2014-2018;819;Guillermo Ceroni Fuentes;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;819;Guillermo Ceroni Fuentes;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;879;José Migue Ortiz Novoa;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;913;Mario Venegas Cárdenas;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;913;Mario Venegas Cárdenas;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;913;Mario Venegas Cárdenas;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;913;Mario Venegas Cárdenas;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;843;René Manue García García;2018-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2014-2018;843;René Manue García García;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;905;Marisol Turres Figueroa;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;905;Marisol Turres Figueroa;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;905;Marisol Turres Figueroa;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;1003;Renzo Trisotti Martínez;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;1003;Renzo Trisotti Martínez;2018-03-10;;2022-03-11;2024-04-16;UDI;Unión Demó
+2014-2018;1003;Renzo Trisotti Martínez;2018-03-10;;2024-04-17;2025-07-08;IND;Independie
+2014-2018;1003;Renzo Trisotti Martínez;2018-03-10;;2025-07-09;2026-03-10;PREP;Partido Re
+2014-2018;1003;Renzo Trisotti Martínez;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;1001;Raúl Saldívar Auger;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;1001;Raúl Saldívar Auger;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;989;Joaquín Lavín León;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;989;Joaquín Lavín León;2018-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2014-2018;989;Joaquín Lavín León;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;1006;Camila Vallejo Dowling;2018-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2014-2018;1006;Camila Vallejo Dowling;2018-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2014-2018;974;Loreto Carvajal Ambiado;2018-03-10;;2018-03-11;2021-03-03;PPD;Partido Po
+2014-2018;974;Loreto Carvajal Ambiado;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;982;Iván Flores García;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;982;Iván Flores García;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;992;Juan Enriq Morano Cornejo;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;937;Hugo Gutiérrez Gálvez;2018-03-10;;2018-03-11;2021-01-31;PC;Partido Co
+2014-2018;937;Hugo Gutiérrez Gálvez;2018-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2014-2018;937;Hugo Gutiérrez Gálvez;2018-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2014-2018;836;Marcos Espinosa Monardes;2018-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2014-2018;836;Marcos Espinosa Monardes;2018-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2014-2018;836;Marcos Espinosa Monardes;2018-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2014-2018;919;Felipe Ward Edwards;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;919;Felipe Ward Edwards;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;919;Felipe Ward Edwards;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;930;Lautaro Carmona Soto;2018-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2014-2018;930;Lautaro Carmona Soto;2018-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2014-2018;888;Alberto Robles Pantoja;2018-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2014-2018;888;Alberto Robles Pantoja;2018-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2014-2018;888;Alberto Robles Pantoja;2018-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2014-2018;888;Alberto Robles Pantoja;2018-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2014-2018;963;Matías Walker Prieto;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;963;Matías Walker Prieto;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;963;Matías Walker Prieto;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;852;Jorge Insunza Gregorio d;2015-05-12;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;852;Jorge Insunza Gregorio d;2015-05-12;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;941;Luis Lemus Aracena;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;941;Luis Lemus Aracena;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;944;Andrea Molina Oliva;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;944;Andrea Molina Oliva;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;876;Marco Anto Núñez Lozano;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;876;Marco Anto Núñez Lozano;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;876;Marco Anto Núñez Lozano;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;948;Gaspar Rivas Sánchez;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;948;Gaspar Rivas Sánchez;2018-03-10;;2022-03-11;2024-08-26;PDG;Partido de
+2014-2018;948;Gaspar Rivas Sánchez;2018-03-10;;2024-08-27;2026-03-10;IND;Independie
+2014-2018;948;Gaspar Rivas Sánchez;2018-03-10;;2014-08-14;2018-03-10;IND;Independie
+2014-2018;920;Marcelo Schilling Rodríguez;2018-03-10;;2008-08-12;2012-08-11;PS;Partido So
+2014-2018;920;Marcelo Schilling Rodríguez;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;920;Marcelo Schilling Rodríguez;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;920;Marcelo Schilling Rodríguez;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;933;Aldo Cornejo González;2018-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2014-2018;933;Aldo Cornejo González;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;933;Aldo Cornejo González;2018-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2014-2018;933;Aldo Cornejo González;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;933;Aldo Cornejo González;2018-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2014-2018;846;Joaquín Godoy Ibáñez;2018-03-10;;2014-03-11;2018-03-10;AMPL;Amplitud
+2014-2018;846;Joaquín Godoy Ibáñez;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;846;Joaquín Godoy Ibáñez;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;848;Rodrigo González Torres;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;848;Rodrigo González Torres;2018-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2014-2018;848;Rodrigo González Torres;2018-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2014-2018;848;Rodrigo González Torres;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;848;Rodrigo González Torres;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;940;María José Hoffmann Opazo;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;940;María José Hoffmann Opazo;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;940;María José Hoffmann Opazo;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;957;Víctor Torres Jeldes;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;957;Víctor Torres Jeldes;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;957;Víctor Torres Jeldes;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;898;Gabriel Silber Romo;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;898;Gabriel Silber Romo;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;898;Gabriel Silber Romo;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;898;Gabriel Silber Romo;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;891;Karla Rubilar Barahona;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;891;Karla Rubilar Barahona;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;891;Karla Rubilar Barahona;2018-03-10;;2014-03-11;2018-03-10;IND;Independie
+2014-2018;936;Cristina Girardi Lavín;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;936;Cristina Girardi Lavín;2018-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2014-2018;936;Cristina Girardi Lavín;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;868;Nicolás Monckeberg Díaz;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;868;Nicolás Monckeberg Díaz;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;868;Nicolás Monckeberg Díaz;2018-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2014-2018;868;Nicolás Monckeberg Díaz;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;874;Claudia Nogueira Fernández;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;874;Claudia Nogueira Fernández;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;874;Claudia Nogueira Fernández;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;949;Marcela Sabat Fernández;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;949;Marcela Sabat Fernández;2018-03-10;;2018-03-11;2020-08-04;RN;Renovación
+2014-2018;949;Marcela Sabat Fernández;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;867;Cristián Monckeberg Bruner;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;867;Cristián Monckeberg Bruner;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;867;Cristián Monckeberg Bruner;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;954;Ernesto Silva Méndez;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;954;Ernesto Silva Méndez;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;857;José Anton Kast Rist;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;857;José Anton Kast Rist;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;857;José Anton Kast Rist;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;857;José Anton Kast Rist;2018-03-10;;2014-03-11;2017-07-03;UDI;Unión Demó
+2014-2018;857;José Anton Kast Rist;2018-03-10;;2017-07-04;2018-03-10;IND;Independie
+2014-2018;839;Ramón Farías Ponce;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;839;Ramón Farías Ponce;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;839;Ramón Farías Ponce;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;856;Tucapel Jiménez Fuentes;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;856;Tucapel Jiménez Fuentes;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;856;Tucapel Jiménez Fuentes;2018-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2014-2018;856;Tucapel Jiménez Fuentes;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;927;Pedro Browne Urrejola;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;927;Pedro Browne Urrejola;2018-03-10;;2017-06-21;2018-03-10;IND;Independie
+2014-2018;927;Pedro Browne Urrejola;2018-03-10;;2014-03-11;2017-06-20;AMPL;Amplitud
+2014-2018;956;Guillermo Teillier Del Valle;2018-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2014-2018;956;Guillermo Teillier Del Valle;2018-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2014-2018;956;Guillermo Teillier Del Valle;2018-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2014-2018;924;Osvaldo Andrade Lara;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;924;Osvaldo Andrade Lara;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;946;Leopoldo Pérez Lahsen;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;946;Leopoldo Pérez Lahsen;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;946;Leopoldo Pérez Lahsen;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;931;Juan Luis Castro González;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;931;Juan Luis Castro González;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;931;Juan Luis Castro González;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;967;Issa Kort Garriga;2018-03-10;;2011-08-10;2015-08-09;UDI;Unión Demó
+2014-2018;967;Issa Kort Garriga;2018-03-10;;2018-03-11;2021-06-13;UDI;Unión Demó
+2014-2018;967;Issa Kort Garriga;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;177;Felipe Letelier Norambuena;2018-03-10;;1994-03-11;1998-03-10;PPD;Partido Po
+2014-2018;177;Felipe Letelier Norambuena;2018-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2014-2018;177;Felipe Letelier Norambuena;2018-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2014-2018;177;Felipe Letelier Norambuena;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;947;Ricardo Rincón González;2018-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2014-2018;947;Ricardo Rincón González;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;947;Ricardo Rincón González;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;897;Alejandra Sepúlveda Orbenes;2018-03-10;;2006-03-11;2010-03-10;IND;Independie
+2014-2018;897;Alejandra Sepúlveda Orbenes;2018-03-10;;2010-03-11;2014-03-10;PRI;Partido Re
+2014-2018;897;Alejandra Sepúlveda Orbenes;2018-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2014-2018;897;Alejandra Sepúlveda Orbenes;2018-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2014-2018;897;Alejandra Sepúlveda Orbenes;2018-03-10;;2014-03-11;2018-03-10;IND;Independie
+2014-2018;811;Ramón Barros Montero;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;811;Ramón Barros Montero;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;811;Ramón Barros Montero;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;811;Ramón Barros Montero;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;811;Ramón Barros Montero;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;860;Roberto León Ramírez;2018-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2014-2018;860;Roberto León Ramírez;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;860;Roberto León Ramírez;2018-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2014-2018;860;Roberto León Ramírez;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;860;Roberto León Ramírez;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;945;Celso Morales Muñoz;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;945;Celso Morales Muñoz;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;945;Celso Morales Muñoz;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;1990-03-11;1994-03-10;PS;Partido So
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;1994-03-11;1998-03-10;PS;Partido So
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;2010-03-11;2014-03-10;IC;Izquierda 
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;1998-03-11;2002-03-10;PS;Partido So
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;2002-03-11;2006-03-10;PS;Partido So
+2014-2018;802;Sergio Aguiló Melo;2018-03-10;;2014-03-11;2018-03-10;IC;Izquierda 
+2014-2018;923;Pedro Pabl Álvarez-Sa Ramírez;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;923;Pedro Pabl Álvarez-Sa Ramírez;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;923;Pedro Pabl Álvarez-Sa Ramírez;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;2018-03-11;2020-04-27;DC;Partido De
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;2020-04-28;2022-03-10;IND;Independie
+2014-2018;862;Pablo Lorenzini Basso;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;938;Romilio Gutiérrez Pino;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;938;Romilio Gutiérrez Pino;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;902;Jorge Tarud Daccarett;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;902;Jorge Tarud Daccarett;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;902;Jorge Tarud Daccarett;2018-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2014-2018;902;Jorge Tarud Daccarett;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2019-04-24;2019-11-16;IND;Independie
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2018-03-11;2019-04-23;UDI;Unión Demó
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2019-11-17;2022-03-10;PREP;Partido Re
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;908;Ignacio Urrutia Bonilla;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;1998-03-11;2002-03-10;PR;Partido Ra
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;2018-03-11;2019-12-18;PR;Partido Ra
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;2019-12-19;2022-03-10;IND;Independie
+2014-2018;855;Carlos Abe Jarpa Wevar;2018-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2014-2018;863;Rosauro Martínez Labbé;2018-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2014-2018;863;Rosauro Martínez Labbé;2018-03-10;;1998-03-11;2002-03-10;IND;Independie
+2014-2018;863;Rosauro Martínez Labbé;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;863;Rosauro Martínez Labbé;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;863;Rosauro Martínez Labbé;2018-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2014-2018;863;Rosauro Martínez Labbé;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;893;Jorge Sabag Villalobos;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;893;Jorge Sabag Villalobos;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;893;Jorge Sabag Villalobos;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;893;Jorge Sabag Villalobos;2018-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2014-2018;929;Cristián Campos Jara;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;929;Cristián Campos Jara;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;1994-03-11;1998-03-10;UDI;Unión Demó
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;1990-03-11;1994-03-10;UDI;Unión Demó
+2014-2018;906;Jorge Ulloa Aguillón;2018-03-10;;1998-03-11;2002-03-10;UDI;Unión Demó
+2014-2018;959;Enrique Van Ryssel Herrera;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;959;Enrique Van Ryssel Herrera;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;959;Enrique Van Ryssel Herrera;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;880;Clemira Pacheco Rivas;2018-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2014-2018;880;Clemira Pacheco Rivas;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;880;Clemira Pacheco Rivas;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;869;Manuel Monsalve Benavides;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;869;Manuel Monsalve Benavides;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;869;Manuel Monsalve Benavides;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;869;Manuel Monsalve Benavides;2018-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2014-2018;875;Iván Norambuena Farías;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;875;Iván Norambuena Farías;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;875;Iván Norambuena Farías;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;875;Iván Norambuena Farías;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;875;Iván Norambuena Farías;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;885;José Pérez Arriagada;2018-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2014-2018;885;José Pérez Arriagada;2018-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2014-2018;885;José Pérez Arriagada;2018-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2014-2018;885;José Pérez Arriagada;2018-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2014-2018;885;José Pérez Arriagada;2018-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2014-2018;885;José Pérez Arriagada;2018-03-10;;1998-03-11;2002-03-10;PR;Partido Ra
+2014-2018;934;Fuad Chahin Valenzuela;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;934;Fuad Chahin Valenzuela;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;813;Germán Becker Alvear;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;813;Germán Becker Alvear;2018-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2014-2018;813;Germán Becker Alvear;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;813;Germán Becker Alvear;2018-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2014-2018;950;René Saffirio Espinoza;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;950;René Saffirio Espinoza;2018-03-10;;2014-03-11;2018-03-10;IND;Independie
+2014-2018;950;René Saffirio Espinoza;2018-03-10;;2018-03-11;2022-03-10;IND;Independie
+2014-2018;935;Rojo Edwards Silva;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;935;Rojo Edwards Silva;2018-03-10;;2014-03-11;2016-09-29;RN;Renovación
+2014-2018;935;Rojo Edwards Silva;2018-03-10;;2016-09-30;2018-03-10;IND;Independie
+2014-2018;958;Joaquín Tuma Zedan;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;958;Joaquín Tuma Zedan;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;866;Fernando Meza Moncada;2018-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2014-2018;866;Fernando Meza Moncada;2018-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2014-2018;866;Fernando Meza Moncada;2018-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2014-2018;866;Fernando Meza Moncada;2018-03-10;;2018-03-11;2019-12-18;PR;Partido Ra
+2014-2018;866;Fernando Meza Moncada;2018-03-10;;2019-12-19;2022-03-10;IND;Independie
+2014-2018;866;Fernando Meza Moncada;2018-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2014-2018;854;Enrique Jaramillo Becker;2018-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2014-2018;854;Enrique Jaramillo Becker;2018-03-10;;1998-03-11;2002-03-10;PPD;Partido Po
+2014-2018;854;Enrique Jaramillo Becker;2018-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2014-2018;854;Enrique Jaramillo Becker;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;854;Enrique Jaramillo Becker;2018-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2014-2018;850;Javier Hernández Hernández;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;850;Javier Hernández Hernández;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;850;Javier Hernández Hernández;2018-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2014-2018;850;Javier Hernández Hernández;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;850;Javier Hernández Hernández;2018-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;877;Sergio Ojeda Uribe;2018-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2014-2018;837;Fidel Espinoza Sandoval;2018-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2014-2018;837;Fidel Espinoza Sandoval;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;837;Fidel Espinoza Sandoval;2018-03-10;;2002-03-11;2006-03-10;PS;Partido So
+2014-2018;837;Fidel Espinoza Sandoval;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;837;Fidel Espinoza Sandoval;2018-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2014-2018;911;Patricio Vallespín López;2018-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2014-2018;911;Patricio Vallespín López;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;911;Patricio Vallespín López;2018-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2014-2018;952;Alejandro Santana Tirachini;2018-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2014-2018;952;Alejandro Santana Tirachini;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;952;Alejandro Santana Tirachini;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;951;David Sandoval Plaza;2018-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2014-2018;951;David Sandoval Plaza;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;991;Vlado Mirosevic Verdugo;2018-03-10;;2014-03-11;2018-03-10;PL;Partido Li
+2014-2018;991;Vlado Mirosevic Verdugo;2018-03-10;;2018-03-11;2022-03-10;LIBERAL;Partido Li
+2014-2018;991;Vlado Mirosevic Verdugo;2018-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2014-2018;1000;Luis Rocafull López;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;1000;Luis Rocafull López;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;986;Marcela Hernando Pérez;2018-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2014-2018;986;Marcela Hernando Pérez;2018-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2014-2018;986;Marcela Hernando Pérez;2018-03-10;;2026-03-11;2030-03-10;PR;Partido Ra
+2014-2018;994;Paulina Núñez Urrutia;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;994;Paulina Núñez Urrutia;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;975;Daniella Cicardini Milla;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;975;Daniella Cicardini Milla;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;975;Daniella Cicardini Milla;2018-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2014-2018;998;Yasna Provoste Campillay;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;985;Sergio Gahona Salazar;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;985;Sergio Gahona Salazar;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;993;Daniel Núñez Arancibia;2018-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2014-2018;993;Daniel Núñez Arancibia;2018-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2014-2018;1004;Christian Urízar Muñoz;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;1005;Osvaldo Urrutia Soto;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;1005;Osvaldo Urrutia Soto;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;980;Daniel Farcas Guendelman;2018-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2014-2018;973;Karol Cariola Oliva;2018-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2014-2018;973;Karol Cariola Oliva;2018-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2014-2018;973;Karol Cariola Oliva;2018-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2014-2018;981;Maya Fernández Allende;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;981;Maya Fernández Allende;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;987;Giorgio Jackson Drago;2018-03-10;;2014-03-11;2018-03-10;RD;Revolución
+2014-2018;987;Giorgio Jackson Drago;2018-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2014-2018;988;Felipe Kast Sommerhoff;2018-03-10;;2014-03-11;2018-03-10;EVOP;Evolución 
+2014-2018;996;Jaime Pilowsky Greene;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;969;Claudio Arriagada Macaya;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;990;Daniel Melo Contreras;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;990;Daniel Melo Contreras;2018-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2014-2018;970;Jaime Bellolio Avaria;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;970;Jaime Bellolio Avaria;2018-03-10;;2018-03-11;2020-07-28;UDI;Unión Demó
+2014-2018;1002;Leonardo Soto Ferrada;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;1002;Leonardo Soto Ferrada;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;1002;Leonardo Soto Ferrada;2018-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2014-2018;976;Juan Anton Coloma Álamos;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;976;Juan Anton Coloma Álamos;2018-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2014-2018;976;Juan Anton Coloma Álamos;2018-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2014-2018;979;Sergio Espejo Yaksic;2018-03-10;;2014-03-11;2017-08-22;DC;Partido De
+2014-2018;979;Sergio Espejo Yaksic;2018-03-10;;2017-08-23;2018-03-10;IND;Independie
+2014-2018;977;Marcelo Chávez Velásquez;2018-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2014-2018;997;Roberto Poblete Zapata;2018-03-10;;2014-03-11;2018-03-10;IND;Independie
+2014-2018;999;Jorge Rathgeb Schifferli;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;999;Jorge Rathgeb Schifferli;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;999;Jorge Rathgeb Schifferli;2018-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2014-2018;995;Diego Paulsen Kehr;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;995;Diego Paulsen Kehr;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;971;Bernardo Berger Fett;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;971;Bernardo Berger Fett;2018-03-10;;2022-03-11;2026-03-10;IND;Independie
+2014-2018;971;Bernardo Berger Fett;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;984;Gonzalo Fuenzalida Figueroa;2018-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2014-2018;984;Gonzalo Fuenzalida Figueroa;2018-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2014-2018;968;Jenny Álvarez Vera;2018-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2014-2018;968;Jenny Álvarez Vera;2018-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2014-2018;983;Iván Fuentes Castillo;2018-03-10;;2014-03-11;2018-03-10;IND;Independie
+2014-2018;972;Gabriel Boric Font;2018-03-10;;2018-03-11;2020-03-10;IND;Independie
+2014-2018;972;Gabriel Boric Font;2018-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2014-2018;972;Gabriel Boric Font;2018-03-10;;2014-03-11;2018-03-10;IND;Independie
+2014-2018;978;Felipe De Mussy Hiriart;2018-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2014-2018;1007;Miguel Áng Alvarado Ramírez;2018-03-10;;2015-07-22;2018-03-10;PPD;Partido Po
+2018-2022;1008;Florcita Alarcón Rojas;2022-03-10;;2018-03-11;2021-01-28;PH;Partido Hu
+2018-2022;1008;Florcita Alarcón Rojas;2022-03-10;;2021-01-29;2022-03-10;IND;Independie
+2018-2022;1009;Jorge Alessandri Vergara;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1009;Jorge Alessandri Vergara;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;1009;Jorge Alessandri Vergara;2022-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2018-2022;803;René Alinco Bustos;2022-03-10;;2010-03-11;2014-03-10;IND;Independie
+2018-2022;803;René Alinco Bustos;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;803;René Alinco Bustos;2022-03-10;;2022-03-11;2026-03-10;IND;Independie
+2018-2022;803;René Alinco Bustos;2022-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2018-2022;803;René Alinco Bustos;2022-03-10;;2026-03-11;2030-03-10;IND;Independie
+2018-2022;1010;Sebastián Álvarez Ramírez;2022-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2018-2022;968;Jenny Álvarez Vera;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;968;Jenny Álvarez Vera;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;923;Pedro Pabl Álvarez-Sa Ramírez;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;923;Pedro Pabl Álvarez-Sa Ramírez;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;923;Pedro Pabl Álvarez-Sa Ramírez;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1011;Sandra Amar Mancilla;2022-03-10;;2018-03-11;2020-09-28;UDI;Unión Demó
+2018-2022;1011;Sandra Amar Mancilla;2022-03-10;;2020-09-29;2022-03-10;IND;Independie
+2018-2022;810;Gabriel Ascencio Mansilla;2022-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2018-2022;810;Gabriel Ascencio Mansilla;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;810;Gabriel Ascencio Mansilla;2022-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2018-2022;810;Gabriel Ascencio Mansilla;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;810;Gabriel Ascencio Mansilla;2022-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2018-2022;810;Gabriel Ascencio Mansilla;2022-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2018-2022;925;Pepe Auth Stewart;2022-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2018-2022;925;Pepe Auth Stewart;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;925;Pepe Auth Stewart;2022-03-10;;2017-03-21;2018-03-10;IND;Independie
+2018-2022;925;Pepe Auth Stewart;2022-03-10;;2014-03-11;2017-03-20;PPD;Partido Po
+2018-2022;926;Nino Baltolu Rasera;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;926;Nino Baltolu Rasera;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1012;Boris Barrera Moreno;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;1012;Boris Barrera Moreno;2022-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2018-2022;1012;Boris Barrera Moreno;2022-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2018-2022;811;Ramón Barros Montero;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;811;Ramón Barros Montero;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;811;Ramón Barros Montero;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;811;Ramón Barros Montero;2022-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;811;Ramón Barros Montero;2022-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2018-2022;970;Jaime Bellolio Avaria;2020-07-28;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;970;Jaime Bellolio Avaria;2020-07-28;;2018-03-11;2020-07-28;UDI;Unión Demó
+2018-2022;971;Bernardo Berger Fett;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;971;Bernardo Berger Fett;2022-03-10;;2022-03-11;2026-03-10;IND;Independie
+2018-2022;971;Bernardo Berger Fett;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;1013;Alejandro Bernales Maldonado;2022-03-10;;2018-03-11;2022-03-10;LIBERAL;Partido Li
+2018-2022;1013;Alejandro Bernales Maldonado;2022-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2018-2022;1013;Alejandro Bernales Maldonado;2022-03-10;;2026-03-11;2030-03-10;PL;Partido Li
+2018-2022;1014;Karim Bianchi Retamales;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;815;Sergio Bobadilla Muñoz;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;815;Sergio Bobadilla Muñoz;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;815;Sergio Bobadilla Muñoz;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;815;Sergio Bobadilla Muñoz;2022-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;815;Sergio Bobadilla Muñoz;2022-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2018-2022;972;Gabriel Boric Font;2022-03-10;;2018-03-11;2020-03-10;IND;Independie
+2018-2022;972;Gabriel Boric Font;2022-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2018-2022;972;Gabriel Boric Font;2022-03-10;;2014-03-11;2018-03-10;IND;Independie
+2018-2022;1015;Jorge Brito Hasbún;2022-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2018-2022;1015;Jorge Brito Hasbún;2022-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2018-2022;1015;Jorge Brito Hasbún;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1015;Jorge Brito Hasbún;2022-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2018-2022;1016;Miguel Áng Calisto Águila;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;1016;Miguel Áng Calisto Águila;2022-03-10;;2022-03-11;2023-03-08;DC;Partido De
+2018-2022;1016;Miguel Áng Calisto Águila;2022-03-10;;2023-03-09;2026-03-10;IND;Independie
+2018-2022;973;Karol Cariola Oliva;2022-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2018-2022;973;Karol Cariola Oliva;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;973;Karol Cariola Oliva;2022-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2018-2022;1017;Álvaro Carter Fernández;2022-03-10;;2018-03-11;2025-03-18;UDI;Unión Demó
+2018-2022;1017;Álvaro Carter Fernández;2022-03-10;;2020-09-29;2022-03-10;IND;Independie
+2018-2022;1017;Álvaro Carter Fernández;2022-03-10;;2022-03-11;2025-03-18;UDI;Unión Demó
+2018-2022;1017;Álvaro Carter Fernández;2022-03-10;;2025-03-19;2026-03-10;IND;Independie
+2018-2022;1017;Álvaro Carter Fernández;2022-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2018-2022;974;Loreto Carvajal Ambiado;2021-03-03;;2018-03-11;2021-03-03;PPD;Partido Po
+2018-2022;974;Loreto Carvajal Ambiado;2021-03-03;;2014-03-11;2018-03-10;PPD;Partido Po
+2018-2022;1018;Natalia Castillo Muñoz;2022-03-10;;2018-03-11;2021-01-18;RD;Revolución
+2018-2022;1018;Natalia Castillo Muñoz;2022-03-10;;2021-01-19;2022-03-10;IND;Independie
+2018-2022;1019;José Migue Castro Bascuñán;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1019;José Migue Castro Bascuñán;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;931;Juan Luis Castro González;2022-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2018-2022;931;Juan Luis Castro González;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;931;Juan Luis Castro González;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;1020;Ricardo Celis Araya;2022-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2018-2022;1021;Andrés Celis Montt;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1021;Andrés Celis Montt;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1021;Andrés Celis Montt;2022-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2018-2022;975;Daniella Cicardini Milla;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;975;Daniella Cicardini Milla;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;975;Daniella Cicardini Milla;2022-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2018-2022;1022;Sofía Cid Versalovic;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1022;Sofía Cid Versalovic;2022-03-10;;2022-03-11;2024-08-05;RN;Renovación
+2018-2022;1022;Sofía Cid Versalovic;2022-03-10;;2024-08-06;2026-03-10;IND;Independie
+2018-2022;976;Juan Anton Coloma Álamos;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;976;Juan Anton Coloma Álamos;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;976;Juan Anton Coloma Álamos;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;1023;Miguel Crispi Serrano;2022-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2018-2022;1024;Luciano Cruz-Coke Carvallo;2022-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2018-2022;1025;Catalina Del Real Mihovilovi;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1025;Catalina Del Real Mihovilovi;2022-03-10;;2022-03-11;2023-08-22;RN;Renovación
+2018-2022;1025;Catalina Del Real Mihovilovi;2022-03-10;;2023-08-23;2026-03-10;IND;Independie
+2018-2022;1025;Catalina Del Real Mihovilovi;2022-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2018-2022;1026;Mario Desbordes Jiménez;2020-07-28;;2018-03-11;2020-07-28;RN;Renovación
+2018-2022;827;Marcelo Díaz Díaz;2022-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2018-2022;827;Marcelo Díaz Díaz;2022-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2018-2022;827;Marcelo Díaz Díaz;2022-03-10;;2018-03-11;2020-01-13;PS;Partido So
+2018-2022;827;Marcelo Díaz Díaz;2022-03-10;;2020-01-14;2022-03-10;IND;Independie
+2018-2022;1027;Jorge Durán Espinoza;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1027;Jorge Durán Espinoza;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1028;Eduardo Durán Salinas;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1028;Eduardo Durán Salinas;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1028;Eduardo Durán Salinas;2022-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2018-2022;1029;Francisco Eguiguren Correa;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;837;Fidel Espinoza Sandoval;2022-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2018-2022;837;Fidel Espinoza Sandoval;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;837;Fidel Espinoza Sandoval;2022-03-10;;2002-03-11;2006-03-10;PS;Partido So
+2018-2022;837;Fidel Espinoza Sandoval;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;837;Fidel Espinoza Sandoval;2022-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2018-2022;981;Maya Fernández Allende;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;981;Maya Fernández Allende;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;982;Iván Flores García;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;982;Iván Flores García;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1030;Camila Flores Oporto;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1030;Camila Flores Oporto;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1031;Juan Fuenzalida Cobo;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1031;Juan Fuenzalida Cobo;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;984;Gonzalo Fuenzalida Figueroa;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;984;Gonzalo Fuenzalida Figueroa;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;985;Sergio Gahona Salazar;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;985;Sergio Gahona Salazar;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1032;Ramón Galleguill Castillo;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2018-2022;843;René Manue García García;2022-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2018-2022;1033;Renato Garín González;2021-02-12;;2018-03-11;2019-04-23;RD;Revolución
+2018-2022;1033;Renato Garín González;2021-02-12;;2019-04-24;2021-02-12;IND;Independie
+2018-2022;936;Cristina Girardi Lavín;2022-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2018-2022;936;Cristina Girardi Lavín;2022-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2018-2022;936;Cristina Girardi Lavín;2022-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2018-2022;1034;Félix González Gatica;2022-03-10;;2018-03-11;2022-03-10;PEV;Partido Ec
+2018-2022;1034;Félix González Gatica;2022-03-10;;2022-03-11;2024-07-02;PEV;Partido Ec
+2018-2022;1034;Félix González Gatica;2022-03-10;;2024-07-03;2025-08-11;IND;Independie
+2018-2022;1034;Félix González Gatica;2022-03-10;;2025-08-12;2026-03-10;PEV;Partido Ec
+2018-2022;848;Rodrigo González Torres;2022-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2018-2022;848;Rodrigo González Torres;2022-03-10;;2002-03-11;2006-03-10;PPD;Partido Po
+2018-2022;848;Rodrigo González Torres;2022-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2018-2022;848;Rodrigo González Torres;2022-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2018-2022;848;Rodrigo González Torres;2022-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2018-2022;937;Hugo Gutiérrez Gálvez;2021-01-31;;2018-03-11;2021-01-31;PC;Partido Co
+2018-2022;937;Hugo Gutiérrez Gálvez;2021-01-31;;2014-03-11;2018-03-10;PC;Partido Co
+2018-2022;937;Hugo Gutiérrez Gálvez;2021-01-31;;2010-03-11;2014-03-10;PC;Partido Co
+2018-2022;850;Javier Hernández Hernández;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;850;Javier Hernández Hernández;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;850;Javier Hernández Hernández;2022-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2018-2022;850;Javier Hernández Hernández;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;850;Javier Hernández Hernández;2022-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;986;Marcela Hernando Pérez;2022-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2018-2022;986;Marcela Hernando Pérez;2022-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2018-2022;986;Marcela Hernando Pérez;2022-03-10;;2026-03-11;2030-03-10;PR;Partido Ra
+2018-2022;1035;Carmen Hertz Cádiz;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;1035;Carmen Hertz Cádiz;2022-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2018-2022;1036;Tomás Hirsch Goldschmid;2022-03-10;;2018-03-11;2020-05-05;PH;Partido Hu
+2018-2022;1036;Tomás Hirsch Goldschmid;2022-03-10;;2020-05-06;2022-03-10;IND;Independie
+2018-2022;1036;Tomás Hirsch Goldschmid;2022-03-10;;2022-03-11;2023-03-06;IND;Independie
+2018-2022;1036;Tomás Hirsch Goldschmid;2022-03-10;;2023-03-07;2026-03-10;PAH;Partido Ac
+2018-2022;940;María José Hoffmann Opazo;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;940;María José Hoffmann Opazo;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;940;María José Hoffmann Opazo;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;1037;Diego Ibáñez Cotroneo;2022-03-10;;2018-03-11;2020-03-10;IND;Independie
+2018-2022;1037;Diego Ibáñez Cotroneo;2022-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2018-2022;1037;Diego Ibáñez Cotroneo;2022-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2018-2022;1037;Diego Ibáñez Cotroneo;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1038;Marcos Ilabaca Cerda;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1038;Marcos Ilabaca Cerda;2022-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2018-2022;1038;Marcos Ilabaca Cerda;2022-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2018-2022;987;Giorgio Jackson Drago;2022-03-10;;2014-03-11;2018-03-10;RD;Revolución
+2018-2022;987;Giorgio Jackson Drago;2022-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;1998-03-11;2002-03-10;PR;Partido Ra
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;2018-03-11;2019-12-18;PR;Partido Ra
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;2019-12-19;2022-03-10;IND;Independie
+2018-2022;855;Carlos Abe Jarpa Wevar;2022-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2018-2022;1039;Pamela Jiles Moreno;2022-03-10;;2018-03-11;2022-03-10;PH;Partido Hu
+2018-2022;1039;Pamela Jiles Moreno;2022-03-10;;2022-03-11;2026-03-10;PH;Partido Hu
+2018-2022;1039;Pamela Jiles Moreno;2022-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2018-2022;856;Tucapel Jiménez Fuentes;2022-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2018-2022;856;Tucapel Jiménez Fuentes;2022-03-10;;2010-03-11;2014-03-10;PPD;Partido Po
+2018-2022;856;Tucapel Jiménez Fuentes;2022-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2018-2022;856;Tucapel Jiménez Fuentes;2022-03-10;;2014-03-11;2018-03-10;PPD;Partido Po
+2018-2022;1040;Harry Jürgensen Rundshagen;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1040;Harry Jürgensen Rundshagen;2022-03-10;;2022-03-11;2026-03-10;IND;Independie
+2018-2022;1041;Pablo Kast Sommerhoff;2022-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2018-2022;1042;Sebastián Keitel Bianchi;2022-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2018-2022;967;Issa Kort Garriga;2021-06-13;;2011-08-10;2015-08-09;UDI;Unión Demó
+2018-2022;967;Issa Kort Garriga;2021-06-13;;2018-03-11;2021-06-13;UDI;Unión Demó
+2018-2022;967;Issa Kort Garriga;2021-06-13;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;172;Carlos Kuschel Silva;2022-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2018-2022;172;Carlos Kuschel Silva;2022-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2018-2022;172;Carlos Kuschel Silva;2022-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2018-2022;172;Carlos Kuschel Silva;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;172;Carlos Kuschel Silva;2022-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2018-2022;1043;Amaro Labra Sepúlveda;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;989;Joaquín Lavín León;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;989;Joaquín Lavín León;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;989;Joaquín Lavín León;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1044;Raúl Leiva Carvajal;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1044;Raúl Leiva Carvajal;2022-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2018-2022;1044;Raúl Leiva Carvajal;2022-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2018-2022;1045;Aracely Leuquén Uribe;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1046;Andrés Longton Herrera;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1046;Andrés Longton Herrera;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;2018-03-11;2020-04-27;DC;Partido De
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;2020-04-28;2022-03-10;IND;Independie
+2018-2022;862;Pablo Lorenzini Basso;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1047;Karin Luck Urban;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;942;Javier Macaya Danús;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;942;Javier Macaya Danús;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;942;Javier Macaya Danús;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1048;Carolina Marzán Pinto;2022-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2018-2022;1048;Carolina Marzán Pinto;2022-03-10;;2022-03-11;2026-03-10;PPD;Partido Po
+2018-2022;660;Manuel Matta Aragay;2022-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2018-2022;660;Manuel Matta Aragay;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;1990-03-11;1994-03-10;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;1994-03-11;1998-03-10;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;1998-03-11;2002-03-10;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;2002-03-11;2006-03-10;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;2018-03-11;2021-04-12;UDI;Unión Demó
+2018-2022;865;Patricio Melero Abaroa;2021-04-07;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1049;Cosme Mellado Pino;2022-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2018-2022;1049;Cosme Mellado Pino;2022-03-10;;2022-03-11;2026-03-10;PR;Partido Ra
+2018-2022;1050;Miguel Mellado Suazo;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1050;Miguel Mellado Suazo;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;866;Fernando Meza Moncada;2022-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2018-2022;866;Fernando Meza Moncada;2022-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2018-2022;866;Fernando Meza Moncada;2022-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2018-2022;866;Fernando Meza Moncada;2022-03-10;;2018-03-11;2019-12-18;PR;Partido Ra
+2018-2022;866;Fernando Meza Moncada;2022-03-10;;2019-12-19;2022-03-10;IND;Independie
+2018-2022;866;Fernando Meza Moncada;2022-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2018-2022;991;Vlado Mirosevic Verdugo;2022-03-10;;2014-03-11;2018-03-10;PL;Partido Li
+2018-2022;991;Vlado Mirosevic Verdugo;2022-03-10;;2018-03-11;2022-03-10;LIBERAL;Partido Li
+2018-2022;991;Vlado Mirosevic Verdugo;2022-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2018-2022;1051;Claudia Mix Jiménez;2022-03-10;;2018-03-11;2022-03-10;COMUNES;Partido Co
+2018-2022;1051;Claudia Mix Jiménez;2022-03-10;;2022-03-11;2024-07-02;COMUNES;Partido Co
+2018-2022;1051;Claudia Mix Jiménez;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1052;Andrés Molina Magofke;2022-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2018-2022;869;Manuel Monsalve Benavides;2022-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2018-2022;869;Manuel Monsalve Benavides;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;869;Manuel Monsalve Benavides;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;869;Manuel Monsalve Benavides;2022-03-10;;2006-03-11;2010-03-10;PS;Partido So
+2018-2022;945;Celso Morales Muñoz;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;945;Celso Morales Muñoz;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;945;Celso Morales Muñoz;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1053;Cristhian Moreira Barros;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1053;Cristhian Moreira Barros;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;872;Jaime Mulet Martínez;2022-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2018-2022;872;Jaime Mulet Martínez;2022-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2018-2022;872;Jaime Mulet Martínez;2022-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2018-2022;872;Jaime Mulet Martínez;2022-03-10;;2022-03-11;2026-03-10;FRVS;Federación
+2018-2022;872;Jaime Mulet Martínez;2022-03-10;;2006-03-11;2010-03-10;PRI;Partido Re
+2018-2022;872;Jaime Mulet Martínez;2022-03-10;;2026-03-11;2030-03-10;FRVS;Federación
+2018-2022;1054;Francesca Muñoz González;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1054;Francesca Muñoz González;2022-03-10;;2022-12-12;2023-05-30;IND;Independie
+2018-2022;1054;Francesca Muñoz González;2022-03-10;;2022-03-11;2022-12-11;RN;Renovación
+2018-2022;1054;Francesca Muñoz González;2022-03-10;;2023-05-31;2026-03-10;PSC;Partido So
+2018-2022;1054;Francesca Muñoz González;2022-03-10;;2026-09-02;2030-03-10;PCCH;Partido Cr
+2018-2022;1054;Francesca Muñoz González;2022-03-10;;2026-03-11;2026-09-01;PSC;Partido So
+2018-2022;74;Jaime Naranjo Ortiz;2022-03-10;;1990-03-11;1994-03-10;PS;Partido So
+2018-2022;74;Jaime Naranjo Ortiz;2022-03-10;;1994-03-11;1998-03-10;PS;Partido So
+2018-2022;74;Jaime Naranjo Ortiz;2022-03-10;;1998-03-11;2002-03-10;PS;Partido So
+2018-2022;74;Jaime Naranjo Ortiz;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;74;Jaime Naranjo Ortiz;2022-03-10;;2022-03-11;2025-07-02;PS;Partido So
+2018-2022;74;Jaime Naranjo Ortiz;2022-03-10;;2025-07-03;2026-03-10;IND;Independie
+2018-2022;1055;Nicolás Noman Garrido;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;875;Iván Norambuena Farías;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;875;Iván Norambuena Farías;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;875;Iván Norambuena Farías;2022-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2018-2022;875;Iván Norambuena Farías;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;875;Iván Norambuena Farías;2022-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;993;Daniel Núñez Arancibia;2022-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2018-2022;993;Daniel Núñez Arancibia;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;994;Paulina Núñez Urrutia;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;994;Paulina Núñez Urrutia;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1056;Emilia Nuyado Ancapichun;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1056;Emilia Nuyado Ancapichun;2022-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2018-2022;1056;Emilia Nuyado Ancapichun;2022-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2018-2022;1057;Erika Olivera De La Fuen;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;1057;Erika Olivera De La Fuen;2022-03-10;;2022-03-11;2023-09-04;IND;Independie
+2018-2022;1057;Erika Olivera De La Fuen;2022-03-10;;2023-09-05;2026-03-10;DEM;Partido De
+2018-2022;1058;Maite Orsini Pascal;2022-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2018-2022;1058;Maite Orsini Pascal;2022-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2018-2022;1058;Maite Orsini Pascal;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;1990-03-11;1994-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;1994-03-11;1998-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;879;José Migue Ortiz Novoa;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1059;Ximena Ossandón Irarrázaba;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1059;Ximena Ossandón Irarrázaba;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1059;Ximena Ossandón Irarrázaba;2022-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2018-2022;1060;Luis Pardo Sáinz;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1060;Luis Pardo Sáinz;2022-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2018-2022;1061;Andrea Parra Sauterel;2022-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2018-2022;1061;Andrea Parra Sauterel;2022-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2018-2022;995;Diego Paulsen Kehr;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;995;Diego Paulsen Kehr;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;885;José Pérez Arriagada;2022-03-10;;2006-03-11;2010-03-10;PR;Partido Ra
+2018-2022;885;José Pérez Arriagada;2022-03-10;;2002-03-11;2006-03-10;PR;Partido Ra
+2018-2022;885;José Pérez Arriagada;2022-03-10;;2010-03-11;2014-03-10;PR;Partido Ra
+2018-2022;885;José Pérez Arriagada;2022-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2018-2022;885;José Pérez Arriagada;2022-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2018-2022;885;José Pérez Arriagada;2022-03-10;;1998-03-11;2002-03-10;PR;Partido Ra
+2018-2022;946;Leopoldo Pérez Lahsen;2022-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2018-2022;946;Leopoldo Pérez Lahsen;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;946;Leopoldo Pérez Lahsen;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;1062;Joanna Pérez Olea;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;1062;Joanna Pérez Olea;2022-03-10;;2022-12-12;2023-09-04;IND;Independie
+2018-2022;1062;Joanna Pérez Olea;2022-03-10;;2022-03-11;2022-12-11;DC;Partido De
+2018-2022;1062;Joanna Pérez Olea;2022-03-10;;2023-09-05;2026-03-10;DEM;Partido De
+2018-2022;1062;Joanna Pérez Olea;2022-03-10;;2026-03-11;2030-03-10;DEM;Partido De
+2018-2022;1063;Catalina Pérez Salinas;2022-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2018-2022;1063;Catalina Pérez Salinas;2022-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2018-2022;1063;Catalina Pérez Salinas;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1064;Pablo Prieto Lorca;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;1065;Guillermo Ramírez Diez;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1065;Guillermo Ramírez Diez;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;1065;Guillermo Ramírez Diez;2022-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2018-2022;999;Jorge Rathgeb Schifferli;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;999;Jorge Rathgeb Schifferli;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;999;Jorge Rathgeb Schifferli;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1066;Rolando Rentería Moller;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1067;Hugo Rey Martínez;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1067;Hugo Rey Martínez;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1000;Luis Rocafull López;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;1000;Luis Rocafull López;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1068;Camila Rojas Valderrama;2022-03-10;;2018-03-11;2018-05-30;IGUAL;Partido Ig
+2018-2022;1068;Camila Rojas Valderrama;2022-03-10;;2018-05-30;2020-03-09;IND;Independie
+2018-2022;1068;Camila Rojas Valderrama;2022-03-10;;2020-03-10;2022-03-10;COMUNES;Partido Co
+2018-2022;1068;Camila Rojas Valderrama;2022-03-10;;2022-03-11;2024-07-02;COMUNES;Partido Co
+2018-2022;1068;Camila Rojas Valderrama;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1069;Leonidas Romero Sáez;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1069;Leonidas Romero Sáez;2022-03-10;;2022-03-11;2022-09-12;RN;Renovación
+2018-2022;1069;Leonidas Romero Sáez;2022-03-10;;2022-09-13;2025-06-10;IND;Independie
+2018-2022;1069;Leonidas Romero Sáez;2022-03-10;;2025-06-11;2026-03-10;PNL;Partido Na
+2018-2022;1070;Patricio Rosas Barrientos;2022-03-10;;2019-06-19;2022-03-10;IND;Independie
+2018-2022;1070;Patricio Rosas Barrientos;2022-03-10;;2018-03-11;2019-06-18;PS;Partido So
+2018-2022;1070;Patricio Rosas Barrientos;2022-03-10;;2022-03-11;2024-07-02;IND;Independie
+2018-2022;1070;Patricio Rosas Barrientos;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1071;Gastón Saavedra Chandía;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;893;Jorge Sabag Villalobos;2022-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2018-2022;893;Jorge Sabag Villalobos;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;893;Jorge Sabag Villalobos;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;893;Jorge Sabag Villalobos;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;949;Marcela Sabat Fernández;2020-08-04;;2010-03-11;2014-03-10;RN;Renovación
+2018-2022;949;Marcela Sabat Fernández;2020-08-04;;2018-03-11;2020-08-04;RN;Renovación
+2018-2022;949;Marcela Sabat Fernández;2020-08-04;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;950;René Saffirio Espinoza;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;950;René Saffirio Espinoza;2022-03-10;;2014-03-11;2018-03-10;IND;Independie
+2018-2022;950;René Saffirio Espinoza;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;1001;Raúl Saldívar Auger;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1001;Raúl Saldívar Auger;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;1072;Gustavo Sanhueza Dueñas;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1073;Juan Santana Castillo;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1073;Juan Santana Castillo;2022-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2018-2022;1073;Juan Santana Castillo;2022-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2018-2022;952;Alejandro Santana Tirachini;2022-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2018-2022;952;Alejandro Santana Tirachini;2022-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2018-2022;952;Alejandro Santana Tirachini;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1074;Marisela Santibáñez Novoa;2022-03-10;;2019-04-17;2019-09-26;IND;Independie
+2018-2022;1074;Marisela Santibáñez Novoa;2022-03-10;;2018-03-11;2019-04-16;PRO;Partido Pr
+2018-2022;1074;Marisela Santibáñez Novoa;2022-03-10;;2019-09-27;2022-03-10;PC;Partido Co
+2018-2022;1074;Marisela Santibáñez Novoa;2022-03-10;;2022-03-11;2024-01-16;PC;Partido Co
+2018-2022;1074;Marisela Santibáñez Novoa;2022-03-10;;2024-01-17;2026-03-10;IND;Independie
+2018-2022;1074;Marisela Santibáñez Novoa;2022-03-10;;2026-03-11;2030-03-10;IND;Independie
+2018-2022;953;Frank Sauerbaum Muñoz;2022-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2018-2022;953;Frank Sauerbaum Muñoz;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;953;Frank Sauerbaum Muñoz;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1075;Diego Schalper Sepúlveda;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;1075;Diego Schalper Sepúlveda;2022-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2018-2022;1075;Diego Schalper Sepúlveda;2022-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2018-2022;920;Marcelo Schilling Rodríguez;2022-03-10;;2008-08-12;2012-08-11;PS;Partido So
+2018-2022;920;Marcelo Schilling Rodríguez;2022-03-10;;2010-03-11;2014-03-10;PS;Partido So
+2018-2022;920;Marcelo Schilling Rodríguez;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;920;Marcelo Schilling Rodríguez;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;897;Alejandra Sepúlveda Orbenes;2022-03-10;;2006-03-11;2010-03-10;IND;Independie
+2018-2022;897;Alejandra Sepúlveda Orbenes;2022-03-10;;2010-03-11;2014-03-10;PRI;Partido Re
+2018-2022;897;Alejandra Sepúlveda Orbenes;2022-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2018-2022;897;Alejandra Sepúlveda Orbenes;2022-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2018-2022;897;Alejandra Sepúlveda Orbenes;2022-03-10;;2014-03-11;2018-03-10;IND;Independie
+2018-2022;1076;Alexis Sepúlveda Soto;2022-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2018-2022;1076;Alexis Sepúlveda Soto;2022-03-10;;2022-03-11;2026-03-10;PR;Partido Ra
+2018-2022;898;Gabriel Silber Romo;2022-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2018-2022;898;Gabriel Silber Romo;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;898;Gabriel Silber Romo;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;898;Gabriel Silber Romo;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1002;Leonardo Soto Ferrada;2022-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2018-2022;1002;Leonardo Soto Ferrada;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1002;Leonardo Soto Ferrada;2022-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2018-2022;1077;Raúl Soto Mardones;2022-03-10;;2018-03-11;2019-08-25;DC;Partido De
+2018-2022;1077;Raúl Soto Mardones;2022-03-10;;2019-08-26;2022-03-10;IND;Independie
+2018-2022;1077;Raúl Soto Mardones;2022-03-10;;2022-03-11;2026-03-10;PPD;Partido Po
+2018-2022;1077;Raúl Soto Mardones;2022-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2018-2022;956;Guillermo Teillier Del Valle;2022-03-10;;2010-03-11;2014-03-10;PC;Partido Co
+2018-2022;956;Guillermo Teillier Del Valle;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;956;Guillermo Teillier Del Valle;2022-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2018-2022;1078;Jaime Tohá González;2022-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2018-2022;1079;Sebastián Torrealba Alvarado;2022-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2018-2022;957;Víctor Torres Jeldes;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;957;Víctor Torres Jeldes;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;957;Víctor Torres Jeldes;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1003;Renzo Trisotti Martínez;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1003;Renzo Trisotti Martínez;2022-03-10;;2022-03-11;2024-04-16;UDI;Unión Demó
+2018-2022;1003;Renzo Trisotti Martínez;2022-03-10;;2024-04-17;2025-07-08;IND;Independie
+2018-2022;1003;Renzo Trisotti Martínez;2022-03-10;;2025-07-09;2026-03-10;PREP;Partido Re
+2018-2022;1003;Renzo Trisotti Martínez;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1080;Virginia Troncoso Hellman;2022-03-10;;2018-03-11;2020-07-19;UDI;Unión Demó
+2018-2022;1080;Virginia Troncoso Hellman;2022-03-10;;2020-07-20;2022-03-10;IND;Independie
+2018-2022;1081;Francisco Undurraga Gazitúa;2022-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2018-2022;1081;Francisco Undurraga Gazitúa;2022-03-10;;2022-03-11;2026-03-10;EVOP;Evolución 
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2019-04-24;2019-11-16;IND;Independie
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2018-03-11;2019-04-23;UDI;Unión Demó
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2019-11-17;2022-03-10;PREP;Partido Re
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2018-2022;908;Ignacio Urrutia Bonilla;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1005;Osvaldo Urrutia Soto;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;1005;Osvaldo Urrutia Soto;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1082;Cristóbal Urruticoec Ríos;2022-03-10;;2018-03-11;2021-06-13;RN;Renovación
+2018-2022;1082;Cristóbal Urruticoec Ríos;2022-03-10;;2021-06-14;2022-03-10;PREP;Partido Re
+2018-2022;1082;Cristóbal Urruticoec Ríos;2022-03-10;;2022-03-11;2024-10-14;PREP;Partido Re
+2018-2022;1082;Cristóbal Urruticoec Ríos;2022-03-10;;2024-10-15;2025-06-17;IND;Independie
+2018-2022;1082;Cristóbal Urruticoec Ríos;2022-03-10;;2025-06-18;2026-03-10;PNL;Partido Na
+2018-2022;1082;Cristóbal Urruticoec Ríos;2022-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2018-2022;1006;Camila Vallejo Dowling;2022-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2018-2022;1006;Camila Vallejo Dowling;2022-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2018-2022;959;Enrique Van Ryssel Herrera;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;959;Enrique Van Ryssel Herrera;2022-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2018-2022;959;Enrique Van Ryssel Herrera;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;1083;Esteban Velásquez Núñez;2022-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2018-2022;961;Pedro Velásquez Seguel;2022-03-10;;2010-03-11;2014-03-10;IND;Independie
+2018-2022;961;Pedro Velásquez Seguel;2022-03-10;;2018-03-11;2022-03-10;IND;Independie
+2018-2022;913;Mario Venegas Cárdenas;2022-03-10;;2006-03-11;2010-03-10;DC;Partido De
+2018-2022;913;Mario Venegas Cárdenas;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;913;Mario Venegas Cárdenas;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;913;Mario Venegas Cárdenas;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1084;Daniel Verdessi Belemmi;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;1085;Pablo Vidal Rojas;2022-03-10;;2018-03-11;2021-01-18;RD;Revolución
+2018-2022;1085;Pablo Vidal Rojas;2022-03-10;;2021-01-19;2022-03-10;IND;Independie
+2018-2022;917;Gastón Von Mühlen Zamora;2022-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2018-2022;917;Gastón Von Mühlen Zamora;2022-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2018-2022;917;Gastón Von Mühlen Zamora;2022-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2018-2022;917;Gastón Von Mühlen Zamora;2022-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2018-2022;917;Gastón Von Mühlen Zamora;2022-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2018-2022;963;Matías Walker Prieto;2022-03-10;;2010-03-11;2014-03-10;DC;Partido De
+2018-2022;963;Matías Walker Prieto;2022-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2018-2022;963;Matías Walker Prieto;2022-03-10;;2014-03-11;2018-03-10;DC;Partido De
+2018-2022;1086;Gonzalo Winter Etcheberry;2022-03-10;;2018-04-05;2020-03-10;IND;Independie
+2018-2022;1086;Gonzalo Winter Etcheberry;2022-03-10;;2018-03-11;2018-04-04;RD;Revolución
+2018-2022;1086;Gonzalo Winter Etcheberry;2022-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2018-2022;1086;Gonzalo Winter Etcheberry;2022-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2018-2022;1086;Gonzalo Winter Etcheberry;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1086;Gonzalo Winter Etcheberry;2022-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2018-2022;1087;Gael Yeomans Araya;2022-03-10;;2019-04-17;2020-03-10;IND;Independie
+2018-2022;1087;Gael Yeomans Araya;2022-03-10;;2018-03-11;2019-04-16;RD;Revolución
+2018-2022;1087;Gael Yeomans Araya;2022-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2018-2022;1087;Gael Yeomans Araya;2022-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2018-2022;1087;Gael Yeomans Araya;2022-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2018-2022;1087;Gael Yeomans Araya;2022-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2018-2022;1093;Patricia Rubio Escobar;2022-03-10;;2021-03-09;2022-03-10;PPD;Partido Po
+2018-2022;1095;Juan Manue Masferrer Vidal;2022-03-10;;2021-06-17;2022-03-10;UDI;Unión Demó
+2018-2022;1088;Camilo Morán Bahamondes;2022-03-10;;2020-08-04;2022-03-10;RN;Renovación
+2018-2022;1089;Nora Cuevas Contreras;2022-03-10;;2020-08-05;2022-03-10;UDI;Unión Demó
+2018-2022;1090;Tomás Andr Fuentes Barros;2022-03-10;;2020-08-06;2022-03-10;RN;Renovación
+2018-2022;1091;Rubén Moraga Mamani;2022-03-10;;2021-03-02;2022-03-10;PC;Partido Co
+2018-2022;1092;Marcela Sandoval Osorio;2022-03-10;;2021-03-02;2022-03-10;RD;Revolución
+2018-2022;1094;Cristian Labbé Martínez;2022-03-10;;2021-04-13;2022-03-10;UDI;Unión Demó
+2018-2022;1094;Cristian Labbé Martínez;2022-03-10;;2022-03-11;2025-06-29;UDI;Unión Demó
+2018-2022;1094;Cristian Labbé Martínez;2022-03-10;;2025-06-30;2026-03-10;PNL;Partido Na
+2022-2026;1096;María Cand Acevedo Sáez;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1097;Eric Aedo Jeldres;2026-03-10;;2022-03-11;2026-03-10;DC;Partido De
+2022-2026;1098;Yovana Ahumada Palma;2026-03-10;;2022-03-11;2023-04-18;PDG;Partido de
+2022-2026;1098;Yovana Ahumada Palma;2026-03-10;;2023-04-19;2025-03-16;IND;Independie
+2022-2026;1098;Yovana Ahumada Palma;2026-03-10;;2025-03-17;2026-03-10;PSC;Partido So
+2022-2026;1009;Jorge Alessandri Vergara;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;1009;Jorge Alessandri Vergara;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1009;Jorge Alessandri Vergara;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;803;René Alinco Bustos;2026-03-10;;2010-03-11;2014-03-10;IND;Independie
+2022-2026;803;René Alinco Bustos;2026-03-10;;2018-03-11;2022-03-10;IND;Independie
+2022-2026;803;René Alinco Bustos;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;803;René Alinco Bustos;2026-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2022-2026;803;René Alinco Bustos;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1099;Jaime Araya Guerrero;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1099;Jaime Araya Guerrero;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1100;Cristián Araya Lerdo de T;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1100;Cristián Araya Lerdo de T;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1101;Mónica Arce Castro;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1102;Roberto Arroyo Muñoz;2026-03-10;;2022-03-11;2023-11-07;PDG;Partido de
+2022-2026;1102;Roberto Arroyo Muñoz;2026-03-10;;2023-11-08;2026-03-10;PSC;Partido So
+2022-2026;1102;Roberto Arroyo Muñoz;2026-03-10;;2026-03-11;2026-08-30;PSC;Partido So
+2022-2026;1102;Roberto Arroyo Muñoz;2026-03-10;;2026-08-31;2030-03-10;IND;Independie
+2022-2026;1103;Danisa Astudillo Peiretti;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1104;Chiara Barchiesi Chávez;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1104;Chiara Barchiesi Chávez;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1012;Boris Barrera Moreno;2026-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2022-2026;1012;Boris Barrera Moreno;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1012;Boris Barrera Moreno;2026-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2022-2026;1105;Héctor Barría Angulo;2026-03-10;;2022-03-11;2026-03-10;DC;Partido De
+2022-2026;1105;Héctor Barría Angulo;2026-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2022-2026;1106;Miguel Áng Becker Alvear;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1107;María Fran Bello Campos;2026-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2022-2026;1107;María Fran Bello Campos;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1107;María Fran Bello Campos;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1108;Juan Carlo Beltrán Silva;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1108;Juan Carlo Beltrán Silva;2026-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2022-2026;1109;Gustavo Benavente Vergara;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;971;Bernardo Berger Fett;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;971;Bernardo Berger Fett;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;971;Bernardo Berger Fett;2026-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2022-2026;1013;Alejandro Bernales Maldonado;2026-03-10;;2018-03-11;2022-03-10;LIBERAL;Partido Li
+2022-2026;1013;Alejandro Bernales Maldonado;2026-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2022-2026;1013;Alejandro Bernales Maldonado;2026-03-10;;2026-03-11;2030-03-10;PL;Partido Li
+2022-2026;1110;Carlos Bianchi Chelech;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1110;Carlos Bianchi Chelech;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;815;Sergio Bobadilla Muñoz;2026-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2022-2026;815;Sergio Bobadilla Muñoz;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;815;Sergio Bobadilla Muñoz;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;815;Sergio Bobadilla Muñoz;2026-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2022-2026;815;Sergio Bobadilla Muñoz;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;1111;Fernando Bórquez Montecinos;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1112;Ana María Bravo Castro;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1113;Marta Bravo Salinas;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1015;Jorge Brito Hasbún;2026-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2022-2026;1015;Jorge Brito Hasbún;2026-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2022-2026;1015;Jorge Brito Hasbún;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1015;Jorge Brito Hasbún;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1114;Félix Bugueño Sotelo;2026-03-10;;2022-03-11;2023-06-12;FRVS;Federación
+2022-2026;1114;Félix Bugueño Sotelo;2026-03-10;;2022-06-13;2024-07-02;IND;Independie
+2022-2026;1114;Félix Bugueño Sotelo;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1114;Félix Bugueño Sotelo;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1115;Mercedes Bulnes Núñez;2024-11-22;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1016;Miguel Áng Calisto Águila;2026-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2022-2026;1016;Miguel Áng Calisto Águila;2026-03-10;;2022-03-11;2023-03-08;DC;Partido De
+2022-2026;1016;Miguel Áng Calisto Águila;2026-03-10;;2023-03-09;2026-03-10;IND;Independie
+2022-2026;1116;Felipe Camaño Cárdenas;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1116;Felipe Camaño Cárdenas;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;973;Karol Cariola Oliva;2026-03-10;;2014-03-11;2018-03-10;PC;Partido Co
+2022-2026;973;Karol Cariola Oliva;2026-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2022-2026;973;Karol Cariola Oliva;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1017;Álvaro Carter Fernández;2026-03-10;;2018-03-11;2025-03-18;UDI;Unión Demó
+2022-2026;1017;Álvaro Carter Fernández;2026-03-10;;2020-09-29;2022-03-10;IND;Independie
+2022-2026;1017;Álvaro Carter Fernández;2026-03-10;;2022-03-11;2025-03-18;UDI;Unión Demó
+2022-2026;1017;Álvaro Carter Fernández;2026-03-10;;2025-03-19;2026-03-10;IND;Independie
+2022-2026;1017;Álvaro Carter Fernández;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1117;Nathalie Castillo Rojas;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1117;Nathalie Castillo Rojas;2026-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2022-2026;1019;José Migue Castro Bascuñán;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1019;José Migue Castro Bascuñán;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1021;Andrés Celis Montt;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1021;Andrés Celis Montt;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1021;Andrés Celis Montt;2026-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2022-2026;975;Daniella Cicardini Milla;2026-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2022-2026;975;Daniella Cicardini Milla;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;975;Daniella Cicardini Milla;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1022;Sofía Cid Versalovic;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1022;Sofía Cid Versalovic;2026-03-10;;2022-03-11;2024-08-05;RN;Renovación
+2022-2026;1022;Sofía Cid Versalovic;2026-03-10;;2024-08-06;2026-03-10;IND;Independie
+2022-2026;1118;Ricardo Cifuentes Lillo;2026-03-10;;2022-03-11;2026-03-10;DC;Partido De
+2022-2026;976;Juan Anton Coloma Álamos;2026-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2022-2026;976;Juan Anton Coloma Álamos;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;976;Juan Anton Coloma Álamos;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1119;Sara Concha Smith;2026-03-10;;2023-03-22;2026-03-10;PSC;Partido So
+2022-2026;1119;Sara Concha Smith;2026-03-10;;2022-03-11;2023-03-21;PCC;Partido Co
+2022-2026;1119;Sara Concha Smith;2026-03-10;;2026-03-11;2026-09-01;PSC;Partido So
+2022-2026;1119;Sara Concha Smith;2026-03-10;;2026-09-02;2030-03-10;PCCH;Partido Cr
+2022-2026;1120;María Luis Cordero Velásquez;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1121;Eduardo Cornejo Lagos;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1122;Luis Alber Cuello Peña y Lil;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1122;Luis Alber Cuello Peña y Lil;2026-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2022-2026;1123;Gonzalo De la Carr Correa;2026-03-10;;2022-03-11;2022-08-31;PREP;Partido Re
+2022-2026;1123;Gonzalo De la Carr Correa;2026-03-10;;2022-09-01;2025-06-16;IND;Independie
+2022-2026;1123;Gonzalo De la Carr Correa;2026-03-10;;2025-06-17;2026-03-10;PNL;Partido Na
+2022-2026;1124;Tomás De Remente Venegas;2025-05-05;;2022-03-11;2025-05-05;PS;Partido So
+2022-2026;1025;Catalina Del Real Mihovilovi;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1025;Catalina Del Real Mihovilovi;2026-03-10;;2022-03-11;2023-08-22;RN;Renovación
+2022-2026;1025;Catalina Del Real Mihovilovi;2026-03-10;;2023-08-23;2026-03-10;IND;Independie
+2022-2026;1025;Catalina Del Real Mihovilovi;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1125;Viviana Delgado Riquelme;2026-03-10;;2022-03-11;2023-04-03;PEV;Partido Ec
+2022-2026;1125;Viviana Delgado Riquelme;2026-03-10;;2023-04-04;2026-03-10;IND;Independie
+2022-2026;1126;Felipe Donoso Castro;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1027;Jorge Durán Espinoza;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1027;Jorge Durán Espinoza;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1028;Eduardo Durán Salinas;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1028;Eduardo Durán Salinas;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1028;Eduardo Durán Salinas;2026-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2022-2026;1030;Camila Flores Oporto;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1030;Camila Flores Oporto;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1127;Lorena Fries Monleón;2026-03-10;;2022-03-11;2023-03-27;IND;Independie
+2022-2026;1127;Lorena Fries Monleón;2026-03-10;;2023-03-28;2024-07-02;PCS;Partido Co
+2022-2026;1127;Lorena Fries Monleón;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1127;Lorena Fries Monleón;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1031;Juan Fuenzalida Cobo;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;1031;Juan Fuenzalida Cobo;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1128;Ana María Gazmuri Vieira;2026-03-10;;2022-03-11;2023-03-06;IND;Independie
+2022-2026;1128;Ana María Gazmuri Vieira;2026-03-10;;2023-03-07;2026-03-10;PAH;Partido Ac
+2022-2026;1128;Ana María Gazmuri Vieira;2026-03-10;;2026-03-11;2030-03-10;PAH;Partido Ac
+2022-2026;1129;Andrés Giordano Salazar;2026-03-10;;2022-03-11;2024-07-02;IND;Independie
+2022-2026;1129;Andrés Giordano Salazar;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1034;Félix González Gatica;2026-03-10;;2018-03-11;2022-03-10;PEV;Partido Ec
+2022-2026;1034;Félix González Gatica;2026-03-10;;2022-03-11;2024-07-02;PEV;Partido Ec
+2022-2026;1034;Félix González Gatica;2026-03-10;;2024-07-03;2025-08-11;IND;Independie
+2022-2026;1034;Félix González Gatica;2026-03-10;;2025-08-12;2026-03-10;PEV;Partido Ec
+2022-2026;1130;Marta González Olea;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1131;Mauro González Villarroel;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1131;Mauro González Villarroel;2026-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2022-2026;1132;Jorge Guzmán Zepeda;2026-03-10;;2022-03-11;2026-03-10;EVOP;Evolución 
+2022-2026;1132;Jorge Guzmán Zepeda;2026-03-10;;2026-03-11;2030-03-10;EVOP;Evolución 
+2022-2026;1035;Carmen Hertz Cádiz;2026-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2022-2026;1035;Carmen Hertz Cádiz;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1036;Tomás Hirsch Goldschmid;2026-03-10;;2018-03-11;2020-05-05;PH;Partido Hu
+2022-2026;1036;Tomás Hirsch Goldschmid;2026-03-10;;2020-05-06;2022-03-10;IND;Independie
+2022-2026;1036;Tomás Hirsch Goldschmid;2026-03-10;;2022-03-11;2023-03-06;IND;Independie
+2022-2026;1036;Tomás Hirsch Goldschmid;2026-03-10;;2023-03-07;2026-03-10;PAH;Partido Ac
+2022-2026;1037;Diego Ibáñez Cotroneo;2026-03-10;;2018-03-11;2020-03-10;IND;Independie
+2022-2026;1037;Diego Ibáñez Cotroneo;2026-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2022-2026;1037;Diego Ibáñez Cotroneo;2026-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2022-2026;1037;Diego Ibáñez Cotroneo;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1038;Marcos Ilabaca Cerda;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;1038;Marcos Ilabaca Cerda;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1038;Marcos Ilabaca Cerda;2026-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2022-2026;1133;Juan Irarrázava Rossel;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1133;Juan Irarrázava Rossel;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1039;Pamela Jiles Moreno;2026-03-10;;2018-03-11;2022-03-10;PH;Partido Hu
+2022-2026;1039;Pamela Jiles Moreno;2026-03-10;;2022-03-11;2026-03-10;PH;Partido Hu
+2022-2026;1039;Pamela Jiles Moreno;2026-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2022-2026;1134;Andrés Jouannet Valderrama;2026-03-10;;2022-03-11;2023-07-17;IND;Independie
+2022-2026;1134;Andrés Jouannet Valderrama;2026-03-10;;2023-07-18;2026-03-10;AMA;Movimiento
+2022-2026;1040;Harry Jürgensen Rundshagen;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1040;Harry Jürgensen Rundshagen;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1135;Johannes Kaiser Barents-Vo;2026-03-10;;2022-03-11;2024-01-09;PREP;Partido Re
+2022-2026;1135;Johannes Kaiser Barents-Vo;2026-03-10;;2024-01-10;2025-06-15;IND;Independie
+2022-2026;1135;Johannes Kaiser Barents-Vo;2026-03-10;;2025-06-16;2026-03-10;PNL;Partido Na
+2022-2026;1094;Cristian Labbé Martínez;2026-03-10;;2021-04-13;2022-03-10;UDI;Unión Demó
+2022-2026;1094;Cristian Labbé Martínez;2026-03-10;;2022-03-11;2025-06-29;UDI;Unión Demó
+2022-2026;1094;Cristian Labbé Martínez;2026-03-10;;2025-06-30;2026-03-10;PNL;Partido Na
+2022-2026;1136;Paula Labra Besserer;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1137;Tomás Lagomarsin Guzmán;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;989;Joaquín Lavín León;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;989;Joaquín Lavín León;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;989;Joaquín Lavín León;2026-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2022-2026;1138;Henry Leal Bizama;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1139;Enrique Lee Flores;2026-03-10;;2022-03-11;2024-08-28;PRI;Partido Re
+2022-2026;1139;Enrique Lee Flores;2026-03-10;;2024-08-29;2026-03-10;IND;Independie
+2022-2026;1044;Raúl Leiva Carvajal;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;1044;Raúl Leiva Carvajal;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1044;Raúl Leiva Carvajal;2026-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2022-2026;1140;Daniel Lilayu Vivanco;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1140;Daniel Lilayu Vivanco;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;1046;Andrés Longton Herrera;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1046;Andrés Longton Herrera;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1141;Luis Malla Valenzuela;2026-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2022-2026;1141;Luis Malla Valenzuela;2026-03-10;;2026-03-11;2030-03-10;PL;Partido Li
+2022-2026;1142;Daniel Manouchehr Lobos;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1142;Daniel Manouchehr Lobos;2026-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2022-2026;1143;Cristóbal Martínez Ramírez;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1143;Cristóbal Martínez Ramírez;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;1048;Carolina Marzán Pinto;2026-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2022-2026;1048;Carolina Marzán Pinto;2026-03-10;;2022-03-11;2026-03-10;PPD;Partido Po
+2022-2026;1144;Christian Matheson Villán;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1145;Karen Medina Vásquez;2026-03-10;;2022-03-11;2024-08-06;PDG;Partido de
+2022-2026;1145;Karen Medina Vásquez;2026-03-10;;2024-08-07;2026-03-10;IND;Independie
+2022-2026;1049;Cosme Mellado Pino;2026-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2022-2026;1049;Cosme Mellado Pino;2026-03-10;;2022-03-11;2026-03-10;PR;Partido Ra
+2022-2026;1050;Miguel Mellado Suazo;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1050;Miguel Mellado Suazo;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;990;Daniel Melo Contreras;2026-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2022-2026;990;Daniel Melo Contreras;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1146;José Carlo Meza Pereira;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1146;José Carlo Meza Pereira;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;991;Vlado Mirosevic Verdugo;2026-03-10;;2014-03-11;2018-03-10;PL;Partido Li
+2022-2026;991;Vlado Mirosevic Verdugo;2026-03-10;;2018-03-11;2022-03-10;LIBERAL;Partido Li
+2022-2026;991;Vlado Mirosevic Verdugo;2026-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2022-2026;1051;Claudia Mix Jiménez;2026-03-10;;2018-03-11;2022-03-10;COMUNES;Partido Co
+2022-2026;1051;Claudia Mix Jiménez;2026-03-10;;2022-03-11;2024-07-02;COMUNES;Partido Co
+2022-2026;1051;Claudia Mix Jiménez;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1147;Helia Molina Milman;2026-03-10;;2022-03-11;2026-03-10;PPD;Partido Po
+2022-2026;1148;Javiera Morales Alvarado;2026-03-10;;2022-03-11;2022-04-11;IND;Independie
+2022-2026;1148;Javiera Morales Alvarado;2026-03-10;;2022-04-12;2024-07-02;PCS;Partido Co
+2022-2026;1148;Javiera Morales Alvarado;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1148;Javiera Morales Alvarado;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1149;Carla Morales Maldonado;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1053;Cristhian Moreira Barros;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;1053;Cristhian Moreira Barros;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1150;Benjamín Moreno Bascur;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1150;Benjamín Moreno Bascur;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;872;Jaime Mulet Martínez;2026-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2022-2026;872;Jaime Mulet Martínez;2026-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2022-2026;872;Jaime Mulet Martínez;2026-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2022-2026;872;Jaime Mulet Martínez;2026-03-10;;2022-03-11;2026-03-10;FRVS;Federación
+2022-2026;872;Jaime Mulet Martínez;2026-03-10;;2006-03-11;2010-03-10;PRI;Partido Re
+2022-2026;872;Jaime Mulet Martínez;2026-03-10;;2026-03-11;2030-03-10;FRVS;Federación
+2022-2026;1054;Francesca Muñoz González;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1054;Francesca Muñoz González;2026-03-10;;2022-12-12;2023-05-30;IND;Independie
+2022-2026;1054;Francesca Muñoz González;2026-03-10;;2022-03-11;2022-12-11;RN;Renovación
+2022-2026;1054;Francesca Muñoz González;2026-03-10;;2023-05-31;2026-03-10;PSC;Partido So
+2022-2026;1054;Francesca Muñoz González;2026-03-10;;2026-09-02;2030-03-10;PCCH;Partido Cr
+2022-2026;1054;Francesca Muñoz González;2026-03-10;;2026-03-11;2026-09-01;PSC;Partido So
+2022-2026;1151;Camila Musante Müller;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;74;Jaime Naranjo Ortiz;2026-03-10;;1990-03-11;1994-03-10;PS;Partido So
+2022-2026;74;Jaime Naranjo Ortiz;2026-03-10;;1994-03-11;1998-03-10;PS;Partido So
+2022-2026;74;Jaime Naranjo Ortiz;2026-03-10;;1998-03-11;2002-03-10;PS;Partido So
+2022-2026;74;Jaime Naranjo Ortiz;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;74;Jaime Naranjo Ortiz;2026-03-10;;2022-03-11;2025-07-02;PS;Partido So
+2022-2026;74;Jaime Naranjo Ortiz;2026-03-10;;2025-07-03;2026-03-10;IND;Independie
+2022-2026;1152;Gloria Naveillan Arriagada;2026-03-10;;2022-03-11;2022-09-06;PREP;Partido Re
+2022-2026;1152;Gloria Naveillan Arriagada;2026-03-10;;2022-09-07;2025-06-29;IND;Independie
+2022-2026;1152;Gloria Naveillan Arriagada;2026-03-10;;2025-06-30;2026-03-10;PNL;Partido Na
+2022-2026;1152;Gloria Naveillan Arriagada;2026-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2022-2026;1056;Emilia Nuyado Ancapichun;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;1056;Emilia Nuyado Ancapichun;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1056;Emilia Nuyado Ancapichun;2026-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2022-2026;1153;Coca Erick Ñanco Vásquez;2026-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2022-2026;1153;Coca Erick Ñanco Vásquez;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1153;Coca Erick Ñanco Vásquez;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1154;Mauricio Ojeda Rebolledo;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1057;Erika Olivera De La Fuen;2026-03-10;;2018-03-11;2022-03-10;IND;Independie
+2022-2026;1057;Erika Olivera De La Fuen;2026-03-10;;2022-03-11;2023-09-04;IND;Independie
+2022-2026;1057;Erika Olivera De La Fuen;2026-03-10;;2023-09-05;2026-03-10;DEM;Partido De
+2022-2026;1058;Maite Orsini Pascal;2026-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2022-2026;1058;Maite Orsini Pascal;2026-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2022-2026;1058;Maite Orsini Pascal;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1059;Ximena Ossandón Irarrázaba;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1059;Ximena Ossandón Irarrázaba;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1059;Ximena Ossandón Irarrázaba;2026-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2022-2026;1155;Rubén Darí Oyarzo Figueroa;2026-03-10;;2022-03-11;2024-04-15;PDG;Partido de
+2022-2026;1155;Rubén Darí Oyarzo Figueroa;2026-03-10;;2024-04-16;2026-03-10;IND;Independie
+2022-2026;1156;Hernán Palma Pérez;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1157;Marlene Pérez Cartes;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1157;Marlene Pérez Cartes;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1062;Joanna Pérez Olea;2026-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2022-2026;1062;Joanna Pérez Olea;2026-03-10;;2022-12-12;2023-09-04;IND;Independie
+2022-2026;1062;Joanna Pérez Olea;2026-03-10;;2022-03-11;2022-12-11;DC;Partido De
+2022-2026;1062;Joanna Pérez Olea;2026-03-10;;2023-09-05;2026-03-10;DEM;Partido De
+2022-2026;1062;Joanna Pérez Olea;2026-03-10;;2026-03-11;2030-03-10;DEM;Partido De
+2022-2026;1063;Catalina Pérez Salinas;2026-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2022-2026;1063;Catalina Pérez Salinas;2026-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2022-2026;1063;Catalina Pérez Salinas;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1158;Víctor Ale Pino Fuentes;2026-03-10;;2022-03-11;2023-04-13;PDG;Partido de
+2022-2026;1158;Víctor Ale Pino Fuentes;2026-03-10;;2023-04-14;2024-05-14;IND;Independie
+2022-2026;1158;Víctor Ale Pino Fuentes;2026-03-10;;2024-05-15;2026-03-10;DEM;Partido De
+2022-2026;1159;Lorena Pizarro Sierra;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1159;Lorena Pizarro Sierra;2026-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2022-2026;1160;Alejandra Placencia Cabello;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1161;Francisco Pulgar Castillo;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1065;Guillermo Ramírez Diez;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;1065;Guillermo Ramírez Diez;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1065;Guillermo Ramírez Diez;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;1162;Matías Ramírez Pascal;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1163;Marcia Raphael Mora;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;999;Jorge Rathgeb Schifferli;2026-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2022-2026;999;Jorge Rathgeb Schifferli;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;999;Jorge Rathgeb Schifferli;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1067;Hugo Rey Martínez;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1067;Hugo Rey Martínez;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1164;Marcela Riquelme Aliaga;2026-03-10;;2022-03-11;2024-07-02;IND;Independie
+2022-2026;1164;Marcela Riquelme Aliaga;2026-03-10;;2024-07-03;2025-06-10;FA;Frente Amp
+2022-2026;1164;Marcela Riquelme Aliaga;2026-03-10;;2025-06-11;2026-03-10;IND;Independie
+2022-2026;948;Gaspar Rivas Sánchez;2026-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2022-2026;948;Gaspar Rivas Sánchez;2026-03-10;;2022-03-11;2024-08-26;PDG;Partido de
+2022-2026;948;Gaspar Rivas Sánchez;2026-03-10;;2024-08-27;2026-03-10;IND;Independie
+2022-2026;948;Gaspar Rivas Sánchez;2026-03-10;;2014-08-14;2018-03-10;IND;Independie
+2022-2026;1068;Camila Rojas Valderrama;2026-03-10;;2018-03-11;2018-05-30;IGUAL;Partido Ig
+2022-2026;1068;Camila Rojas Valderrama;2026-03-10;;2018-05-30;2020-03-09;IND;Independie
+2022-2026;1068;Camila Rojas Valderrama;2026-03-10;;2020-03-10;2022-03-10;COMUNES;Partido Co
+2022-2026;1068;Camila Rojas Valderrama;2026-03-10;;2022-03-11;2024-07-02;COMUNES;Partido Co
+2022-2026;1068;Camila Rojas Valderrama;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1165;Agustín Romero Leiva;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1165;Agustín Romero Leiva;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1069;Leonidas Romero Sáez;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1069;Leonidas Romero Sáez;2026-03-10;;2022-03-11;2022-09-12;RN;Renovación
+2022-2026;1069;Leonidas Romero Sáez;2026-03-10;;2022-09-13;2025-06-10;IND;Independie
+2022-2026;1069;Leonidas Romero Sáez;2026-03-10;;2025-06-11;2026-03-10;PNL;Partido Na
+2022-2026;1166;Natalia Romero Talguia;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1166;Natalia Romero Talguia;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1070;Patricio Rosas Barrientos;2026-03-10;;2019-06-19;2022-03-10;IND;Independie
+2022-2026;1070;Patricio Rosas Barrientos;2026-03-10;;2018-03-11;2019-06-18;PS;Partido So
+2022-2026;1070;Patricio Rosas Barrientos;2026-03-10;;2022-03-11;2024-07-02;IND;Independie
+2022-2026;1070;Patricio Rosas Barrientos;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1167;Jaime Sáez Quiroz;2026-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2022-2026;1167;Jaime Sáez Quiroz;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1168;Jorge Saffirio Espinoza;2026-03-10;;2022-12-12;2023-09-04;IND;Independie
+2022-2026;1168;Jorge Saffirio Espinoza;2026-03-10;;2022-03-11;2022-12-11;DC;Partido De
+2022-2026;1168;Jorge Saffirio Espinoza;2026-03-10;;2023-09-05;2026-03-10;DEM;Partido De
+2022-2026;1169;Clara Sagardía Cabezas;2026-03-10;;2022-03-11;2024-07-02;IND;Independie
+2022-2026;1169;Clara Sagardía Cabezas;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1170;Luis Sánchez Ossa;2026-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2022-2026;1170;Luis Sánchez Ossa;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1073;Juan Santana Castillo;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;1073;Juan Santana Castillo;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1073;Juan Santana Castillo;2026-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2022-2026;1074;Marisela Santibáñez Novoa;2026-03-10;;2019-04-17;2019-09-26;IND;Independie
+2022-2026;1074;Marisela Santibáñez Novoa;2026-03-10;;2018-03-11;2019-04-16;PRO;Partido Pr
+2022-2026;1074;Marisela Santibáñez Novoa;2026-03-10;;2019-09-27;2022-03-10;PC;Partido Co
+2022-2026;1074;Marisela Santibáñez Novoa;2026-03-10;;2022-03-11;2024-01-16;PC;Partido Co
+2022-2026;1074;Marisela Santibáñez Novoa;2026-03-10;;2024-01-17;2026-03-10;IND;Independie
+2022-2026;1074;Marisela Santibáñez Novoa;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;953;Frank Sauerbaum Muñoz;2026-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2022-2026;953;Frank Sauerbaum Muñoz;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;953;Frank Sauerbaum Muñoz;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1075;Diego Schalper Sepúlveda;2026-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2022-2026;1075;Diego Schalper Sepúlveda;2026-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2022-2026;1075;Diego Schalper Sepúlveda;2026-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2022-2026;1171;Emilia Schneider Videla;2026-03-10;;2023-01-18;2024-07-02;PCS;Partido Co
+2022-2026;1171;Emilia Schneider Videla;2026-03-10;;2022-03-11;2023-01-17;COMUNES;Partido Co
+2022-2026;1171;Emilia Schneider Videla;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1171;Emilia Schneider Videla;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1172;Stephan Schubert Rubio;2026-03-10;;2022-03-11;2025-08-03;IND;Independie
+2022-2026;1172;Stephan Schubert Rubio;2026-03-10;;2025-08-04;2026-03-10;PREP;Partido Re
+2022-2026;1172;Stephan Schubert Rubio;2026-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2022-2026;1076;Alexis Sepúlveda Soto;2026-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2022-2026;1076;Alexis Sepúlveda Soto;2026-03-10;;2022-03-11;2026-03-10;PR;Partido Ra
+2022-2026;1173;Daniela Serrano Salazar;2026-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2022-2026;1173;Daniela Serrano Salazar;2026-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2022-2026;1002;Leonardo Soto Ferrada;2026-03-10;;2014-03-11;2018-03-10;PS;Partido So
+2022-2026;1002;Leonardo Soto Ferrada;2026-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2022-2026;1002;Leonardo Soto Ferrada;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1077;Raúl Soto Mardones;2026-03-10;;2018-03-11;2019-08-25;DC;Partido De
+2022-2026;1077;Raúl Soto Mardones;2026-03-10;;2019-08-26;2022-03-10;IND;Independie
+2022-2026;1077;Raúl Soto Mardones;2026-03-10;;2022-03-11;2026-03-10;PPD;Partido Po
+2022-2026;1077;Raúl Soto Mardones;2026-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2022-2026;1174;Marco Anto Sulantay Olivares;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1174;Marco Anto Sulantay Olivares;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;1175;Cristián Tapia Ramos;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1175;Cristián Tapia Ramos;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1176;Hotuiti Teao Drago;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1176;Hotuiti Teao Drago;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1177;Carolina Tello Rojas;2026-03-10;;2022-03-11;2024-05-13;PC;Partido Co
+2022-2026;1177;Carolina Tello Rojas;2026-03-10;;2024-05-14;2024-07-02;IND;Independie
+2022-2026;1177;Carolina Tello Rojas;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1177;Carolina Tello Rojas;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1003;Renzo Trisotti Martínez;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;1003;Renzo Trisotti Martínez;2026-03-10;;2022-03-11;2024-04-16;UDI;Unión Demó
+2022-2026;1003;Renzo Trisotti Martínez;2026-03-10;;2024-04-17;2025-07-08;IND;Independie
+2022-2026;1003;Renzo Trisotti Martínez;2026-03-10;;2025-07-09;2026-03-10;PREP;Partido Re
+2022-2026;1003;Renzo Trisotti Martínez;2026-03-10;;2014-03-11;2018-03-10;UDI;Unión Demó
+2022-2026;1178;Héctor Ulloa Aguilera;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1178;Héctor Ulloa Aguilera;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1081;Francisco Undurraga Gazitúa;2026-03-10;;2018-03-11;2022-03-10;EVOP;Evolución 
+2022-2026;1081;Francisco Undurraga Gazitúa;2026-03-10;;2022-03-11;2026-03-10;EVOP;Evolución 
+2022-2026;1179;Alberto Undurraga Vicuña;2026-03-10;;2022-03-11;2026-03-10;DC;Partido De
+2022-2026;1082;Cristóbal Urruticoec Ríos;2026-03-10;;2018-03-11;2021-06-13;RN;Renovación
+2022-2026;1082;Cristóbal Urruticoec Ríos;2026-03-10;;2021-06-14;2022-03-10;PREP;Partido Re
+2022-2026;1082;Cristóbal Urruticoec Ríos;2026-03-10;;2022-03-11;2024-10-14;PREP;Partido Re
+2022-2026;1082;Cristóbal Urruticoec Ríos;2026-03-10;;2024-10-15;2025-06-17;IND;Independie
+2022-2026;1082;Cristóbal Urruticoec Ríos;2026-03-10;;2025-06-18;2026-03-10;PNL;Partido Na
+2022-2026;1082;Cristóbal Urruticoec Ríos;2026-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2022-2026;1180;Consuelo Veloso Ávila;2026-03-10;;2022-03-11;2024-05-30;RD;Revolución
+2022-2026;1180;Consuelo Veloso Ávila;2026-03-10;;2024-05-31;2026-03-10;IND;Independie
+2022-2026;1180;Consuelo Veloso Ávila;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1180;Consuelo Veloso Ávila;2026-03-10;;2026-03-11;2026-03-10;IND;Independie
+2022-2026;1181;Nelson Venegas Salazar;2026-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2022-2026;1181;Nelson Venegas Salazar;2026-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2022-2026;1182;Sebastián Videla Castillo;2026-03-10;;2022-03-11;2026-03-10;IND;Independie
+2022-2026;1182;Sebastián Videla Castillo;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;917;Gastón Von Mühlen Zamora;2026-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2022-2026;917;Gastón Von Mühlen Zamora;2026-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2022-2026;917;Gastón Von Mühlen Zamora;2026-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2022-2026;917;Gastón Von Mühlen Zamora;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;917;Gastón Von Mühlen Zamora;2026-03-10;;2002-03-11;2006-03-10;UDI;Unión Demó
+2022-2026;1183;Flor Weisse Novoa;2026-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2022-2026;1183;Flor Weisse Novoa;2026-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2022-2026;1086;Gonzalo Winter Etcheberry;2026-03-10;;2018-04-05;2020-03-10;IND;Independie
+2022-2026;1086;Gonzalo Winter Etcheberry;2026-03-10;;2018-03-11;2018-04-04;RD;Revolución
+2022-2026;1086;Gonzalo Winter Etcheberry;2026-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2022-2026;1086;Gonzalo Winter Etcheberry;2026-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2022-2026;1086;Gonzalo Winter Etcheberry;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1086;Gonzalo Winter Etcheberry;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1087;Gael Yeomans Araya;2026-03-10;;2019-04-17;2020-03-10;IND;Independie
+2022-2026;1087;Gael Yeomans Araya;2026-03-10;;2018-03-11;2019-04-16;RD;Revolución
+2022-2026;1087;Gael Yeomans Araya;2026-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2022-2026;1087;Gael Yeomans Araya;2026-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2022-2026;1087;Gael Yeomans Araya;2026-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2022-2026;1087;Gael Yeomans Araya;2026-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2022-2026;1184;Roberto Celedón Fernández;2026-03-10;;2025-01-08;2026-03-10;IND;Independie
+2022-2026;1184;Roberto Celedón Fernández;2026-03-10;;2026-03-11;2030-03-10;IND;Independie
+2022-2026;1185;Arturo Barrios Oteíza;2026-03-10;;2025-05-06;2026-03-10;PS;Partido So
+2026-2030;1074;Marisela Santibáñez Novoa;2030-03-10;;2019-04-17;2019-09-26;IND;Independie
+2026-2030;1074;Marisela Santibáñez Novoa;2030-03-10;;2018-03-11;2019-04-16;PRO;Partido Pr
+2026-2030;1074;Marisela Santibáñez Novoa;2030-03-10;;2019-09-27;2022-03-10;PC;Partido Co
+2026-2030;1074;Marisela Santibáñez Novoa;2030-03-10;;2022-03-11;2024-01-16;PC;Partido Co
+2026-2030;1074;Marisela Santibáñez Novoa;2030-03-10;;2024-01-17;2026-03-10;IND;Independie
+2026-2030;1074;Marisela Santibáñez Novoa;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1254;Ignacio Urcullú Clèment-Lu;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1174;Marco Anto Sulantay Olivares;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;1174;Marco Anto Sulantay Olivares;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1212;Erich Grohs Marín;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1177;Carolina Tello Rojas;2030-03-10;;2022-03-11;2024-05-13;PC;Partido Co
+2026-2030;1177;Carolina Tello Rojas;2030-03-10;;2024-05-14;2024-07-02;IND;Independie
+2026-2030;1177;Carolina Tello Rojas;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1177;Carolina Tello Rojas;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1250;Bernardo Salinas Maya;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1117;Nathalie Castillo Rojas;2030-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2026-2030;1117;Nathalie Castillo Rojas;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1142;Daniel Manouchehr Lobos;2030-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2026-2030;1142;Daniel Manouchehr Lobos;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1255;Eileen Urqueta Rojas;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1104;Chiara Barchiesi Chávez;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1104;Chiara Barchiesi Chávez;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1211;Sofía González Cortés;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1107;María Fran Bello Campos;2030-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2026-2030;1107;María Fran Bello Campos;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1107;María Fran Bello Campos;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1181;Nelson Venegas Salazar;2030-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2026-2030;1181;Nelson Venegas Salazar;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1224;Cristian Mella Andaur;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1235;Javier Olivares Avendaño;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1221;Benjamín Lorca Inzunza;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1060;Luis Pardo Sáinz;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1060;Luis Pardo Sáinz;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1015;Jorge Brito Hasbún;2030-03-10;;2018-03-11;2022-03-10;RD;Revolución
+2026-2030;1015;Jorge Brito Hasbún;2030-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2026-2030;1015;Jorge Brito Hasbún;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1015;Jorge Brito Hasbún;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1122;Luis Alber Cuello Peña y Lil;2030-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2026-2030;1122;Luis Alber Cuello Peña y Lil;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1259;Juan Marce Valenzuela Henríquez;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1021;Andrés Celis Montt;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1021;Andrés Celis Montt;2030-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2026-2030;1021;Andrés Celis Montt;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1170;Luis Sánchez Ossa;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1170;Luis Sánchez Ossa;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1176;Hotuiti Teao Drago;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1176;Hotuiti Teao Drago;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1189;Jaime Bassa Mercado;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1263;Sebastián Zamora Soto;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1165;Agustín Romero Leiva;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1165;Agustín Romero Leiva;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1190;Enrique Bassaletti Riess;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1217;Pier Karlezi Hazleby;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1256;Tatiana Urrutia Herrera;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1188;Marcos Barraza Gómez;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1234;Mario Olavarría Rodríguez;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1210;Gustavo Gatica Villarroel;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1200;Cristian Contreras Radovic;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1012;Boris Barrera Moreno;2030-03-10;;2018-03-11;2022-03-10;PC;Partido Co
+2026-2030;1012;Boris Barrera Moreno;2030-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2026-2030;1012;Boris Barrera Moreno;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1065;Guillermo Ramírez Diez;2030-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2026-2030;1065;Guillermo Ramírez Diez;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;1065;Guillermo Ramírez Diez;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1243;Tamara Ramírez Ramírez;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1205;Carlos Cuadrado Prats;2030-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2026-2030;1146;José Carlo Meza Pereira;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1146;José Carlo Meza Pereira;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1247;Javiera Rodríguez Pascual;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1260;César Valenzuela Maass;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1009;Jorge Alessandri Vergara;2030-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2026-2030;1009;Jorge Alessandri Vergara;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;1009;Jorge Alessandri Vergara;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1086;Gonzalo Winter Etcheberry;2030-03-10;;2018-04-05;2020-03-10;IND;Independie
+2026-2030;1086;Gonzalo Winter Etcheberry;2030-03-10;;2018-03-11;2018-04-04;RD;Revolución
+2026-2030;1086;Gonzalo Winter Etcheberry;2030-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2026-2030;1086;Gonzalo Winter Etcheberry;2030-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2026-2030;1086;Gonzalo Winter Etcheberry;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1086;Gonzalo Winter Etcheberry;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1171;Emilia Schneider Videla;2030-03-10;;2023-01-18;2024-07-02;PCS;Partido Co
+2026-2030;1171;Emilia Schneider Videla;2030-03-10;;2022-03-11;2023-01-17;COMUNES;Partido Co
+2026-2030;1171;Emilia Schneider Videla;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1171;Emilia Schneider Videla;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1223;Hans Marowski Cuevas;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1213;Irací Hassler Jacob;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1218;José Anton Kast Adriasola;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1127;Lorena Fries Monleón;2030-03-10;;2022-03-11;2023-03-27;IND;Independie
+2026-2030;1127;Lorena Fries Monleón;2030-03-10;;2023-03-28;2024-07-02;PCS;Partido Co
+2026-2030;1127;Lorena Fries Monleón;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1127;Lorena Fries Monleón;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1237;Francisco Orrego Gutiérrez;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1025;Catalina Del Real Mihovilovi;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1025;Catalina Del Real Mihovilovi;2030-03-10;;2022-03-11;2023-08-22;RN;Renovación
+2026-2030;1025;Catalina Del Real Mihovilovi;2030-03-10;;2023-08-23;2026-03-10;IND;Independie
+2026-2030;1025;Catalina Del Real Mihovilovi;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1075;Diego Schalper Sepúlveda;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1075;Diego Schalper Sepúlveda;2030-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2026-2030;1075;Diego Schalper Sepúlveda;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1214;Constanza Hube Portus;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1100;Cristián Araya Lerdo de T;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1100;Cristián Araya Lerdo de T;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1227;Claudia Mora Vega;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1252;Constanza Schonhaut Soto;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1017;Álvaro Carter Fernández;2030-03-10;;2018-03-11;2025-03-18;UDI;Unión Demó
+2026-2030;1017;Álvaro Carter Fernández;2030-03-10;;2020-09-29;2022-03-10;IND;Independie
+2026-2030;1017;Álvaro Carter Fernández;2030-03-10;;2022-03-11;2025-03-18;UDI;Unión Demó
+2026-2030;1017;Álvaro Carter Fernández;2030-03-10;;2025-03-19;2026-03-10;IND;Independie
+2026-2030;1017;Álvaro Carter Fernández;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1059;Ximena Ossandón Irarrázaba;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1059;Ximena Ossandón Irarrázaba;2030-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2026-2030;1059;Ximena Ossandón Irarrázaba;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1240;Zandra Parisi Fernández;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1039;Pamela Jiles Moreno;2030-03-10;;2018-03-11;2022-03-10;PH;Partido Hu
+2026-2030;1039;Pamela Jiles Moreno;2030-03-10;;2022-03-11;2026-03-10;PH;Partido Hu
+2026-2030;1039;Pamela Jiles Moreno;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1128;Ana María Gazmuri Vieira;2030-03-10;;2022-03-11;2023-03-06;IND;Independie
+2026-2030;1128;Ana María Gazmuri Vieira;2030-03-10;;2023-03-07;2026-03-10;PAH;Partido Ac
+2026-2030;1128;Ana María Gazmuri Vieira;2030-03-10;;2026-03-11;2030-03-10;PAH;Partido Ac
+2026-2030;1173;Daniela Serrano Salazar;2030-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2026-2030;1173;Daniela Serrano Salazar;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1251;Macarena Santelices Cañas;2030-03-10;;2026-10-20;2030-03-10;IND;Independie
+2026-2030;1251;Macarena Santelices Cañas;2030-03-10;;2026-03-11;2026-10-19;PREP;Partido Re
+2026-2030;1159;Lorena Pizarro Sierra;2030-03-10;;2022-03-11;2026-03-10;PC;Partido Co
+2026-2030;1159;Lorena Pizarro Sierra;2030-03-10;;2026-03-11;2030-03-10;PC;Partido Co
+2026-2030;1191;Valentina Becerra Peña;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1087;Gael Yeomans Araya;2030-03-10;;2019-04-17;2020-03-10;IND;Independie
+2026-2030;1087;Gael Yeomans Araya;2030-03-10;;2018-03-11;2019-04-16;RD;Revolución
+2026-2030;1087;Gael Yeomans Araya;2030-03-10;;2020-03-11;2022-03-10;PCS;Partido Co
+2026-2030;1087;Gael Yeomans Araya;2030-03-10;;2022-03-11;2024-07-02;PCS;Partido Co
+2026-2030;1087;Gael Yeomans Araya;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1087;Gael Yeomans Araya;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1028;Eduardo Durán Salinas;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1028;Eduardo Durán Salinas;2030-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2026-2030;1028;Eduardo Durán Salinas;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1248;Felipe Ross Correa;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1044;Raúl Leiva Carvajal;2030-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2026-2030;1044;Raúl Leiva Carvajal;2030-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2026-2030;1044;Raúl Leiva Carvajal;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1186;Ignacio Achurra Díaz;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1199;Jaime Coloma Álamos;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1133;Juan Irarrázava Rossel;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1133;Juan Irarrázava Rossel;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1262;Diego Vergara Rodríguez;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1077;Raúl Soto Mardones;2030-03-10;;2018-03-11;2019-08-25;DC;Partido De
+2026-2030;1077;Raúl Soto Mardones;2030-03-10;;2019-08-26;2022-03-10;IND;Independie
+2026-2030;1077;Raúl Soto Mardones;2030-03-10;;2022-03-11;2026-03-10;PPD;Partido Po
+2026-2030;1077;Raúl Soto Mardones;2030-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2026-2030;1166;Natalia Romero Talguia;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1166;Natalia Romero Talguia;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1253;Fernando Ugarte Tejeda;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1264;Fernando Zamorano Peralta;2030-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2026-2030;1207;Valentina Cáceres Monsálvez;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1203;Sebastián Cristoffan Jaraquemad;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1114;Félix Bugueño Sotelo;2030-03-10;;2022-03-11;2023-06-12;FRVS;Federación
+2026-2030;1114;Félix Bugueño Sotelo;2030-03-10;;2022-06-13;2024-07-02;IND;Independie
+2026-2030;1114;Félix Bugueño Sotelo;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1114;Félix Bugueño Sotelo;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1233;Ricardo Neumann Bertín;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1206;Carolina Cucumides Calderón;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;915;Germán Verdugo Soto;2030-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2026-2030;915;Germán Verdugo Soto;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;915;Germán Verdugo Soto;2030-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2026-2030;915;Germán Verdugo Soto;2030-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2026-2030;1132;Jorge Guzmán Zepeda;2030-03-10;;2022-03-11;2026-03-10;EVOP;Evolución 
+2026-2030;1132;Jorge Guzmán Zepeda;2030-03-10;;2026-03-11;2030-03-10;EVOP;Evolución 
+2026-2030;1184;Roberto Celedón Fernández;2030-03-10;;2025-01-08;2026-03-10;IND;Independie
+2026-2030;1184;Roberto Celedón Fernández;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1150;Benjamín Moreno Bascur;2030-03-10;;2022-03-11;2026-03-10;PREP;Partido Re
+2026-2030;1150;Benjamín Moreno Bascur;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1229;Javier Muñoz Riquelme;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1196;Priscilla Castillo Gerli;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1258;Guillermo Valdés Carmona;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1225;Cristian Menchaca Pinochet;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1242;Rodrigo Ramírez Parra;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1194;Daniel Bustos Leal;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1180;Consuelo Veloso Ávila;2030-03-10;;2022-03-11;2024-05-30;RD;Revolución
+2026-2030;1180;Consuelo Veloso Ávila;2030-03-10;;2024-05-31;2026-03-10;IND;Independie
+2026-2030;1180;Consuelo Veloso Ávila;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1180;Consuelo Veloso Ávila;2030-03-10;;2026-03-11;2026-03-10;IND;Independie
+2026-2030;1116;Felipe Camaño Cárdenas;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1116;Felipe Camaño Cárdenas;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1119;Sara Concha Smith;2030-03-10;;2023-03-22;2026-03-10;PSC;Partido So
+2026-2030;1119;Sara Concha Smith;2030-03-10;;2022-03-11;2023-03-21;PCC;Partido Co
+2026-2030;1119;Sara Concha Smith;2030-03-10;;2026-03-11;2026-09-01;PSC;Partido So
+2026-2030;1119;Sara Concha Smith;2030-03-10;;2026-09-02;2030-03-10;PCCH;Partido Cr
+2026-2030;1204;Francisco Crisóstomo Llanos;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1197;Carlos Chandía Alarcón;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1143;Cristóbal Martínez Ramírez;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;1143;Cristóbal Martínez Ramírez;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1102;Roberto Arroyo Muñoz;2030-03-10;;2022-03-11;2023-11-07;PDG;Partido de
+2026-2030;1102;Roberto Arroyo Muñoz;2030-03-10;;2023-11-08;2026-03-10;PSC;Partido So
+2026-2030;1102;Roberto Arroyo Muñoz;2030-03-10;;2026-03-11;2026-08-30;PSC;Partido So
+2026-2030;1102;Roberto Arroyo Muñoz;2030-03-10;;2026-08-31;2030-03-10;IND;Independie
+2026-2030;1193;Patricio Briones Moller;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1054;Francesca Muñoz González;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;1054;Francesca Muñoz González;2030-03-10;;2022-12-12;2023-05-30;IND;Independie
+2026-2030;1054;Francesca Muñoz González;2030-03-10;;2022-03-11;2022-12-11;RN;Renovación
+2026-2030;1054;Francesca Muñoz González;2030-03-10;;2023-05-31;2026-03-10;PSC;Partido So
+2026-2030;1054;Francesca Muñoz González;2030-03-10;;2026-09-02;2030-03-10;PCCH;Partido Cr
+2026-2030;1054;Francesca Muñoz González;2030-03-10;;2026-03-11;2026-09-01;PSC;Partido So
+2026-2030;815;Sergio Bobadilla Muñoz;2030-03-10;;2010-03-11;2014-03-10;UDI;Unión Demó
+2026-2030;815;Sergio Bobadilla Muñoz;2030-03-10;;2018-03-11;2022-03-10;UDI;Unión Demó
+2026-2030;815;Sergio Bobadilla Muñoz;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;815;Sergio Bobadilla Muñoz;2030-03-10;;2006-03-11;2010-03-10;UDI;Unión Demó
+2026-2030;815;Sergio Bobadilla Muñoz;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1238;Álvaro Ortiz Vera;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1198;Paz Charpentie Rajcevich;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1157;Marlene Pérez Cartes;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1157;Marlene Pérez Cartes;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1246;José Anton Rivas Villalobos;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1183;Flor Weisse Novoa;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;1183;Flor Weisse Novoa;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1241;Patricio Pinilla Valencia;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1062;Joanna Pérez Olea;2030-03-10;;2018-03-11;2022-03-10;DC;Partido De
+2026-2030;1062;Joanna Pérez Olea;2030-03-10;;2022-12-12;2023-09-04;IND;Independie
+2026-2030;1062;Joanna Pérez Olea;2030-03-10;;2022-03-11;2022-12-11;DC;Partido De
+2026-2030;1062;Joanna Pérez Olea;2030-03-10;;2023-09-05;2026-03-10;DEM;Partido De
+2026-2030;1062;Joanna Pérez Olea;2030-03-10;;2026-03-11;2030-03-10;DEM;Partido De
+2026-2030;1082;Cristóbal Urruticoec Ríos;2030-03-10;;2018-03-11;2021-06-13;RN;Renovación
+2026-2030;1082;Cristóbal Urruticoec Ríos;2030-03-10;;2021-06-14;2022-03-10;PREP;Partido Re
+2026-2030;1082;Cristóbal Urruticoec Ríos;2030-03-10;;2022-03-11;2024-10-14;PREP;Partido Re
+2026-2030;1082;Cristóbal Urruticoec Ríos;2030-03-10;;2024-10-15;2025-06-17;IND;Independie
+2026-2030;1082;Cristóbal Urruticoec Ríos;2030-03-10;;2025-06-18;2026-03-10;PNL;Partido Na
+2026-2030;1082;Cristóbal Urruticoec Ríos;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1192;Lilian Betancurt Delgado;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1152;Gloria Naveillan Arriagada;2030-03-10;;2022-03-11;2022-09-06;PREP;Partido Re
+2026-2030;1152;Gloria Naveillan Arriagada;2030-03-10;;2022-09-07;2025-06-29;IND;Independie
+2026-2030;1152;Gloria Naveillan Arriagada;2030-03-10;;2025-06-30;2026-03-10;PNL;Partido Na
+2026-2030;1152;Gloria Naveillan Arriagada;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1061;Andrea Parra Sauterel;2030-03-10;;2018-03-11;2022-03-10;PPD;Partido Po
+2026-2030;1061;Andrea Parra Sauterel;2030-03-10;;2026-03-11;2030-03-10;PPD;Partido Po
+2026-2030;1202;Eduardo Cretton Rebolledo;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1108;Juan Carlo Beltrán Silva;2030-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2026-2030;1108;Juan Carlo Beltrán Silva;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;1990-03-11;1994-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;1998-03-11;2002-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;2010-03-11;2014-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;2002-03-11;2006-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;2018-03-11;2022-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;2014-03-11;2018-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;1994-03-11;1998-03-10;RN;Renovación
+2026-2030;843;René Manue García García;2030-03-10;;2006-03-11;2010-03-10;RN;Renovación
+2026-2030;1172;Stephan Schubert Rubio;2030-03-10;;2022-03-11;2025-08-03;IND;Independie
+2026-2030;1172;Stephan Schubert Rubio;2030-03-10;;2025-08-04;2026-03-10;PREP;Partido Re
+2026-2030;1172;Stephan Schubert Rubio;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1232;Cristian Neira Martínez;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1153;Coca Erick Ñanco Vásquez;2030-03-10;;2022-03-11;2024-07-02;RD;Revolución
+2026-2030;1153;Coca Erick Ñanco Vásquez;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1153;Coca Erick Ñanco Vásquez;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1201;Flor Contreras Vivallo;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1219;Tomás Kast Sommerhoff;2030-03-10;;2026-03-11;2030-03-10;EVOP;Evolución 
+2026-2030;1226;José Montalva Feuerhake;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1038;Marcos Ilabaca Cerda;2030-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2026-2030;1038;Marcos Ilabaca Cerda;2030-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2026-2030;1038;Marcos Ilabaca Cerda;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1220;Leandro Kunstmann Collado;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1249;Omar Sabat Guzmán;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1261;Daniel Valenzuela Salazar;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1209;Matías Fernández Hartwig;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1056;Emilia Nuyado Ancapichun;2030-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2026-2030;1056;Emilia Nuyado Ancapichun;2030-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2026-2030;1056;Emilia Nuyado Ancapichun;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1105;Héctor Barría Angulo;2030-03-10;;2022-03-11;2026-03-10;DC;Partido De
+2026-2030;1105;Héctor Barría Angulo;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1140;Daniel Lilayu Vivanco;2030-03-10;;2022-03-11;2026-03-10;UDI;Unión Demó
+2026-2030;1140;Daniel Lilayu Vivanco;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1228;Paulina Muñoz Minte;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1131;Mauro González Villarroel;2030-03-10;;2022-03-11;2026-03-10;RN;Renovación
+2026-2030;1131;Mauro González Villarroel;2030-03-10;;2026-03-11;2030-03-10;RN;Renovación
+2026-2030;1230;Alex Nahuelquin Nahuelquin;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1178;Héctor Ulloa Aguilera;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1178;Héctor Ulloa Aguilera;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1013;Alejandro Bernales Maldonado;2030-03-10;;2018-03-11;2022-03-10;LIBERAL;Partido Li
+2026-2030;1013;Alejandro Bernales Maldonado;2030-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2026-2030;1013;Alejandro Bernales Maldonado;2030-03-10;;2026-03-11;2030-03-10;PL;Partido Li
+2026-2030;1244;Claudia Reyes Larenas;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1222;Andrea Macías Palma;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;803;René Alinco Bustos;2030-03-10;;2010-03-11;2014-03-10;IND;Independie
+2026-2030;803;René Alinco Bustos;2030-03-10;;2018-03-11;2022-03-10;IND;Independie
+2026-2030;803;René Alinco Bustos;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;803;René Alinco Bustos;2030-03-10;;2006-03-11;2010-03-10;PPD;Partido Po
+2026-2030;803;René Alinco Bustos;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1257;Alejandra Valdebenit Torres;2030-03-10;;2026-03-11;2030-03-10;UDI;Unión Demó
+2026-2030;1110;Carlos Bianchi Chelech;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1110;Carlos Bianchi Chelech;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1148;Javiera Morales Alvarado;2030-03-10;;2022-03-11;2022-04-11;IND;Independie
+2026-2030;1148;Javiera Morales Alvarado;2030-03-10;;2022-04-12;2024-07-02;PCS;Partido Co
+2026-2030;1148;Javiera Morales Alvarado;2030-03-10;;2024-07-03;2026-03-10;FA;Frente Amp
+2026-2030;1148;Javiera Morales Alvarado;2030-03-10;;2026-03-11;2030-03-10;FA;Frente Amp
+2026-2030;1245;Alejandro Riquelme Ducci;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1141;Luis Malla Valenzuela;2030-03-10;;2022-03-11;2026-03-10;LIBERAL;Partido Li
+2026-2030;1141;Luis Malla Valenzuela;2030-03-10;;2026-03-11;2030-03-10;PL;Partido Li
+2026-2030;1208;Jorge Díaz Ibarra;2030-03-10;;2026-03-11;2030-03-10;DC;Partido De
+2026-2030;1216;Stephanie Jéldrez Ortiz;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1195;Carlos Carvajal Gallardo;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1231;Ximena Naranjo Pinto;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1215;Álvaro Jofré Cáceres;2030-03-10;;2026-03-11;2030-03-10;PNL;Partido Na
+2026-2030;1099;Jaime Araya Guerrero;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1099;Jaime Araya Guerrero;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;986;Marcela Hernando Pérez;2030-03-10;;2014-03-11;2018-03-10;PR;Partido Ra
+2026-2030;986;Marcela Hernando Pérez;2030-03-10;;2018-03-11;2022-03-10;PR;Partido Ra
+2026-2030;986;Marcela Hernando Pérez;2030-03-10;;2026-03-11;2030-03-10;PR;Partido Ra
+2026-2030;1187;Carlo Arqueros Pizarro;2030-03-10;;2026-03-11;2030-03-10;PREP;Partido Re
+2026-2030;1239;Fabián Ossandón Briceño;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;1182;Sebastián Videla Castillo;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1182;Sebastián Videla Castillo;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1073;Juan Santana Castillo;2030-03-10;;2018-03-11;2022-03-10;PS;Partido So
+2026-2030;1073;Juan Santana Castillo;2030-03-10;;2022-03-11;2026-03-10;PS;Partido So
+2026-2030;1073;Juan Santana Castillo;2030-03-10;;2026-03-11;2030-03-10;PS;Partido So
+2026-2030;1175;Cristián Tapia Ramos;2030-03-10;;2022-03-11;2026-03-10;IND;Independie
+2026-2030;1175;Cristián Tapia Ramos;2030-03-10;;2026-03-11;2030-03-10;IND;Independie
+2026-2030;1236;Paula Olmos Contreras;2030-03-10;;2026-03-11;2030-03-10;PDG;Partido de
+2026-2030;872;Jaime Mulet Martínez;2030-03-10;;1998-03-11;2002-03-10;DC;Partido De
+2026-2030;872;Jaime Mulet Martínez;2030-03-10;;2002-03-11;2006-03-10;DC;Partido De
+2026-2030;872;Jaime Mulet Martínez;2030-03-10;;2018-03-11;2022-03-10;FRVS;Federación
+2026-2030;872;Jaime Mulet Martínez;2030-03-10;;2022-03-11;2026-03-10;FRVS;Federación
+2026-2030;872;Jaime Mulet Martínez;2030-03-10;;2006-03-11;2010-03-10;PRI;Partido Re
+2026-2030;872;Jaime Mulet Martínez;2030-03-10;;2026-03-11;2030-03-10;FRVS;Federación

@@ -1,0 +1,9 @@
+nombre,partido_origen,fecha_salida,tipo,grupo,motivo_principal,ref_grupo,n_ref,percentil_w01,cambio_w01,trimestres_post,percentil_w1,cambio_w1
+Jaime Orpis Bouchon,UDI,2016-01-10,renuncia,Otras salidas de la derecha convencional,ESC,partido,7,0.375,NA,0,0.25,NA
+Carmen Gloria Aravena Acuña,EVOP,2019-04-26,renuncia,Otras salidas de la derecha convencional,PROG,bloque,16,0.23529411764705882,-0.028975398529467122,4,0.29411764705882354,-0.14175895178534542
+Sebastián Keitel Bianchi,EVOP,2023-11-14,renuncia,Otras salidas de la derecha convencional,CONDUC,bloque,4,0.2,-0.1643115364090359,3,0.4,-0.12055852512132181
+Rojo Edwards Silva,PREP,2023-12-02,renuncia,Salidas de la derecha radical,DISC,bloque,0,NA,NA,3,NA,NA
+Francisco Chahuán Chahuán,RN,2025-04-17,renuncia,Otras salidas de la derecha convencional,CARRERA,partido,7,0.375,0.017040333254447815,3,0.5,-0.020063128571818356
+Rojo Edwards Silva,PSC,2025-04-28,renuncia,Salidas de la derecha radical,CARRERA,bloque,2,NA,0.22576214275106532,4,NA,0.34429543115431305
+Carmen Gloria Aravena Acuña,PREP,2025-04-30,renuncia,Salidas de la derecha radical,PROG,bloque,2,NA,0.17136903941227732,3,NA,0.5321579602732557
+Alejandro Kusanovic Glusevic,RN,2025-08-07,suspension,Hacia la derecha radical,DISC,partido,6,0.8571428571428571,-0.2426151592069266,4,0.8571428571428571,-0.4675402300997656

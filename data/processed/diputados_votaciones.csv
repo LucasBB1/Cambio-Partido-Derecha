@@ -1,0 +1,424 @@
+diputado_id,nombre,ap_paterno,ap_materno
+74,Jaime,Naranjo,Ortiz
+172,Carlos,Kuschel,Silva
+177,Felipe,Letelier,Norambuena
+660,Manuel,Matta,Aragay
+800,Enrique,Accorsi,Opazo
+802,Sergio,Aguiló,Melo
+803,René,Alinco,Bustos
+808,Pedro,Araya,Guerrero
+809,Gonzalo,Arenas,Hödar
+810,Gabriel,Ascencio,Mansilla
+811,Ramón,Barros,Montero
+812,Eugenio,Bauer,Jouanne
+813,Germán,Becker,Alvear
+814,Mario,Bertolino,Rendic
+815,Sergio,Bobadilla,Muñoz
+816,Jorge,Burgos,Varela
+818,Alberto,Cardemil,Herrera
+819,Guillermo,Ceroni,Fuentes
+822,María Angélica,Cristi,Marfil
+824,Alfonso,De Urresti,Longton
+825,Roberto,Delmastro,Naso
+827,Marcelo,Díaz,Díaz
+831,Edmundo,Eluchans,Urenda
+836,Marcos,Espinosa,Monardes
+837,Fidel,Espinoza,Sandoval
+838,Enrique,Estay,Peñaloza
+839,Ramón,Farías,Ponce
+843,René Manuel,García,García
+846,Joaquín,Godoy,Ibáñez
+847,Carolina,Goic,Boroevic
+848,Rodrigo,González,Torres
+849,Patricio,Hales,Dib
+850,Javier,Hernández,Hernández
+852,Jorge,Insunza,Gregorio de las Heras
+853,Marta,Isasi,Barbieri
+854,Enrique,Jaramillo,Becker
+855,Carlos Abel,Jarpa,Wevar
+856,Tucapel,Jiménez,Fuentes
+857,José Antonio,Kast,Rist
+858,Juan Carlos,Latorre,Carmona
+860,Roberto,León,Ramírez
+862,Pablo,Lorenzini,Basso
+863,Rosauro,Martínez,Labbé
+865,Patricio,Melero,Abaroa
+866,Fernando,Meza,Moncada
+867,Cristián,Monckeberg,Bruner
+868,Nicolás,Monckeberg,Díaz
+869,Manuel,Monsalve,Benavides
+870,Carlos,Montes,Cisternas
+871,Iván,Moreira,Barros
+872,Jaime,Mulet,Martínez
+873,Adriana,Muñoz,D'Albora
+874,Claudia,Nogueira,Fernández
+875,Iván,Norambuena,Farías
+876,Marco Antonio,Núñez,Lozano
+877,Sergio,Ojeda,Uribe
+879,José Miguel,Ortiz,Novoa
+880,Clemira,Pacheco,Rivas
+883,Denise,Pascal,Allende
+885,José,Pérez,Arriagada
+887,Carlos,Recondo,Lavanderos
+888,Alberto,Robles,Pantoja
+889,Manuel,Rojas,Molina
+891,Karla,Rubilar,Barahona
+892,María Antonieta,Saa,Díaz
+893,Jorge,Sabag,Villalobos
+895,Felipe,Salaberry,Soto
+897,Alejandra,Sepúlveda,Orbenes
+898,Gabriel,Silber,Romo
+902,Jorge,Tarud,Daccarett
+905,Marisol,Turres,Figueroa
+906,Jorge,Ulloa,Aguillón
+908,Ignacio,Urrutia,Bonilla
+911,Patricio,Vallespín,López
+913,Mario,Venegas,Cárdenas
+915,Germán,Verdugo,Soto
+916,Ximena,Vidal,Lázaro
+917,Gastón,Von Mühlenbrock,Zamora
+919,Felipe,Ward,Edwards
+920,Marcelo,Schilling,Rodríguez
+922,Felipe,Harboe,Bascuñán
+923,Pedro Pablo,Álvarez-Salamanca,Ramírez
+924,Osvaldo,Andrade,Lara
+925,Pepe,Auth,Stewart
+926,Nino,Baltolu,Rasera
+927,Pedro,Browne,Urrejola
+928,Giovanni,Calderón,Bassi
+929,Cristián,Campos,Jara
+930,Lautaro,Carmona,Soto
+931,Juan Luis,Castro,González
+932,Eduardo,Cerda,García
+933,Aldo,Cornejo,González
+934,Fuad,Chahin,Valenzuela
+935,Rojo,Edwards,Silva
+936,Cristina,Girardi,Lavín
+937,Hugo,Gutiérrez,Gálvez
+938,Romilio,Gutiérrez,Pino
+939,Gustavo,Hasbún,Selume
+940,María José,Hoffmann,Opazo
+941,Luis,Lemus,Aracena
+942,Javier,Macaya,Danús
+943,Miodrag,Marinovic,Solo de Zaldívar
+944,Andrea,Molina,Oliva
+945,Celso,Morales,Muñoz
+946,Leopoldo,Pérez,Lahsen
+947,Ricardo,Rincón,González
+948,Gaspar,Rivas,Sánchez
+949,Marcela,Sabat,Fernández
+950,René,Saffirio,Espinoza
+951,David,Sandoval,Plaza
+952,Alejandro,Santana,Tirachini
+953,Frank,Sauerbaum,Muñoz
+954,Ernesto,Silva,Méndez
+955,Arturo,Squella,Ovalle
+956,Guillermo,Teillier,Del Valle
+957,Víctor,Torres,Jeldes
+958,Joaquín,Tuma,Zedan
+959,Enrique,Van Rysselberghe,Herrera
+960,Orlando,Vargas,Pizarro
+961,Pedro,Velásquez,Seguel
+962,Carlos,Vilches,Guzmán
+963,Matías,Walker,Prieto
+964,Mónica,Zalaquett,Said
+965,Cristian,Letelier,Aguilar
+966,Joel,Rosales,Guzmán
+967,Issa,Kort,Garriga
+968,Jenny,Álvarez,Vera
+969,Claudio,Arriagada,Macaya
+970,Jaime,Bellolio,Avaria
+971,Bernardo,Berger,Fett
+972,Gabriel,Boric,Font
+973,Karol,Cariola,Oliva
+974,Loreto,Carvajal,Ambiado
+975,Daniella,Cicardini,Milla
+976,Juan Antonio,Coloma,Álamos
+977,Marcelo,Chávez,Velásquez
+978,Felipe,De Mussy,Hiriart
+979,Sergio,Espejo,Yaksic
+980,Daniel,Farcas,Guendelman
+981,Maya,Fernández,Allende
+982,Iván,Flores,García
+983,Iván,Fuentes,Castillo
+984,Gonzalo,Fuenzalida,Figueroa
+985,Sergio,Gahona,Salazar
+986,Marcela,Hernando,Pérez
+987,Giorgio,Jackson,Drago
+988,Felipe,Kast,Sommerhoff
+989,Joaquín,Lavín,León
+990,Daniel,Melo,Contreras
+991,Vlado,Mirosevic,Verdugo
+992,Juan Enrique,Morano,Cornejo
+993,Daniel,Núñez,Arancibia
+994,Paulina,Núñez,Urrutia
+995,Diego,Paulsen,Kehr
+996,Jaime,Pilowsky,Greene
+997,Roberto,Poblete,Zapata
+998,Yasna,Provoste,Campillay
+999,Jorge,Rathgeb,Schifferli
+1000,Luis,Rocafull,López
+1001,Raúl,Saldívar,Auger
+1002,Leonardo,Soto,Ferrada
+1003,Renzo,Trisotti,Martínez
+1004,Christian,Urízar,Muñoz
+1005,Osvaldo,Urrutia,Soto
+1006,Camila,Vallejo,Dowling
+1007,Miguel Ángel,Alvarado,Ramírez
+1008,Florcita,Alarcón,Rojas
+1009,Jorge,Alessandri,Vergara
+1010,Sebastián,Álvarez,Ramírez
+1011,Sandra,Amar,Mancilla
+1012,Boris,Barrera,Moreno
+1013,Alejandro,Bernales,Maldonado
+1014,Karim,Bianchi,Retamales
+1015,Jorge,Brito,Hasbún
+1016,Miguel Ángel,Calisto,Águila
+1017,Álvaro,Carter,Fernández
+1018,Natalia,Castillo,Muñoz
+1019,José Miguel,Castro,Bascuñán
+1020,Ricardo,Celis,Araya
+1021,Andrés,Celis,Montt
+1022,Sofía,Cid,Versalovic
+1023,Miguel,Crispi,Serrano
+1024,Luciano,Cruz-Coke,Carvallo
+1025,Catalina,Del Real,Mihovilovic
+1026,Mario,Desbordes,Jiménez
+1027,Jorge,Durán,Espinoza
+1028,Eduardo,Durán,Salinas
+1029,Francisco,Eguiguren,Correa
+1030,Camila,Flores,Oporto
+1031,Juan,Fuenzalida,Cobo
+1032,Ramón,Galleguillos,Castillo
+1033,Renato,Garín,González
+1034,Félix,González,Gatica
+1035,Carmen,Hertz,Cádiz
+1036,Tomás,Hirsch,Goldschmidt
+1037,Diego,Ibáñez,Cotroneo
+1038,Marcos,Ilabaca,Cerda
+1039,Pamela,Jiles,Moreno
+1040,Harry,Jürgensen,Rundshagen
+1041,Pablo,Kast,Sommerhoff
+1042,Sebastián,Keitel,Bianchi
+1043,Amaro,Labra,Sepúlveda
+1044,Raúl,Leiva,Carvajal
+1045,Aracely,Leuquén,Uribe
+1046,Andrés,Longton,Herrera
+1047,Karin,Luck,Urban
+1048,Carolina,Marzán,Pinto
+1049,Cosme,Mellado,Pino
+1050,Miguel,Mellado,Suazo
+1051,Claudia,Mix,Jiménez
+1052,Andrés,Molina,Magofke
+1053,Cristhian,Moreira,Barros
+1054,Francesca,Muñoz,González
+1055,Nicolás,Noman,Garrido
+1056,Emilia,Nuyado,Ancapichun
+1057,Erika,Olivera,De La Fuente
+1058,Maite,Orsini,Pascal
+1059,Ximena,Ossandón,Irarrázabal
+1060,Luis,Pardo,Sáinz
+1061,Andrea,Parra,Sauterel
+1062,Joanna,Pérez,Olea
+1063,Catalina,Pérez,Salinas
+1064,Pablo,Prieto,Lorca
+1065,Guillermo,Ramírez,Diez
+1066,Rolando,Rentería,Moller
+1067,Hugo,Rey,Martínez
+1068,Camila,Rojas,Valderrama
+1069,Leonidas,Romero,Sáez
+1070,Patricio,Rosas,Barrientos
+1071,Gastón,Saavedra,Chandía
+1072,Gustavo,Sanhueza,Dueñas
+1073,Juan,Santana,Castillo
+1074,Marisela,Santibáñez,Novoa
+1075,Diego,Schalper,Sepúlveda
+1076,Alexis,Sepúlveda,Soto
+1077,Raúl,Soto,Mardones
+1078,Jaime,Tohá,González
+1079,Sebastián,Torrealba,Alvarado
+1080,Virginia,Troncoso,Hellman
+1081,Francisco,Undurraga,Gazitúa
+1082,Cristóbal,Urruticoechea,Ríos
+1083,Esteban,Velásquez,Núñez
+1084,Daniel,Verdessi,Belemmi
+1085,Pablo,Vidal,Rojas
+1086,Gonzalo,Winter,Etcheberry
+1087,Gael,Yeomans,Araya
+1088,Camilo,Morán,Bahamondes
+1089,Nora,Cuevas,Contreras
+1090,Tomás Andrés,Fuentes,Barros
+1091,Rubén,Moraga,Mamani
+1092,Marcela,Sandoval,Osorio
+1093,Patricia,Rubio,Escobar
+1094,Cristian,Labbé,Martínez
+1095,Juan Manuel,Masferrer,Vidal
+1096,María Candelaria,Acevedo,Sáez
+1097,Eric,Aedo,Jeldres
+1098,Yovana,Ahumada,Palma
+1099,Jaime,Araya,Guerrero
+1100,Cristián,Araya,Lerdo de Tejada
+1101,Mónica,Arce,Castro
+1102,Roberto,Arroyo,Muñoz
+1103,Danisa,Astudillo,Peiretti
+1104,Chiara,Barchiesi,Chávez
+1105,Héctor,Barría,Angulo
+1106,Miguel Ángel,Becker,Alvear
+1107,María Francisca,Bello,Campos
+1108,Juan Carlos,Beltrán,Silva
+1109,Gustavo,Benavente,Vergara
+1110,Carlos,Bianchi,Chelech
+1111,Fernando,Bórquez,Montecinos
+1112,Ana María,Bravo,Castro
+1113,Marta,Bravo,Salinas
+1114,Félix,Bugueño,Sotelo
+1115,Mercedes,Bulnes,Núñez
+1116,Felipe,Camaño,Cárdenas
+1117,Nathalie,Castillo,Rojas
+1118,Ricardo,Cifuentes,Lillo
+1119,Sara,Concha,Smith
+1120,María Luisa,Cordero,Velásquez
+1121,Eduardo,Cornejo,Lagos
+1122,Luis Alberto,Cuello,Peña y Lillo
+1123,Gonzalo,De la Carrera,Correa
+1124,Tomás,De Rementería,Venegas
+1125,Viviana,Delgado,Riquelme
+1126,Felipe,Donoso,Castro
+1127,Lorena,Fries,Monleón
+1128,Ana María,Gazmuri,Vieira
+1129,Andrés,Giordano,Salazar
+1130,Marta,González,Olea
+1131,Mauro,González,Villarroel
+1132,Jorge,Guzmán,Zepeda
+1133,Juan,Irarrázaval,Rossel
+1134,Andrés,Jouannet,Valderrama
+1135,Johannes,Kaiser,Barents-Von Hohenhagen
+1136,Paula,Labra,Besserer
+1137,Tomás,Lagomarsino,Guzmán
+1138,Henry,Leal,Bizama
+1139,Enrique,Lee,Flores
+1140,Daniel,Lilayu,Vivanco
+1141,Luis,Malla,Valenzuela
+1142,Daniel,Manouchehri,Lobos
+1143,Cristóbal,Martínez,Ramírez
+1144,Christian,Matheson,Villán
+1145,Karen,Medina,Vásquez
+1146,José Carlos,Meza,Pereira
+1147,Helia,Molina,Milman
+1148,Javiera,Morales,Alvarado
+1149,Carla,Morales,Maldonado
+1150,Benjamín,Moreno,Bascur
+1151,Camila,Musante,Müller
+1152,Gloria,Naveillan,Arriagada
+1153,Coca Ericka,Ñanco,Vásquez
+1154,Mauricio,Ojeda,Rebolledo
+1155,Rubén Darío,Oyarzo,Figueroa
+1156,Hernán,Palma,Pérez
+1157,Marlene,Pérez,Cartes
+1158,Víctor Alejandro,Pino,Fuentes
+1159,Lorena,Pizarro,Sierra
+1160,Alejandra,Placencia,Cabello
+1161,Francisco,Pulgar,Castillo
+1162,Matías,Ramírez,Pascal
+1163,Marcia,Raphael,Mora
+1164,Marcela,Riquelme,Aliaga
+1165,Agustín,Romero,Leiva
+1166,Natalia,Romero,Talguia
+1167,Jaime,Sáez,Quiroz
+1168,Jorge,Saffirio,Espinoza
+1169,Clara,Sagardía,Cabezas
+1170,Luis,Sánchez,Ossa
+1171,Emilia,Schneider,Videla
+1172,Stephan,Schubert,Rubio
+1173,Daniela,Serrano,Salazar
+1174,Marco Antonio,Sulantay,Olivares
+1175,Cristián,Tapia,Ramos
+1176,Hotuiti,Teao,Drago
+1177,Carolina,Tello,Rojas
+1178,Héctor,Ulloa,Aguilera
+1179,Alberto,Undurraga,Vicuña
+1180,Consuelo,Veloso,Ávila
+1181,Nelson,Venegas,Salazar
+1182,Sebastián,Videla,Castillo
+1183,Flor,Weisse,Novoa
+1184,Roberto,Celedón,Fernández
+1185,Arturo,Barrios,Oteíza
+1186,Ignacio,Achurra,Díaz
+1187,Carlo,Arqueros,Pizarro
+1188,Marcos,Barraza,Gómez
+1189,Jaime,Bassa,Mercado
+1190,Enrique,Bassaletti,Riess
+1191,Valentina,Becerra,Peña
+1192,Lilian,Betancurt,Delgado
+1193,Patricio,Briones,Moller
+1194,Daniel,Bustos,Leal
+1195,Carlos,Carvajal,Gallardo
+1196,Priscilla,Castillo,Gerli
+1197,Carlos,Chandía,Alarcón
+1198,Paz,Charpentier,Rajcevich
+1199,Jaime,Coloma,Álamos
+1200,Cristian,Contreras,Radovic
+1201,Flor,Contreras,Vivallo
+1202,Eduardo,Cretton,Rebolledo
+1203,Sebastián,Cristoffanini,Jaraquemada
+1204,Francisco,Crisóstomo,Llanos
+1205,Carlos,Cuadrado,Prats
+1206,Carolina,Cucumides,Calderón
+1207,Valentina,Cáceres,Monsálvez
+1208,Jorge,Díaz,Ibarra
+1209,Matías,Fernández,Hartwig
+1210,Gustavo,Gatica,Villarroel
+1211,Sofía,González,Cortés
+1212,Erich,Grohs,Marín
+1213,Irací,Hassler,Jacob
+1214,Constanza,Hube,Portus
+1215,Álvaro,Jofré,Cáceres
+1216,Stephanie,Jéldrez,Ortiz
+1217,Pier,Karlezi,Hazleby
+1218,José Antonio,Kast,Adriasola
+1219,Tomás,Kast,Sommerhoff
+1220,Leandro,Kunstmann,Collado
+1221,Benjamín,Lorca,Inzunza
+1222,Andrea,Macías,Palma
+1223,Hans,Marowski,Cuevas
+1224,Cristian,Mella,Andaur
+1225,Cristian,Menchaca,Pinochet
+1226,José,Montalva,Feuerhake
+1227,Claudia,Mora,Vega
+1228,Paulina,Muñoz,Minte
+1229,Javier,Muñoz,Riquelme
+1230,Alex,Nahuelquin,Nahuelquin
+1231,Ximena,Naranjo,Pinto
+1232,Cristian,Neira,Martínez
+1233,Ricardo,Neumann,Bertín
+1234,Mario,Olavarría,Rodríguez
+1235,Javier,Olivares,Avendaño
+1236,Paula,Olmos,Contreras
+1237,Francisco,Orrego,Gutiérrez
+1238,Álvaro,Ortiz,Vera
+1239,Fabián,Ossandón,Briceño
+1240,Zandra,Parisi,Fernández
+1241,Patricio,Pinilla,Valencia
+1242,Rodrigo,Ramírez,Parra
+1243,Tamara,Ramírez,Ramírez
+1244,Claudia,Reyes,Larenas
+1245,Alejandro,Riquelme,Ducci
+1246,José Antonio,Rivas,Villalobos
+1247,Javiera,Rodríguez,Pascual
+1248,Felipe,Ross,Correa
+1249,Omar,Sabat,Guzmán
+1250,Bernardo,Salinas,Maya
+1251,Macarena,Santelices,Cañas
+1252,Constanza,Schonhaut,Soto
+1253,Fernando,Ugarte,Tejeda
+1254,Ignacio,Urcullú,Clèment-Lund
+1255,Eileen,Urqueta,Rojas
+1256,Tatiana,Urrutia,Herrera
+1257,Alejandra,Valdebenito,Torres
+1258,Guillermo,Valdés,Carmona
+1259,Juan Marcelo,Valenzuela,Henríquez
+1260,César,Valenzuela,Maass
+1261,Daniel,Valenzuela,Salazar
+1262,Diego,Vergara,Rodríguez
+1263,Sebastián,Zamora,Soto
+1264,Fernando,Zamorano,Peralta

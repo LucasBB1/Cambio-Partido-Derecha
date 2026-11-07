@@ -1,0 +1,45 @@
+tipo,grupo,id,nombre,partido_origen,destino,ts,fecha,periodo,anio_sig,camara_sig,sigla_sig,condicion_sig,electo_sig
+positivo,otras_convencional,846,Joaquín Godoy Ibáñez,AMPL,IND,15,2017-07-06,2014-2018,2017,no compite,NA,NA,NA
+positivo,hacia_radical,857,José Antonio Kast Rist,UDI,PREP,10,2016-05-31,2014-2018,2017,no compite,NA,NA,NA
+positivo,otras_convencional,891,Karla Rubilar Barahona,AMPL,IND,6,2015-05-15,2014-2018,2017,no compite,NA,NA,NA
+positivo,hacia_radical,908,Ignacio Urrutia Bonilla,UDI,PREP,20,2018-12-17,2018-2022,2021,no compite,NA,NA,NA
+positivo,otras_convencional,915,Germán Verdugo Soto,RN,IND,10,2016-05-06,2014-2018,2017,Diputados,UDI,militante,FALSE
+positivo,otras_convencional,927,Pedro Browne Urrejola,AMPL,IND,14,2017-06-09,2014-2018,2017,no compite,NA,NA,NA
+positivo,hacia_radical,935,José Manuel Edwards Silva,RN,PREP,11,2016-09-29,2014-2018,2017,Senado,IND-R,independiente,FALSE
+positivo,otras_convencional,948,Gaspar Rivas Sánchez,RN,IND,3,2014-08-07,2014-2018,2017,Senado,IND-R,independiente,FALSE
+positivo,otras_convencional,971,Bernardo Berger Fett,RN,IND,28,2020-11-25,2018-2022,2021,Diputados,RN,independiente,TRUE
+positivo,hacia_radical,1003,Renzo Trisotti Martínez,UDI,PREP,40,2023-11-28,2022-2026,2025,Senado,PREP,militante,TRUE
+positivo,otras_convencional,1011,Sandra Amar Mancilla,UDI,IND,27,2020-07-17,2018-2022,2021,Senado,UDI,independiente,FALSE
+positivo,otras_convencional,1017,Álvaro Carter Fernández,UDI,IND,27,2020-07-17,2018-2022,2021,Diputados,UDI,independiente,TRUE
+positivo,hacia_radical,1022,Sofía Cid Versalovic,RN,IND,41,2024-01-13,2022-2026,2025,Senado,PREP,militante,FALSE
+positivo,hacia_radical,1025,Catalina Del Real Mihovilovic,RN,PREP,39,2023-08-19,2022-2026,2025,Diputados,PREP,militante,TRUE
+positivo,hacia_radical,1040,Harry Jürgensen Rundshagen,RN,IND,28,2020-11-24,2018-2022,2021,Diputados,PREP,independiente,TRUE
+positivo,hacia_radical,1050,Miguel Mellado Suazo,RN,IND,47,2025-08-19,2022-2026,2025,no compite,NA,NA,NA
+positivo,hacia_radical,1054,Francesca Muñoz González,RN,PSC,36,2022-11-08,2022-2026,2025,Diputados,PSC,militante,TRUE
+positivo,hacia_radical,1069,Leonidas Romero Sáez,RN,PNL,32,2021-12-28,2018-2022,2025,no compite,NA,NA,NA
+positivo,otras_convencional,1080,Virginia Troncoso Hellman,UDI,IND,27,2020-07-17,2018-2022,2021,Senado,RN,independiente,FALSE
+positivo,hacia_radical,1082,Cristóbal Urruticoechea Ríos,RN,PREP,28,2020-11-19,2018-2022,2021,Diputados,PREP,militante,TRUE
+positivo,desde_radical,1082,Cristóbal Urruticoechea Ríos,PREP,PNL,42,2024-04-13,2022-2026,2025,Diputados,PNL,militante,TRUE
+positivo,hacia_radical,1094,Cristián Labbé Martínez,UDI,PNL,45,2025-03-05,2022-2026,2025,no compite,NA,NA,NA
+positivo,desde_radical,1119,Sara Concha Smith,PCC,PSC,36,2022-11-07,2022-2026,2025,Diputados,PSC,militante,TRUE
+positivo,desde_radical,1135,Johannes Kaiser Barents-Von Hohenhagen,PREP,PNL,41,2024-01-10,2022-2026,2025,no compite,NA,NA,NA
+positivo,desde_radical,1152,Gloria Naveillan Arriagada,PREP,PNL,35,2022-09-07,2022-2026,2025,Diputados,PNL,militante,TRUE
+positivo,desde_radical,1251,Macarena Santelices Cañas,PREP,IND,52,2026-10-07,2026-2030,NA,NA,NA,NA,NA
+negativo,hacia_radical,906,Jorge Ulloa Aguillón,UDI,NA,10,2016-05-31,2014-2018,2017,Diputados,UDI,militante,FALSE
+negativo,hacia_radical,1072,Gustavo Sanhueza Dueñas,UDI,NA,20,2018-12-17,2018-2022,2021,Senado,UDI,militante,TRUE
+negativo,otras_convencional,949,Marcela Sabat Fernández,RN,NA,10,2016-05-06,2014-2018,2017,Diputados,RN,militante,TRUE
+negativo,hacia_radical,995,Diego Paulsen Kehr,RN,NA,11,2016-09-29,2014-2018,2017,Diputados,RN,militante,TRUE
+negativo,otras_convencional,863,Rosauro Martínez Labbé,RN,NA,3,2014-08-07,2014-2018,2017,no compite,NA,NA,NA
+negativo,otras_convencional,1019,José Migue Castro Bascuñán,RN,NA,28,2020-11-25,2018-2022,2021,Diputados,RN,militante,TRUE
+negativo,hacia_radical,1065,Guillermo Ramírez Diez,UDI,NA,40,2023-11-28,2022-2026,2025,Diputados,UDI,militante,TRUE
+negativo,otras_convencional,989,Joaquín Lavín León,UDI,NA,27,2020-07-17,2018-2022,2021,Diputados,UDI,militante,TRUE
+negativo,otras_convencional,989,Joaquín Lavín León,UDI,NA,27,2020-07-17,2018-2022,2021,Diputados,UDI,militante,TRUE
+negativo,hacia_radical,1030,Camila Flores Oporto,RN,NA,41,2024-01-13,2022-2026,2025,Senado,RN,militante,TRUE
+negativo,hacia_radical,1030,Camila Flores Oporto,RN,NA,39,2023-08-19,2022-2026,2025,Senado,RN,militante,TRUE
+negativo,hacia_radical,1060,Luis Pardo Sáinz,RN,NA,28,2020-11-24,2018-2022,2021,Diputados,RN,militante,FALSE
+negativo,hacia_radical,1019,José Migue Castro Bascuñán,RN,NA,47,2025-08-19,2022-2026,2025,Diputados,RN,militante,FALSE
+negativo,hacia_radical,1067,Hugo Rey Martínez,RN,NA,36,2022-11-08,2022-2026,2025,Senado,RN,militante,FALSE
+negativo,hacia_radical,994,Paulina Núñez Urrutia,RN,NA,32,2021-12-28,2018-2022,2025,no compite,NA,NA,NA
+negativo,otras_convencional,875,Iván Norambuena Farías,UDI,NA,27,2020-07-17,2018-2022,2021,Senado,UDI,militante,FALSE
+negativo,hacia_radical,1019,José Migue Castro Bascuñán,RN,NA,28,2020-11-19,2018-2022,2021,Diputados,RN,militante,TRUE
+negativo,hacia_radical,1183,Flor Weisse Novoa,UDI,NA,45,2025-03-05,2022-2026,2025,Diputados,UDI,militante,TRUE

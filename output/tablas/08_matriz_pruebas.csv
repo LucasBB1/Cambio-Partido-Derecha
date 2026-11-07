@@ -1,0 +1,27 @@
+nombre,grupo,partido_origen,destino,fecha_salida,percentil_w01,percentil_w1,cambio_w01,cambio_w1,motivo_principal,motivo_secundario,tipo_detonante,dias_desde_detonante,siguiente,aro_prog,pistola_prog,aro_org,pistola_org,aro_carr,pistola_carr
+Joaquín Godoy Ibáñez,Otras salidas de la derecha convencional,AMPL,IND,2017-07-06,NA,NA,NA,NA,CONDUC,NA,NINGUNO,NA,2017 no compite,NA,FALSE,TRUE,FALSE,FALSE,FALSE
+José Antonio Kast Rist,Hacia la derecha radical,UDI,PREP,2016-05-31,0.93,0.59,-0.42,-0.38,CONDUC,CARRERA,CONFLICTO,NA,2017 Presidencia (IND),TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Karla Rubilar Barahona,Otras salidas de la derecha convencional,AMPL,IND,2015-05-15,0.33,0.33,0.47,0.47,CONDUC,NA,NINGUNO,NA,2017 no compite,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Ignacio Urrutia Bonilla,Hacia la derecha radical,UDI,PREP,2018-12-17,0.5,0.67,-0.13,-0.26,CARRERA,PROG,CANDIDATURA,NA,2021 no compite,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Germán Verdugo Soto,Otras salidas de la derecha convencional,RN,IND,2016-05-06,0.07,0.07,0.37,0.41,CONDUC,CARRERA,CONFLICTO,NA,"2017 Diputados UDI, no electo",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Pedro Browne Urrejola,Otras salidas de la derecha convencional,AMPL,IND,2017-06-09,NA,NA,NA,NA,CARRERA,NA,CANDIDATURA,NA,2017 no compite,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+José Manuel Edwards Silva,Hacia la derecha radical,RN,PREP,2016-09-29,0.93,0.64,0.06,0.23,CONDUC,CARRERA,CONFLICTO,NA,"2017 Senado IND-R (ind.), no electo",TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Gaspar Rivas Sánchez,Otras salidas de la derecha convencional,RN,IND,2014-08-07,0.06,0.06,-0.5,-0.68,PROG,CONDUC,NINGUNO,NA,"2017 Senado IND-R (ind.), no electo",FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+Bernardo Berger Fett,Otras salidas de la derecha convencional,RN,IND,2020-11-25,0.76,0.53,-0.06,0.03,CONDUC,NA,CONFLICTO,NA,"2021 Diputados RN (ind.), electo",TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Renzo Trisotti Martínez,Hacia la derecha radical,UDI,PREP,2023-11-28,0.95,0.5,0.49,0.69,CARRERA,NA,CANDIDATURA,NA,"2025 Senado PREP, electo",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Sandra Amar Mancilla,Otras salidas de la derecha convencional,UDI,IND,2020-07-17,0.24,0.72,-0.19,-0.45,DISC,NA,SANCION,1,"2021 Senado UDI (ind.), no electo",TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+Álvaro Carter Fernández,Otras salidas de la derecha convencional,UDI,IND,2020-07-17,0.17,0.24,-0.14,-0.22,DISC,NA,SANCION,1,"2021 Diputados UDI (ind.), electo",FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+Sofía Cid Versalovic,Hacia la derecha radical,RN,IND,2024-01-13,0.94,0.94,0.55,0.61,PERS,CARRERA,CANDIDATURA,NA,"2025 Senado PREP, no electo",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+Catalina Del Real Mihovilovic,Hacia la derecha radical,RN,PREP,2023-08-19,1,1,0.37,0.57,CONDUC,NA,CONFLICTO,75,"2025 Diputados PREP, electo",TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Harry Jürgensen Rundshagen,Hacia la derecha radical,RN,IND,2020-11-24,1,0.91,0.38,0.3,PROG,DISC,CONFLICTO,NA,"2021 Diputados PREP (ind.), electo",TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Miguel Mellado Suazo,Hacia la derecha radical,RN,IND,2025-08-19,0.88,0.71,0.25,0.6,CONDUC,PROG,CANDIDATURA,NA,2025 no compite,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Francesca Muñoz González,Hacia la derecha radical,RN,PSC,2022-11-08,0.16,0.26,0.09,0.08,CONDUC,CARRERA,CONFLICTO,NA,"2025 Diputados PSC, electo",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Leonidas Romero Sáez,Hacia la derecha radical,RN,PNL,2021-12-28,0.29,0.52,0.85,1.2,CARRERA,DISC,SANCION,107,2025 no compite,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Virginia Troncoso Hellman,Otras salidas de la derecha convencional,UDI,IND,2020-07-17,0.07,0.17,-0.37,-0.49,DISC,NA,SANCION,1,"2021 Senado RN (ind.), no electo",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Cristóbal Urruticoechea Ríos,Hacia la derecha radical,RN,PREP,2020-11-19,0.79,0.5,0.49,0.44,PROG,NA,CONFLICTO,NA,"2021 Diputados PREP, electo",TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Cristóbal Urruticoechea Ríos,Salidas de la derecha radical,PREP,PNL,2024-04-13,0.11,0.11,-0.05,0.01,ESC,NA,ESCANDALO,0,"2025 Diputados PNL, electo",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Cristián Labbé Martínez,Hacia la derecha radical,UDI,PNL,2025-03-05,1,1,0.27,0.44,PROG,CARRERA,CANDIDATURA,NA,2025 no compite,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Sara Concha Smith,Salidas de la derecha radical,PCC,PSC,2022-11-07,NA,NA,NA,NA,CARRERA,NA,CANDIDATURA,NA,"2025 Diputados PSC, electo",NA,FALSE,FALSE,FALSE,TRUE,FALSE
+Johannes Kaiser Barents-Von Hohenhagen,Salidas de la derecha radical,PREP,PNL,2024-01-10,0.78,1,-0.01,-0.06,CONDUC,CARRERA,SANCION,NA,2025 Presidencia (PNL),TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+Gloria Naveillan Arriagada,Salidas de la derecha radical,PREP,PNL,2022-09-07,0.1,0.1,-0.06,-0.32,CONDUC,DISC,SANCION,139,"2025 Diputados PNL, electo",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+Macarena Santelices Cañas,Salidas de la derecha radical,PREP,IND,2026-10-07,0.07,0.07,NA,NA,PROG,CONDUC,CONFLICTO,NA,sin elección aún,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
